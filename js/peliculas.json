@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "genero": "Accion",
+        "titulo": "Terminator",
+        "anio": 1984,
+        "img": "Acción/Terminator",
+        "link": "0088247",
+        "descrip": "Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será eliminar a Sarah Connor, la madre de John, e impedir así su nacimiento.",
+        "all": "all"
+    },
+    {
+        "id": "2",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Volver al futuro",
+        "anio": 1985,
+        "img": "Ciencia Ficción/Volver al futuro",
+        "link": "0088763",
+        "descrip": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+        "all": "all"
+    },
+    {
+        "id": "3",
+        "genero": "Comedia",
+        "titulo": "Scary Movie",
+        "anio": 2000,
+        "img": "Comedia/Scary Movie",
+        "link": "0175142",
+        "descrip": "Una bella estudiante muere asesinada. Un grupo de desorientados adolescentes descubre que entre ellos hay un asesino. La heroína Cyndi Campbell y su grupo de despistados amigos se verán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos, después de que lo atropellaran por accidente el pasado Halloween.",
+        "all": "all"
+    },
+    {
+        "id": "4",
+        "genero": "Crimen",
+        "titulo": "El Padrino",
+        "anio": 1972,
+        "img": "Crimen/El Padrino",
+        "link": "0068646",
+        "descrip": "América, años 40. Don Vito Corleone (Marlon Brando) es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: Connie (Talia Shire), el impulsivo Sonny (James Caan), el pusilánime Fredo (John Cazale) y Michael (Al Pacino), que no quiere saber nada de los negocios de su padre. Cuando Corleone, en contra de los consejos de 'Il consigliere' Tom Hagen (Robert Duvall), se niega a participar en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas.",
+        "all": "all"
+    },
+    {
+        "id": "5",
+        "genero": "Drama",
+        "titulo": "Bohemian Rhapsody",
+        "anio": 2018,
+        "img": "Drama/Bohemian Rhapsody",
+        "link": "1727824",
+        "descrip": "'Bohemian Rhapsody' es una celebración del grupo Queen, de su música y de su singular cantante Freddie Mercury, que desafió estereotipos para convertirse en uno de los showmans más queridos del mundo. El film plasma el meteórico ascenso de la banda al olimpo de la música a través de sus icónicas canciones y su revolucionario sonido, su crisis cuando el estilo de vida de Mercury estuvo fuera de control, y su triunfal reunión en la víspera del Live Aid, en la que Mercury, mientras sufría una enfermedad que amenazaba su vida, lidera a la banda en uno de los conciertos de rock más grandes de la historia. Refleja asimismo cómo se cimentó el legado de una banda que siempre se pareció más a una familia, y que continúa inspirando soñadores y amantes de la música hasta nuestros días.",
+        "all": "all"
+    },
+    {
+        "id": "6",
+        "genero": "Fantasia",
+        "titulo": "Avatar",
+        "anio": 2009,
+        "img": "Fantasía/Avatar",
+        "link": "0499549",
+        "descrip": "Año 2154. Jake Sully (Sam Worthington), un ex-marine condenado a vivir en una silla de ruedas, sigue siendo, a pesar de ello, un auténtico guerrero. Precisamente por ello ha sido designado para ir a Pandora, donde algunas empresas están extrayendo un mineral extraño que podría resolver la crisis energética de la Tierra. Para contrarrestar la toxicidad de la atmósfera de Pandora, se ha creado el programa Avatar, gracias al cual los seres humanos mantienen sus conciencias unidas a un avatar: un cuerpo biológico controlado de forma remota que puede sobrevivir en el aire letal. Esos cuerpos han sido creados con ADN humano, mezclado con ADN de los nativos de Pandora, los Na'vi. Convertido en avatar, Jake puede caminar otra vez. Su misión consiste en infiltrarse entre los Na'vi, que se han convertido en el mayor obstáculo para la extracción del mineral. Pero cuando Neytiri, una bella Na'vi (Zoe Saldana), salva la vida de Jake, todo cambia: Jake, tras superar ciertas pruebas, es admitido en su clan. Mientras tanto, los hombres esperan los resultados de la misión de Jake.",
+        "all": "all"
+    },
+    {
+        "id": "7",
+        "genero": "Historia",
+        "titulo": "1917",
+        "anio": 2019,
+        "img": "Historia/1917",
+        "link": "8579674",
+        "descrip": "En lo más crudo de la Primera Guerra Mundial, dos jóvenes soldados británicos, Schofield (George MacKay) y Blake (Dean-Charles Chapman) reciben una misión aparentemente imposible. En una carrera contrarreloj, deberán atravesar el territorio enemigo para entregar un mensaje que evitará un mortífero ataque contra cientos de soldados, entre ellos el propio hermano de Blake.",
+        "all": "all"
+    },
+    {
+        "id": "8",
+        "genero": "Horror",
+        "titulo": "El conjuro",
+        "anio": 2013,
+        "img": "Horror/El conjuro",
+        "link": "1457767",
+        "descrip": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
+        "all": "all"
+    },
+    {
+        "id": "9",
+        "genero": "Infantil",
+        "titulo": "Cars",
+        "anio": 2006,
+        "img": "Infantil/Cars",
+        "link": "0317219",
+        "descrip": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+        "all": "all"
+    },
+    {
+        "id": "10",
+        "genero": "Thriller",
+        "titulo": "Memento",
+        "anio": 2000,
+        "img": "Thriller/Memento",
+        "link": "0209144",
+        "descrip": "La memoria de Leonard, un investigador de una agencia de seguros, está irreversiblemente dañada debido a un golpe sufrido en la cabeza cuando intentaba evitar el asesinato de su mujer: éste es el último hecho que recuerda del pasado. La memoria reciente la ha perdido: los hechos cotidianos desaparecen de su mente en unos minutos. Así pues, para investigar e intentar vengar el asesinato de su esposa tiene que recurrir a la ayuda de una cámara instantánea y a las notas tatuadas en su cuerpo.",
+        "all": "all"
+    }
+]
