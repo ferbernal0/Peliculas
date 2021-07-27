@@ -375,6 +375,17 @@
     },
     {
         "id": "35",
+        "genero": "Crimen",
+        "titulo": "Atrapado por su pasado",
+        "anio": 1993,
+        "tiempo": "2h 25m",
+        "img": "102072",
+        "link": "0106519",
+        "descrip": "Carlitos Brigante, un antiguo traficante de heroína de origen portorriqueño, sale de la cárcel después de cinco años de reclusión, dispuesto a dejar el tráfico de drogas. Con la ayuda de un abogado cocainómano consigue hacerse socio de un club nocturno e intenta reanudar la relación con su exnovia, pero no es fácil seguir el buen camino dentro del mundo del crimen.",
+        "all": "all"
+    },
+    {
+        "id": "36",
         "genero": "Drama",
         "titulo": "Atrapado sin salida",
         "anio": 1975,
@@ -385,7 +396,7 @@
         "all": "all"
     },
     {
-        "id": "36",
+        "id": "37",
         "genero": "Fantasia",
         "titulo": "Avatar",
         "anio": 2009,
@@ -396,7 +407,7 @@
         "all": "all"
     },
     {
-        "id": "37",
+        "id": "38",
         "genero": "Infantil",
         "titulo": "Aviones",
         "anio": 2013,
@@ -407,7 +418,7 @@
         "all": "all"
     },
     {
-        "id": "38",
+        "id": "39",
         "genero": "Infantil",
         "titulo": "Aviones 2: Equipo de rescate",
         "anio": 2014,
@@ -418,7 +429,7 @@
         "all": "all"
     },
     {
-        "id": "39",
+        "id": "40",
         "genero": "Infantil",
         "titulo": "Bambi",
         "anio": 1942,
@@ -429,7 +440,7 @@
         "all": "all"
     },
     {
-        "id": "40",
+        "id": "41",
         "genero": "Historia",
         "titulo": "Bastardos sin gloria",
         "anio": 2009,
@@ -440,7 +451,7 @@
         "all": "all"
     },
     {
-        "id": "41",
+        "id": "42",
         "genero": "Ciencia-Ficcion",
         "titulo": "Batman",
         "anio": 1989,
@@ -451,7 +462,7 @@
         "all": "all"
     },
     {
-        "id": "42",
+        "id": "43",
         "genero": "Ciencia-Ficcion",
         "titulo": "Batman regresa ",
         "anio": 1992,
@@ -462,7 +473,7 @@
         "all": "all"
     },
     {
-        "id": "43",
+        "id": "44",
         "genero": "Ciencia-Ficcion",
         "titulo": "Batman eternamente",
         "anio": 1995,
@@ -473,7 +484,7 @@
         "all": "all"
     },
     {
-        "id": "44",
+        "id": "45",
         "genero": "Ciencia-Ficcion",
         "titulo": "Batman y Robin",
         "anio": 1997,
@@ -484,7 +495,7 @@
         "all": "all"
     },
     {
-        "id": "45",
+        "id": "46",
         "genero": "Thriller",
         "titulo": "Beast",
         "anio": 2017,
@@ -495,7 +506,7 @@
         "all": "all"
     },
     {
-        "id": "46",
+        "id": "47",
         "genero": "Infantil",
         "titulo": "Bee movie, la historia de una abeja",
         "anio": 2007,
@@ -506,7 +517,7 @@
         "all": "all"
     },
     {
-        "id": "47",
+        "id": "48",
         "genero": "Thriller",
         "titulo": "Beirut",
         "anio": 2018,
@@ -517,7 +528,7 @@
         "all": "all"
     },
     {
-        "id": "48",
+        "id": "49",
         "genero": "Drama",
         "titulo": "Belleza americana",
         "anio": 1999,
@@ -528,7 +539,7 @@
         "all": "all"
     },
     {
-        "id": "49",
+        "id": "50",
         "genero": "Historia",
         "titulo": "Ben-Hur",
         "anio": 1959,
@@ -539,7 +550,7 @@
         "all": "all"
     },
     {
-        "id": "50",
+        "id": "51",
         "genero": "Infantil",
         "titulo": "Bichos: una aventura en miniatura",
         "anio": 1998,
@@ -550,7 +561,7 @@
         "all": "all"
     },
     {
-        "id": "51",
+        "id": "52",
         "genero": "Infantil",
         "titulo": "Blancanieves y los siete enanos",
         "anio": 1937,
@@ -561,7 +572,7 @@
         "all": "all"
     },
     {
-        "id": "52",
+        "id": "53",
         "genero": "Historia",
         "titulo": "Blizzard of Souls",
         "anio": 2019,
@@ -572,7 +583,7 @@
         "all": "all"
     },
     {
-        "id": "53",
+        "id": "54",
         "genero": "Drama",
         "titulo": "Bohemian Rhapsody",
         "anio": 2018,
@@ -583,7 +594,7 @@
         "all": "all"
     },
     {
-        "id": "54",
+        "id": "55",
         "genero": "Infantil",
         "titulo": "Bolt: Un perro fuera de serie",
         "anio": 2008,
@@ -594,7 +605,7 @@
         "all": "all"
     },
     {
-        "id": "55",
+        "id": "56",
         "genero": "Comedia",
         "titulo": "Borat",
         "anio": 2006,
@@ -605,7 +616,7 @@
         "all": "all"
     },
     {
-        "id": "56",
+        "id": "57",
         "genero": "Comedia",
         "titulo": "Borat 2",
         "anio": 2020,
@@ -616,7 +627,7 @@
         "all": "all"
     },
     {
-        "id": "57",
+        "id": "58",
         "genero": "Crimen",
         "titulo": "Buenos muchachos",
         "anio": 1990,
@@ -627,7 +638,7 @@
         "all": "all"
     },
     {
-        "id": "58",
+        "id": "59",
         "genero": "Infantil",
         "titulo": "Buscando a Nemo",
         "anio": 2003,
@@ -638,7 +649,7 @@
         "all": "all"
     },
     {
-        "id": "59",
+        "id": "60",
         "genero": "Infantil",
         "titulo": "Buscando a Dory",
         "anio": 2016,
@@ -649,7 +660,7 @@
         "all": "all"
     },
     {
-        "id": "60",
+        "id": "61",
         "genero": "Historia",
         "titulo": "Caballo de guerra",
         "anio": 2011,
@@ -657,6 +668,424 @@
         "img": "66047",
         "link": "1568911",
         "descrip": "En un pueblo inglés, Albert, el hijo de un granjero, ve nacer un potrillo. Poco después, su padre lo adquiere en una subasta, y el chico le pone de nombre Joey. Pero la familia se arruina y no tiene más remedio que vender el caballo justo cuando estalla la Primera Guerra Mundial (1914-1918). Ése es el punto de partida de un viaje en el que tanto Albert como Joey lucharán por sobrevivir a la contienda y volver a estar juntos.",
+        "all": "all"
+    },
+    {
+        "id": "62",
+        "genero": "Thriller",
+        "titulo": "Calibre",
+        "anio": 2018,
+        "tiempo": "1h 42m",
+        "img": "164539",
+        "link": "6218358",
+        "descrip": "Durante un fin de semana de caza en los highland escoceses, dos viejos amigos se encuentran, tras un dramático incidente, en una trágica situación que pondrá en peligro sus vidas.",
+        "all": "all"
+    },
+    {
+        "id": "63",
+        "genero": "Crimen",
+        "titulo": "Calles salvajes",
+        "anio": 1973,
+        "tiempo": "1h 52m",
+        "img": "164540",
+        "link": "0070379",
+        "descrip": "Nueva York, 1972. Charlie es un joven italoamericano de 27 años que trata de ascender en la mafia de Nueva York, pero dicho ascenso se ve obstaculizado por su sentimiento de responsabilidad hacia su imprudente amigo, Johnny Boy.",
+        "all": "all"
+    },
+    {
+        "id": "64",
+        "genero": "Accion",
+        "titulo": "Caminando entre tumbas",
+        "anio": 2014,
+        "tiempo": "1h 55m",
+        "img": "164541",
+        "link": "0365907",
+        "descrip": "Matt Scudder es un expolicía de Nueva York que trabaja como detective privado a pesar de que no tiene licencia. Cuando accede a regañadientes a ayudar a un traficante de heroína a cazar a los hombres que secuestraron y asesinaron brutalmente a su esposa, descubre que no es la primera vez que esos hombres han cometido este tipo de crímenes. Entonces decide recorrer las calles de Nueva York para detener a los asesinos antes de que vuelvan a matar.",
+        "all": "all"
+    },
+    {
+        "id": "65",
+        "genero": "Crimen",
+        "titulo": "Camino a la perdición",
+        "anio": 2002,
+        "tiempo": "1h 57m",
+        "img": "113850",
+        "link": "0257044",
+        "descrip": "En los oscuros años de la Gran Depresión, Michael Sullivan es un asesino a sueldo que profesa una lealtad inquebrantable a su jefe, el señor Rooney, pero es también un buen padre de familia. Son tiempos duros en Rock Island, donde domina la mafia irlandesa, la Ley Seca sigue vigente y los gángsteres, especialmente Al Capone en Chicago, están en la cima del poder. Un día, inesperadamente, el hijo de Sullivan, Michael Jr., decide seguir a su padre para saber en qué consiste exactamente su trabajo.",
+        "all": "all"
+    },
+    {
+        "id": "66",
+        "genero": "Drama",
+        "titulo": "Capitán de mar y guerra: La costa más lejana del mundo",
+        "anio": 2003,
+        "tiempo": "2h 19m",
+        "img": "104378",
+        "link": "0311113",
+        "descrip": "Guerras napoleónicas, año 1805. Bonaparte domina Europa. Inglaterra consigue resistir porque es la primera potencia naval del mundo. Precisamente por eso los mares se convierten en un crucial y estratégico campo de batalla. En el Atlántico, el Surprise, un navío inglés capitaneado por Jack Aubrey, es atacado por sorpresa por un buque de guerra francés. A pesar de los graves daños sufridos por la nave, Aubrey decide navegar a través de dos mares para interceptar y capturar al enemigo. Se trata de una misión que puede determinar el destino de toda una nación.",
+        "all": "all"
+    },
+    {
+        "id": "67",
+        "genero": "Drama",
+        "titulo": "Capitán Phillips",
+        "anio": 2013,
+        "tiempo": "2h 15m",
+        "img": "164546",
+        "link": "1535109",
+        "descrip": "Año 2009, en el cuerno de África. En aguas internacionales a 145 millas de la costa de Somalia, el buque carguero “Maersk Alabama”, al mando del capitán de la marina mercante estadounidense Richard Phillips, fue abordado y retenido por piratas somalíes, siendo el primer barco norteamericano secuestrado en los últimos doscientos años.",
+        "all": "all"
+    },
+    {
+        "id": "68",
+        "genero": "Crimen",
+        "titulo": "Caracortada",
+        "anio": 1983,
+        "tiempo": "2h 50m",
+        "img": "164547",
+        "link": "0086250",
+        "descrip": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
+        "all": "all"
+    },
+    {
+        "id": "69",
+        "genero": "Infantil",
+        "titulo": "Cars",
+        "anio": 2006,
+        "tiempo": "1h 57m",
+        "img": "149945",
+        "link": "0317219",
+        "descrip": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+        "all": "all"
+    },
+    {
+        "id": "70",
+        "genero": "Infantil",
+        "titulo": "Cars 2",
+        "anio": 2011,
+        "tiempo": "1h 48m",
+        "img": "149946",
+        "link": "1216475",
+        "descrip": "Rayo McQueen y su amigo, la grúa Mate, viajan al extranjero para participar en el primer Campeonato Mundial en el que se decidirá cuál es el coche más rápido del planeta. La primera escala es Tokio (Japón), donde Mate tendrá que convertirse en un espía secreto al verse envuelto inesperadamente en un caso de espionaje internacional, que lo llevará a París y a Londres. También vivirán una aventura de proporciones épicas al viajar a Porto Corsa (Italia), para disputar el Campeonato. Sin embargo, los dos tendrán que renunciar a los placeres de la Riviera italiana -yates, playas y pasta al pesto- ya que Mate está muy ocupado con su labor de espía, mientras que McQueen compite contra los mejores coches del mundo.",
+        "all": "all"
+    },
+    {
+        "id": "71",
+        "genero": "Infantil",
+        "titulo": "Cars 3",
+        "anio": 2017,
+        "tiempo": "1h 43m",
+        "img": "149947",
+        "link": "3606752",
+        "descrip": "Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston! ",
+        "all": "all"
+    },
+    {
+        "id": "72",
+        "genero": "Crimen",
+        "titulo": "Casino",
+        "anio": 1995,
+        "tiempo": "2h 59m",
+        "img": "33543",
+        "link": "0112641",
+        "descrip": "Las Vegas, 1973. Sam 'Ace' Rothstein, un profesional de las apuestas, es el eficaz director de un importante casino que pertenece a un grupo de mafiosos. Su misión es controlar el funcionamiento del negocio y garantizar que la corriente de dinero que va a parar a manos de sus jefes siga fluyendo. Las Vegas es un lugar ideal para millonarios y políticos, pero es también lugar de paso de tahúres, prestamistas, traficantes de drogas y matones. Un día el violento Nicky Santoro, al que sus jefes han encargado que cuide de Sam, llega a Las Vegas con la intención de quedarse.",
+        "all": "all"
+    },
+    {
+        "id": "73",
+        "genero": "Drama",
+        "titulo": "Cherry",
+        "anio": 2021,
+        "tiempo": "2h 22m",
+        "img": "124968",
+        "link": "9130508",
+        "descrip": "Cuenta la historia real de Nico Walker, que volvió de la guerra de Iraq con un trastorno de estrés postraumático no diagnosticado que le llevó primero a hacerse adicto al opio y posteriormente a robar bancos.",
+        "all": "all"
+    },
+    {
+        "id": "74",
+        "genero": "Infantil",
+        "titulo": "Chicken Little",
+        "anio": 2005,
+        "tiempo": "1h 21m",
+        "img": "152818",
+        "link": "0371606",
+        "descrip": "Ha transcurrido un año desde el 'desafortunado incidente de la bellota', cuando Chicken Little causó un gran revuelo en su pueblo natal de Oakey Oaks al proclamar que el cielo se estaba cayendo tras ser golpeado en la cabeza por lo que aparentemente era una bellota. Sin contemplaciones, el valiente pollito se une al equipo local de béisbol con la esperanza de restablecer su reputación y ganarse el respeto de su padre, Buck Cluck. Cuando él conduce al pueblo a una inesperada victoria, se convierte en el centro de toda la atención. Pero tan pronto como el pollito campeón es redimido, vuelve a recibir otro golpe en la cabeza. ¡Y esta vez el cielo sí se está cayendo! Temeroso de ser tachado una vez más de loco, se niega a decirle a nadie lo que ha sucedido. En lugar de eso, recluta la ayuda de sus amigos más cercanos en un intento por salvar el mundo sin hacer que todo el pueblo entre nuevamente en pánico.",
+        "all": "all"
+    },
+    {
+        "id": "75",
+        "genero": "Infantil",
+        "titulo": "Cigüeñas: La historia que no te contaron",
+        "anio": 2016,
+        "tiempo": "1h 27m",
+        "img": "99705",
+        "link": "4624424",
+        "descrip": "En Montaña Cigüeña, viven las cigüeñas que hace tiempo enviaban bebés a los padres de todo el mundo. Ahora distribuyen los paquetes de una compañía mundial de Internet. Junior, la mejor cigüeña repartidora de la compañía, está a punto de conseguir un ascenso, pero accidentalmete activa la Máquina de Producción de Bebés y el resultado es una adorable niña ilegal. Para evitar que su jefe se entere, Junior y su amiga Tulip, el único ser humano de Montaña Cigüeña, se apresuran a entregar el bebé en un viaje salvaje que podría afectar a la integridad de más de una familia y restablecer la verdadera misión de las cigüeñas en el mundo.",
+        "all": "all"
+    },
+    {
+        "id": "76",
+        "genero": "Infantil",
+        "titulo": "Coco",
+        "anio": 2017,
+        "tiempo": "1h 46m",
+        "img": "149963",
+        "link": "2380307",
+        "descrip": "Miguel es un joven con el sueño de convertirse en leyenda de la música a pesar de la prohibición de su familia. Su pasión le llevará a adentrarse en la 'Tierra de los Muertos' para conocer su verdadero legado familiar.",
+        "all": "all"
+    },
+    {
+        "id": "77",
+        "genero": "Horror",
+        "titulo": "Color Out of Space",
+        "anio": 2019,
+        "tiempo": "1h 50m",
+        "img": "46164",
+        "link": "5073642",
+        "descrip": "Un meteorito se estrella cerca de la granja de los Gardner, liberando un organismo extraterrestre que convierte la tranquila vida rural de la familia en una pesadilla colorista y alucinógena.",
+        "all": "all"
+    },
+    {
+        "id": "78",
+        "genero": "Infantil",
+        "titulo": "Cómo entrenar a tu dragón",
+        "anio": 2010,
+        "tiempo": "1h 38m",
+        "img": "148617",
+        "link": "0892769",
+        "descrip": "Ambientada en el mítico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de acción narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquísima reputación de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragón que le desafía a él y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente.",
+        "all": "all"
+    },
+    {
+        "id": "79",
+        "genero": "Infantil",
+        "titulo": "Cómo entrenar a tu dragón 2",
+        "anio": 2014,
+        "tiempo": "1h 42m",
+        "img": "148626",
+        "link": "1646971",
+        "descrip": "Han pasado cinco años desde que Hipo empezó a entrenar a su dragón, rompiendo la tradición vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhóspitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardián. Hipo y los suyos se unen al guardián para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.",
+        "all": "all"
+    },
+    {
+        "id": "80",
+        "genero": "Infantil",
+        "titulo": "Cómo entrenar a tu dragón 3",
+        "anio": 2019,
+        "tiempo": "1h 45m",
+        "img": "148633",
+        "link": "2386490",
+        "descrip": "Lo que comenzó como la inesperada amistad entre un joven vikingo y un temible dragón Furia Nocturna se ha convertido en una épica trilogía que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubrirán finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el líder de su especie. Pero, por el camino, deberán poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamás hayan afrontado... y a la aparición de una Furia Nocturna hembra.",
+        "all": "all"
+    },
+    {
+        "id": "81",
+        "genero": "Accion",
+        "titulo": "Constantine",
+        "anio": 2005,
+        "tiempo": "2h 01m",
+        "img": "164554",
+        "link": "0360486",
+        "descrip": "John Constantine ha estado en el infierno y ha vuelto. Nacido con un don que no deseaba, la capacidad de reconocer claramente a los ángeles y a los demonios híbridos que andan por la Tierra bajo un aspecto humano, Constantine se vio empujado a quitarse la vida para escapar de sus visiones atormentadoras. Sin embargo, en contra de su voluntad resucitó y se vio de nuevo en el mundo de los vivos; aunque debido a su intento de suicidio se convirtió en un ser mortal. A partir de entonces, patrulla la frontera terrenal entre el cielo y el infierno, esperando en vano ganarse la salvación enviando a los esbirros del diablo de vuelta a las profundidades. Pero Constantine no es ningún santo: desilusionado por el mundo que le rodea y enfrentado con el más allá, es un héroe amargado que fuma en exceso, lleva una vida dura y desprecia la sola idea de heroísmo. Cuando una desesperada pero escéptica detective de policía consigue su ayuda para resolver la misteriosa muerte de su querida hermana gemela, su investigación les lleva a través del mundo de demonios y ángeles que está bajo Los Angeles. Atrapados en una serie de eventos sobrenaturales catastróficos, los dos se encuentran involucrados y tratan de encontrar su propia paz a cualquier precio.",
+        "all": "all"
+    },
+    {
+        "id": "82",
+        "genero": "Thriller",
+        "titulo": "Control total",
+        "anio": 2008,
+        "tiempo": "1h 58m",
+        "img": "157512",
+        "link": "1059786",
+        "descrip": "Jerry Shaw, un joven inteligente pero inadaptado cuyo hermano gemelo acaba de morir en extrañas circustancias, y Rachel Holloman, una joven madre soltera cuyo hijo está en peligro, se ven de repente juntos e involucrados en una complicada trama de terrorismo que gira en torno a una misteriosa voz que parece controlar sus vidas.",
+        "all": "all"
+    },
+    {
+        "id": "83",
+        "genero": "Historia",
+        "titulo": "Corazón valiente",
+        "anio": 1995,
+        "tiempo": "2h 58m",
+        "img": "59649",
+        "link": "0112573",
+        "descrip": "En el siglo XIV, los escoceses viven oprimidos por los gravosos tributos y las injustas leyes impuestas por los ingleses. William Wallace es un joven escocés que regresa a su tierra despues de muchos años de ausencia. Siendo un niño, toda su familia fue asesinada por los ingleses, razón por la cual se fue a vivir lejos con un tío suyo.",
+        "all": "all"
+    },
+    {
+        "id": "84",
+        "genero": "Historia",
+        "titulo": "Corazones de hierro",
+        "anio": 2014,
+        "tiempo": "2h 15m",
+        "img": "164555",
+        "link": "2713180",
+        "descrip": "Abril de 1945, la guerra está a punto de acabar. Al mando del veterano sargento Wardaddy, una brigada de cinco soldados americanos a bordo de un tanque ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
+        "all": "all"
+    },
+    {
+        "id": "85",
+        "genero": "Comedia",
+        "titulo": "Muertos de risa",
+        "anio": 2004,
+        "tiempo": "1h 40m",
+        "img": "60579",
+        "link": "0365748",
+        "descrip": "Una comedia romántica... con zombies. La vida de Shaun es un callejón sin salida. Se pasa la vida en la taberna local, 'The Winchester', con su íntimo amigo Ed, discute con su madre y descuida a su novia, Liz. Cuando Liz le deja plantado, Shaun decide, finalmente, poner su vida en orden: tiene que reconquistar el corazón de su novia, mejorar las relaciones con su madre y enfrentarse a las responsabilidades de un adulto. Pero, por desgracia, los muertos están volviendo a la vida, y tratan de devorar a los vivos. Así que Shaun tendrá que enfrentarse a un problema más. Armado con un palo de cricket y una pala, emprende una guerra sin cuartel contra una horda de zombies para rescatar a su madre, a su novia e incluso, aunque a regañadientes, a su padrastro, al de su novia... llevándolos a todos al lugar más seguro y protegido que conoce: 'The Winchester'.",
+        "all": "all"
+    },
+    {
+        "id": "86",
+        "genero": "Comedia",
+        "titulo": "Arma fatal",
+        "anio": 2007,
+        "tiempo": "2h 01m",
+        "img": "60580",
+        "link": "0425112",
+        "descrip": "Un superpolicía londinense, de los que disparan a dos manos y saltan sobre el capó de los coches en marcha, es enviado a un pueblecito de la campiña inglesa que, en realidad, no es tan tranquilo como parece.",
+        "all": "all"
+    },
+    {
+        "id": "87",
+        "genero": "Comedia",
+        "titulo": "Este es el fin",
+        "anio": 2013,
+        "tiempo": "1h 50m",
+        "img": "60581",
+        "link": "1213663",
+        "descrip": "Cinco amigos de la infancia se reúnen después de 20 años porque uno de ellos está empeñado en volver a probar suerte en un maratón alcohólico que nunca pudieron llegar a completar. Gary King, un cuarentón que todavía no ha conseguido superar la adolescencia, convence a sus cuatro reacios amigos y los arrastra a su pueblo natal en un desesperado intento por llegar al famoso pub 'The World's End'. Pero mientras intentan reconciliar el presente con el pasado, empiezan a darse cuenta de que la auténtica lucha debe librarse por el futuro, y no solo el suyo, sino el de toda la humanidad. Llegar al pub “The World’s End” es ahora el último de sus problemas.",
+        "all": "all"
+    },
+    {
+        "id": "88",
+        "genero": "Thriller",
+        "titulo": "Corre, Lola, corre",
+        "anio": 1998,
+        "tiempo": "1h 20m",
+        "img": "164556",
+        "link": "0130827",
+        "descrip": "Dos amantes disponen tan sólo de unos minutos para cambiar el curso de sus vidas. Lola recibe una llamada desesperada de su novio Manni, que acaba de perder una pequeña fortuna que pertenece a un jefe de la mafia para el que trabaja. Si Lola no consigue el dinero en veinte minutos, Manni sufrirá las consecuencias.",
+        "all": "all"
+    },
+    {
+        "id": "89",
+        "genero": "Thriller",
+        "titulo": "Crimen perfecto",
+        "anio": 2007,
+        "tiempo": "1h 54m",
+        "img": "164557",
+        "link": "0488120",
+        "descrip": "Willy Beachum es un joven y ambicioso fiscal cuya carrera está empezando a despegar. Por otra parte, Ted Crawford es un ingeniero de mediana edad que acaba de disparar a su mujer a sangre fría. El destino los enfrentará en el consiguiente juicio. Crawford resulta ser un individuo tan complejo e impredecible como el crimen que ha cometido, de modo que las acusaciones de Willy empiezan a desmoronarse al mismo tiempo que su futuro profesional.",
+        "all": "all"
+    },
+    {
+        "id": "90",
+        "genero": "Drama",
+        "titulo": "Crisis",
+        "anio": 2021,
+        "tiempo": "1h 59m",
+        "img": "151376",
+        "link": "9731682",
+        "descrip": "Tres historias sobre el mundo de los opiáceos chocan entre sí: un traficante de drogas planea una operación que implica a varios cárteles entre Canadá y los Estados Unidos; una arquitecta que se recupera de una fuerte adicción al OxyContin descubre la verdad que esconde su hijo de su relación con la droga; un profesor de universidad trata de averiguar qué relación une al gobierno con una compañía farmacéutica que está diseñando un nuevo analgésico que aseguran no 'provoca ninguna adicción'.",
+        "all": "all"
+    },
+    {
+        "id": "91",
+        "genero": "Historia",
+        "titulo": "Cruzada",
+        "anio": 2005,
+        "tiempo": "3h 14m",
+        "img": "74216",
+        "link": "0320661",
+        "descrip": "Siglo XII, Europa entera está inmersa en las Cruzadas para recuperar la Tierra Santa. Godofredo de Ibelin, caballero respetado por el rey de Jerusalén y comprometido con el mantenimiento de la paz en la región, emprende la búsqueda de su hijo ilegítimo Balian, joven herrero francés que llora la pérdida de su mujer y su hijo. Godofredo convence a su hijo para que lo acompañe en su misión. Tras la muerte de su padre, Balian hereda sus tierras y su título de caballero en Jerusalén, ciudad en la que cristianos, musulmanes y judíos han conseguido convivir pacíficamente durante la tregua entre la Segunda y la Tercera Cruzada. Con una fidelidad inquebrantable, Balian sirve a su rey y, además, se enamora de la princesa Sibylla, la enigmática hermana del monarca.",
+        "all": "all"
+    },
+    {
+        "id": "92",
+        "genero": "Drama",
+        "titulo": "Cuestión de honor",
+        "anio": 1992,
+        "tiempo": "2h 19m",
+        "img": "42482",
+        "link": "0104257",
+        "descrip": "El teniente Daniel Kaffee es un joven y prometedor abogado de la Marina que tiene una excelente reputación. Sus superiores le confían la defensa de dos marines acusados de asesinato. A primera vista, el caso no parece complicado. Pero cuando tenga que vérselas con el Coronel Nathan R. Jessup, Comandante en Jefe de la base de Guantánamo, saldrán a la luz nuevas pistas que harán que el caso adquiera dimensiones insospechadas.",
+        "all": "all"
+    },
+    {
+        "id": "93",
+        "genero": "Thriller",
+        "titulo": "Culpable o inocente",
+        "anio": 2011,
+        "tiempo": "1h 59m",
+        "img": "94548",
+        "link": "1189340",
+        "descrip": "Mickey Haller, un astuto abogado de Los Ángeles, se ha especializado en defender a criminales de poca monta procedentes de los barrios bajos. Cuando se le presenta la oportunidad de defender al joven Louis Roulet, un rico heredero de Beverly Hills, acusado de intento de asesinato de una prostituta, su carrera da un vuelco, pues esto significa percibir unos ingresos muy superiores a los habituales. Sin embargo, aunque el caso es aparentemente sencillo, todo se va complicando según avanza la investigación...",
+        "all": "all"
+    },
+    {
+        "id": "94",
+        "genero": "Thriller",
+        "titulo": "Desapareció una noche",
+        "anio": 2007,
+        "tiempo": "1h 54m",
+        "img": "34084",
+        "link": "0452623",
+        "descrip": "A dos detectives privados de Boston, Patrick Kenzie y Angela Gennaro, los contrata una familia para que encuentren a una niña de cuatro años, hija de una drogadicta, que ha sido secuestrada en uno de los barrios más sórdidos de la ciudad.",
+        "all": "all"
+    },
+    {
+        "id": "95",
+        "genero": "Thriller",
+        "titulo": "Diamante de sangre",
+        "anio": 2006,
+        "tiempo": "2h 24m",
+        "img": "42857",
+        "link": "0450259",
+        "descrip": "Historia sobre el tráfico ilegal de diamantes. En 1999, Sierra Leona vive una terrible guerra civil. Un contrabandista especializado en la venta de piedras preciosas, cuyos beneficios sirven para financiar tanto a los rebeldes como al gobierno, conoce a un pescador nativo que enterró un enorme diamante cuando trabajaba como esclavo para los rebeldes.",
+        "all": "all"
+    },
+    {
+        "id": "96",
+        "genero": "Crimen",
+        "titulo": "Diamantes en bruto",
+        "anio": 2019,
+        "tiempo": "2h 16m",
+        "img": "35207",
+        "link": "5727208",
+        "descrip": "Con las deudas amontonándose y los matones pisándole los talones, un deslenguado joyero de Nueva York lo arriesga todo con la esperanza de mantenerse a flote. Y vivo.",
+        "all": "all"
+    },
+    {
+        "id": "97",
+        "genero": "Infantil",
+        "titulo": "Dinosaurio",
+        "anio": 2000,
+        "tiempo": "1h 22m",
+        "img": "152819",
+        "link": "0130623",
+        "descrip": "Prehistoria, hace 65 millones de años, al final del periodo cretáceo. Un iguanodonte de tres toneladas llamado Aladar se cría separado de los de su especie y crece en una isla paradisiaca al amparo de un clan de lémures. Cuando una devastadora lluvia de meteoritos provoca el caos en su pacífico mundo, Aladar pone rumbo a tierra firme y se une a un grupo de dinosaurios que buscan desesperadamente un lugar donde anidar en paz. Pero el agua y la comida empiezan a escasear, y los carnotaurios, sedientos de sangre fresca, representan un peligro constante. Es entonces cuando Aladar se ve obligado a desafiar el 'orden establecido' y demuestra que saber adaptarse a cualquier situación es la mejor manera de sobrevivir.",
+        "all": "all"
+    },
+    {
+        "id": "98",
+        "genero": "Infantil",
+        "titulo": "Diversión y fantasía",
+        "anio": 1947,
+        "tiempo": "1h 13m",
+        "img": "156181",
+        "link": "0039404",
+        "descrip": "El noveno clásico Disney está lleno de magia, aventura y divertidas canciones. Es el único en el que participan tus personajes favoritos: Mickey Mouse, el Pato Donald, Goofy y Pepito Grillo.",
+        "all": "all"
+    },
+    {
+        "id": "99",
+        "genero": "Infantil",
+        "titulo": "Dos personajes fabulosos",
+        "anio": 1949,
+        "tiempo": "1h 09m",
+        "img": "156183",
+        "link": "0041094",
+        "descrip": "Adaptación del conocido cuento de Washington Irving. Icabod Crane llega a la pequeña localidad de Sleepy Hollow, donde, según la leyenda, habita un fantasma sin cabeza...",
         "all": "all"
     }
 ]
