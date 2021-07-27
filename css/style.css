@@ -9,11 +9,9 @@ body {
     background-color: black;
     font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif; }
 
-
-header {
-    position: relative;
-    z-index: 100;
-    width: 100%; }
+header img {
+    width: 150px;
+    border-radius: 15px; }
 
 article {
     color: white; }
@@ -34,8 +32,8 @@ article {
     background-color: #0a0a0a;
     text-align: center;
     width: 40vw;
-    font-size: 20px;
-    border-radius: 3px; }
+    font-size: 1.5rem;
+    border-radius: 20px; }
 
 .submit-buscador {
     display: none; }
@@ -75,9 +73,9 @@ article {
             padding-left: 10px;
             padding-right: 10px;
             border-radius: 20px;
-            font-size: 14px; }
+            font-size: 1.25rem; }
         #generos-filtrar li a:hover{
-            background-color: rgba(50, 50, 50);
+            background-color: rgba(0, 139, 139, 0.5);
             transition: 0.25s; }
 
 .genero {
@@ -93,12 +91,18 @@ article {
     color: white; }
 
 .btn-close {
-    background-color: white; }
+    background-color: cyan; }
     .btn-close:hover {
-        background-color: #FFC107; }
+        background-color: cyan; }
 
 .btn {
+    border: none;
     box-shadow: none !important; }
 
+.btn-warning {
+    background-color: darkcyan; }
+.btn-warning:hover {
+    background-color: cyan; }
+
 .duracion {
-    color: #FFC107; }
+    color: darkcyan; }

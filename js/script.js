@@ -66,7 +66,7 @@ function cargarListaPeliculas(peliculas) {
         const listaPeliculas = document.querySelector('#lista-peliculas');
 		const { img, id } = pelicula;
 		const divPelicula = document.createElement('div');
-		divPelicula.classList.add('col-lg-2', 'col-md-3', 'col-sm-5','col-xs-4', 'd-flex', 'justify-content-center','aling-item-center', 'section-pelicula');
+		divPelicula.classList.add('d-flex', 'justify-content-center','aling-item-center', 'section-pelicula');
 		divPelicula.innerHTML =
         `<div class="container-fluid justify-content-center" id="pelicula-lista">
             <div class="d-flex justify-content-center col-12">
