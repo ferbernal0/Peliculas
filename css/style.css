@@ -41,13 +41,13 @@ article {
     display: none; }
 
 .section-pelicula {
-    width: 214px;
+    width: 194px;
     background-color: #0a0a0a;
     margin: 5px;
     border-radius: 10px; }
 
 .imagen-pelicula {
-    width: 200px;
+    width: 180px;
     border-radius: 5px; }
 
 .generos {
