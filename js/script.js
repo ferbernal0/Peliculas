@@ -71,17 +71,18 @@ function cargarListaPeliculas(peliculas) {
         `<div class="container-fluid justify-content-center" id="pelicula-lista">
             <div class="d-flex justify-content-center col-12">
                 <button class="btn" id=${id} data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    <img class="imagen-pelicula" src="img/${img}.jpg" alt="">
+                    <img class="imagen-pelicula" src="https://theposterdb.com/api/assets/${img}/view" alt="">
                 </button>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
-                            <h5 class="modal-title titulo-pelicula" id="exampleModalLabel"></h5>
+                            <h4 class="modal-title titulo-pelicula" id="exampleModalLabel"></h4>
                             <button type="button" class="btn btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
                                 <p class="descripcion"></p>
+                                <h5 class="duracion"></h5>
                             </div>
                             <div class="modal-footer container d-flex justify-content-center">
                                 <div class="row">
@@ -104,6 +105,7 @@ function cargarListaPeliculas(peliculas) {
             console.log(peliculas)
             $('.titulo-pelicula').html(`${title[0].titulo} (${title[0].anio})`)
             $('.descripcion').html(`${title[0].descrip}`)
+            $('.duracion').html(`Duración: ${title[0].tiempo}`)
             $('.wpp').html(`<a class="btn btn-warning" href="https://api.whatsapp.com/send?phone=+5493516287268&text=Quiero que veamos ${title[0].titulo}"target="_blank" role="button">Notificar</a>`)
             $('.imdb').html(`<a class="btn btn-warning" href="https://www.imdb.com/title/tt${title[0].link}/"target="_blank" role="button">IMDB</a>`)
         })
