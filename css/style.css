@@ -106,3 +106,54 @@ article {
 
 .duracion {
     color: darkcyan; }
+
+
+
+
+@media screen and (max-width: 1600px) and (min-width: 1400px) {
+
+.section-pelicula {
+    width: 169px; }
+
+.imagen-pelicula {
+    width: 155px; } }
+
+@media screen and (max-width: 1399px) and (min-width: 1200px) {
+
+.section-pelicula {
+    width: 169px; }
+
+.imagen-pelicula {
+    width: 155px; } }
+
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+
+.section-pelicula {
+    width: 169px; }
+
+.imagen-pelicula {
+    width: 155px; } }
+    
+@media screen and (max-width: 991px) and (min-width: 768px) {
+
+.section-pelicula {
+    width: 169px; }
+
+.imagen-pelicula {
+    width: 155px; } }
+
+@media screen and (max-width: 767px) and (min-width: 576px) {
+
+.section-pelicula {
+    width: 169px; }
+
+.imagen-pelicula {
+    width: 155px; } }
+
+@media screen and (max-width: 575px) and (min-width: 0px) {
+
+.section-pelicula {
+    width: 169px; }
+
+.imagen-pelicula {
+    width: 155px; } }
