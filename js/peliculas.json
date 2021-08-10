@@ -231,72 +231,6 @@
         "all": "all"
     },
     {
-        "id": "22",
-        "genero": "Horror",
-        "titulo": "Alta tensión",
-        "anio": 2003,
-        "tiempo": "1h 31m",
-        "img": "40837",
-        "link": "0338095",
-        "descrip": "La joven Marie es invitada a pasar unos días en la casa de los padres de su mejor amiga Alexia, una granja aislada y rodeada de campos de maíz. Las dos chicas piensan que allí encontrarán la tranquilidad necesaria para poder estudiar. Pero sus esperanzas son vanas. De noche llega a la casa un sádico asesino con la intención de matar a todos.",
-        "all": "all"
-    },
-    {
-        "id": "23",
-        "genero": "Infantil",
-        "titulo": "Alvin y las ardillas",
-        "anio": 2007,
-        "tiempo": "1h 32m",
-        "img": "47179",
-        "link": "0952640",
-        "descrip": "Después de probar suerte con un desesperanzado compositor, tres ardillas muy peculiares, Alvin, Simon y Theodore, deciden hacer de la casa de Dave la suya propia. Enseguida las ardillas se dan cuenta de la necesidad de convencer a Dave de que las deje vivir en su casa para demostrarle que no sólo pueden andar como una persona…¡sino que pueden cantar! No tardarán en revelarse como la sensación musical del momento, mientras Dave se convierte en algo más que en su compositor; en su padre. Los problemas comienzan cuando las ardillas comienzan a darse cuenta de su éxito y se rebelan contra Dave.",
-        "all": "all"
-    },
-    {
-        "id": "24",
-        "genero": "Infantil",
-        "titulo": "Alvin y las ardillas 2",
-        "anio": 2009,
-        "tiempo": "1h 29m",
-        "img": "47180",
-        "link": "1231580",
-        "descrip": "Las ardillas más famosas y divertidas del cine regresan a la gran pantalla para protagonizar una nueva aventura. En ella, Alvin y sus compañeros deben enfrentarse a la presión de la escuela, a los problemas de la celebridad y a un grupo de chicas ardilla que les está haciendo la competencia.",
-        "all": "all"
-    },
-    {
-        "id": "25",
-        "genero": "Infantil",
-        "titulo": "Alvin y las ardillas 3",
-        "anio": 2011,
-        "tiempo": "1h 28m",
-        "img": "47181",
-        "link": "1615918",
-        "descrip": "Tercera entrega de la saga Alvin y las ardillas. Las ardillas se embarcan en un crucero de lujo, pero se caen por la borda y acaban en una isla desierta. Pronto averiguarán que la isla no está tan deshabitada como creían en un principio.",
-        "all": "all"
-    },
-    {
-        "id": "26",
-        "genero": "Infantil",
-        "titulo": "Alvin y las ardillas: Aventura sobre ruedas",
-        "anio": 2015,
-        "tiempo": "1h 32m",
-        "img": "47182",
-        "link": "2974918",
-        "descrip": "Tras una serie de malentendidos Alvin, Simon y Theodore creen que Dave va a declararse a su nueva novia en Nueva York, y olvidarse de ellos. Tienen tres días para intentar romper el compromiso y salvarse así de la pérdida de Dave.",
-        "all": "all"
-    },
-    {
-        "id": "27",
-        "genero": "Infantil",
-        "titulo": "Anastasia",
-        "anio": 1997,
-        "tiempo": "1h 35m",
-        "img": "61474",
-        "link": "0118617",
-        "descrip": "Cuando la sombra de la revolución se cierne sobre Rusia, Anastasia, la hija más joven de la familia real, apenas consigue escapar con vida. Años despúes conoce al joven Dimitri. Cuando se dirigen a París para reclamar los derechos del legado de Anastasia, se verán envueltos en una cruenta lucha contra el malvado monje Rasputín y su sicario, el murciélago Bartok.",
-        "all": "all"
-    },
-    {
         "id": "28",
         "genero": "Thriller",
         "titulo": "Animales nocturnos",
@@ -330,17 +264,6 @@
         "all": "all"
     },
     {
-        "id": "31",
-        "genero": "Historia",
-        "titulo": "Apolo 13",
-        "anio": 1995,
-        "tiempo": "2h 20m",
-        "img": "6817",
-        "link": "0112384",
-        "descrip": "El Apolo XIII inicia su viaje a la Luna en abril de 1970. Cuando está a punto de llegar a su destino, se produce una explosión en el espacio que les hace perder oxígeno y, además, cambia el rumbo de la nave. La situación de los tripulantes se hace desesperada cuando el oxígeno empieza a agotarse. Mientras tanto, el mundo entero vive pendiente del desenlace de tan angustiosa aventura.",
-        "all": "all"
-    },
-    {
         "id": "32",
         "genero": "Thriller",
         "titulo": "Asesinato en el Expreso de Oriente",
@@ -371,28 +294,6 @@
         "img": "156213",
         "link": "0230011",
         "descrip": "Un joven aventurero llamado Milo encuentra un antiguo diario que contiene pistas de cómo llegar a Atlantis, el mítico reino hundido. Junto a otros intrépidos personajes Milo decide embarcarse en el Ulises, un impresionante submarino, en una arriesgada expedición al fondo del mar.",
-        "all": "all"
-    },
-    {
-        "id": "35",
-        "genero": "Crimen",
-        "titulo": "Atrapado por su pasado",
-        "anio": 1993,
-        "tiempo": "2h 25m",
-        "img": "102072",
-        "link": "0106519",
-        "descrip": "Carlitos Brigante, un antiguo traficante de heroína de origen portorriqueño, sale de la cárcel después de cinco años de reclusión, dispuesto a dejar el tráfico de drogas. Con la ayuda de un abogado cocainómano consigue hacerse socio de un club nocturno e intenta reanudar la relación con su exnovia, pero no es fácil seguir el buen camino dentro del mundo del crimen.",
-        "all": "all"
-    },
-    {
-        "id": "36",
-        "genero": "Drama",
-        "titulo": "Atrapado sin salida",
-        "anio": 1975,
-        "tiempo": "2h 14m",
-        "img": "164523",
-        "link": "0073486",
-        "descrip": "Randle McMurphy, un hombre condenado por asalto, y un espíritu libre que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched a la cabeza. La suerte de cada paciente del pabellón está en juego.",
         "all": "all"
     },
     {
@@ -528,17 +429,6 @@
         "all": "all"
     },
     {
-        "id": "49",
-        "genero": "Drama",
-        "titulo": "Belleza americana",
-        "anio": 1999,
-        "tiempo": "2h 02m",
-        "img": "164535",
-        "link": "0169547",
-        "descrip": "Lester Burnham, un cuarentón en crisis, cansado de su trabajo y de su mujer Carolyn, despierta de su letargo cuando conoce a la atractiva amiga de su hija, a la que intentará impresionar a toda costa.",
-        "all": "all"
-    },
-    {
         "id": "50",
         "genero": "Historia",
         "titulo": "Ben-Hur",
@@ -660,17 +550,6 @@
         "all": "all"
     },
     {
-        "id": "61",
-        "genero": "Historia",
-        "titulo": "Caballo de guerra",
-        "anio": 2011,
-        "tiempo": "2h 27m",
-        "img": "66047",
-        "link": "1568911",
-        "descrip": "En un pueblo inglés, Albert, el hijo de un granjero, ve nacer un potrillo. Poco después, su padre lo adquiere en una subasta, y el chico le pone de nombre Joey. Pero la familia se arruina y no tiene más remedio que vender el caballo justo cuando estalla la Primera Guerra Mundial (1914-1918). Ése es el punto de partida de un viaje en el que tanto Albert como Joey lucharán por sobrevivir a la contienda y volver a estar juntos.",
-        "all": "all"
-    },
-    {
         "id": "62",
         "genero": "Thriller",
         "titulo": "Calibre",
@@ -679,17 +558,6 @@
         "img": "164539",
         "link": "6218358",
         "descrip": "Durante un fin de semana de caza en los highland escoceses, dos viejos amigos se encuentran, tras un dramático incidente, en una trágica situación que pondrá en peligro sus vidas.",
-        "all": "all"
-    },
-    {
-        "id": "63",
-        "genero": "Crimen",
-        "titulo": "Calles salvajes",
-        "anio": 1973,
-        "tiempo": "1h 52m",
-        "img": "164540",
-        "link": "0070379",
-        "descrip": "Nueva York, 1972. Charlie es un joven italoamericano de 27 años que trata de ascender en la mafia de Nueva York, pero dicho ascenso se ve obstaculizado por su sentimiento de responsabilidad hacia su imprudente amigo, Johnny Boy.",
         "all": "all"
     },
     {
@@ -712,28 +580,6 @@
         "img": "113850",
         "link": "0257044",
         "descrip": "En los oscuros años de la Gran Depresión, Michael Sullivan es un asesino a sueldo que profesa una lealtad inquebrantable a su jefe, el señor Rooney, pero es también un buen padre de familia. Son tiempos duros en Rock Island, donde domina la mafia irlandesa, la Ley Seca sigue vigente y los gángsteres, especialmente Al Capone en Chicago, están en la cima del poder. Un día, inesperadamente, el hijo de Sullivan, Michael Jr., decide seguir a su padre para saber en qué consiste exactamente su trabajo.",
-        "all": "all"
-    },
-    {
-        "id": "66",
-        "genero": "Drama",
-        "titulo": "Capitán de mar y guerra: La costa más lejana del mundo",
-        "anio": 2003,
-        "tiempo": "2h 19m",
-        "img": "104378",
-        "link": "0311113",
-        "descrip": "Guerras napoleónicas, año 1805. Bonaparte domina Europa. Inglaterra consigue resistir porque es la primera potencia naval del mundo. Precisamente por eso los mares se convierten en un crucial y estratégico campo de batalla. En el Atlántico, el Surprise, un navío inglés capitaneado por Jack Aubrey, es atacado por sorpresa por un buque de guerra francés. A pesar de los graves daños sufridos por la nave, Aubrey decide navegar a través de dos mares para interceptar y capturar al enemigo. Se trata de una misión que puede determinar el destino de toda una nación.",
-        "all": "all"
-    },
-    {
-        "id": "67",
-        "genero": "Drama",
-        "titulo": "Capitán Phillips",
-        "anio": 2013,
-        "tiempo": "2h 15m",
-        "img": "164546",
-        "link": "1535109",
-        "descrip": "Año 2009, en el cuerno de África. En aguas internacionales a 145 millas de la costa de Somalia, el buque carguero “Maersk Alabama”, al mando del capitán de la marina mercante estadounidense Richard Phillips, fue abordado y retenido por piratas somalíes, siendo el primer barco norteamericano secuestrado en los últimos doscientos años.",
         "all": "all"
     },
     {
@@ -836,17 +682,6 @@
         "all": "all"
     },
     {
-        "id": "77",
-        "genero": "Horror",
-        "titulo": "Color Out of Space",
-        "anio": 2019,
-        "tiempo": "1h 50m",
-        "img": "46164",
-        "link": "5073642",
-        "descrip": "Un meteorito se estrella cerca de la granja de los Gardner, liberando un organismo extraterrestre que convierte la tranquila vida rural de la familia en una pesadilla colorista y alucinógena.",
-        "all": "all"
-    },
-    {
         "id": "78",
         "genero": "Infantil",
         "titulo": "Cómo entrenar a tu dragón",
@@ -877,17 +712,6 @@
         "img": "148633",
         "link": "2386490",
         "descrip": "Lo que comenzó como la inesperada amistad entre un joven vikingo y un temible dragón Furia Nocturna se ha convertido en una épica trilogía que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubrirán finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el líder de su especie. Pero, por el camino, deberán poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamás hayan afrontado... y a la aparición de una Furia Nocturna hembra.",
-        "all": "all"
-    },
-    {
-        "id": "81",
-        "genero": "Accion",
-        "titulo": "Constantine",
-        "anio": 2005,
-        "tiempo": "2h 01m",
-        "img": "164554",
-        "link": "0360486",
-        "descrip": "John Constantine ha estado en el infierno y ha vuelto. Nacido con un don que no deseaba, la capacidad de reconocer claramente a los ángeles y a los demonios híbridos que andan por la Tierra bajo un aspecto humano, Constantine se vio empujado a quitarse la vida para escapar de sus visiones atormentadoras. Sin embargo, en contra de su voluntad resucitó y se vio de nuevo en el mundo de los vivos; aunque debido a su intento de suicidio se convirtió en un ser mortal. A partir de entonces, patrulla la frontera terrenal entre el cielo y el infierno, esperando en vano ganarse la salvación enviando a los esbirros del diablo de vuelta a las profundidades. Pero Constantine no es ningún santo: desilusionado por el mundo que le rodea y enfrentado con el más allá, es un héroe amargado que fuma en exceso, lleva una vida dura y desprecia la sola idea de heroísmo. Cuando una desesperada pero escéptica detective de policía consigue su ayuda para resolver la misteriosa muerte de su querida hermana gemela, su investigación les lleva a través del mundo de demonios y ángeles que está bajo Los Angeles. Atrapados en una serie de eventos sobrenaturales catastróficos, los dos se encuentran involucrados y tratan de encontrar su propia paz a cualquier precio.",
         "all": "all"
     },
     {
@@ -998,17 +822,6 @@
         "img": "74216",
         "link": "0320661",
         "descrip": "Siglo XII, Europa entera está inmersa en las Cruzadas para recuperar la Tierra Santa. Godofredo de Ibelin, caballero respetado por el rey de Jerusalén y comprometido con el mantenimiento de la paz en la región, emprende la búsqueda de su hijo ilegítimo Balian, joven herrero francés que llora la pérdida de su mujer y su hijo. Godofredo convence a su hijo para que lo acompañe en su misión. Tras la muerte de su padre, Balian hereda sus tierras y su título de caballero en Jerusalén, ciudad en la que cristianos, musulmanes y judíos han conseguido convivir pacíficamente durante la tregua entre la Segunda y la Tercera Cruzada. Con una fidelidad inquebrantable, Balian sirve a su rey y, además, se enamora de la princesa Sibylla, la enigmática hermana del monarca.",
-        "all": "all"
-    },
-    {
-        "id": "92",
-        "genero": "Drama",
-        "titulo": "Cuestión de honor",
-        "anio": 1992,
-        "tiempo": "2h 19m",
-        "img": "42482",
-        "link": "0104257",
-        "descrip": "El teniente Daniel Kaffee es un joven y prometedor abogado de la Marina que tiene una excelente reputación. Sus superiores le confían la defensa de dos marines acusados de asesinato. A primera vista, el caso no parece complicado. Pero cuando tenga que vérselas con el Coronel Nathan R. Jessup, Comandante en Jefe de la base de Guantánamo, saldrán a la luz nuevas pistas que harán que el caso adquiera dimensiones insospechadas.",
         "all": "all"
     },
     {
@@ -1232,17 +1045,6 @@
         "all": "all"
     },
     {
-        "id": "113",
-        "genero": "Infantil",
-        "titulo": "El caldero mágico",
-        "anio": 1985,
-        "tiempo": "1h 21m",
-        "img": "156197",
-        "link": "0088814",
-        "descrip": "Tarón es un valeroso joven que debe impedir que el malvado Rey Horned se apodere del Caldero Mágico, cuya fuerza misteriosa es capaz de crear un auténtico ejército de invencibles guerreros sobrenaturales. En su lucha contra el mal, Tarón cuenta con la ayuda de su maestro, Dallben, la princesa Eilonwy, un animal con aspecto de osito de peluche llamada Gurgi, un juglar que se hace llamar Fflewddur Fflam, un cerdito con dotes de clarividente y un trío de brujas excéntricas.",
-        "all": "all"
-    },
-    {
         "id": "114",
         "genero": "Infantil",
         "titulo": "El camino hacia El Dorado",
@@ -1353,17 +1155,6 @@
         "all": "all"
     },
     {
-        "id": "124",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "El efecto mariposa",
-        "anio": 2004,
-        "tiempo": "1h 54m",
-        "img": "73315",
-        "link": "0289879",
-        "descrip": "Evan Treborn, un joven que se está esforzando por superar unos dolorosos recuerdos de su infancia, descubre una técnica que le permite viajar atrás en el tiempo y ocupar su cuerpo de niño para poder cambiar el curso de su dolorosa historia. Sin embargo también descubre que cualquier mínimo cambio en el pasado altera enormemente su futuro.",
-        "all": "all"
-    },
-    {
         "id": "125",
         "genero": "Infantil",
         "titulo": "El espanta tiburones",
@@ -1394,28 +1185,6 @@
         "img": "53559",
         "link": "0070047",
         "descrip": "Adaptación de la novela de William Peter Blatty que se inspiró en un exorcismo real ocurrido en Washington en 1949. Regan, una niña de doce años, es víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste, convencido de que el mal no es físico sino espiritual, es decir que se trata de una posesión diabólica, decide practicar un exorcismo. Seguramente la película de terror más popular de todos los tiempos.",
-        "all": "all"
-    },
-    {
-        "id": "128",
-        "genero": "Infantil",
-        "titulo": "El expreso polar",
-        "anio": 2004,
-        "tiempo": "1h 41m",
-        "img": "54391",
-        "link": "0338348",
-        "descrip": "En una nevada noche de Navidad, un niño emprende un extraordinario viaje en tren hacia el Polo Norte. A partir de ese momento empieza una aventura que le servirá para conocerse a sí mismo y que le enseñará que la magia puede estar siempre presente en la vida a condición de creer en ella.",
-        "all": "all"
-    },
-    {
-        "id": "129",
-        "genero": "Historia",
-        "titulo": "El Francotirador",
-        "anio": 1978,
-        "tiempo": "3h 04m",
-        "img": "45945",
-        "link": "0077416",
-        "descrip": "Tres amigos, amantes de la caza y que trabajan como obreros en una fábrica de fundición de acero de Pennsylvania, pasan juntos las últimas horas antes de despedirse para ir a luchar como voluntarios a la guerra de Vietnam, un conflicto bélico que les cambiará a todos la vida para siempre.",
         "all": "all"
     },
     {
@@ -1559,17 +1328,6 @@
         "img": "166064",
         "link": "0787524",
         "descrip": "Narra la historia de Srinivasa Ramanujan, un matemático indio que hizo importantes contribuciones al mundo de las matemáticas como la teoría de los números, las series y las fracciones continuas. Con su arduo trabajo, Srinivasa consiguió entrar en la Universidad de Cambridge durante la Primera Guerra Mundial, donde continuó trabajando en sus teorías con la ayuda del profesor británico G. H. Hardy, a pesar de todos los impedimentos que su origen indio suponían para los estándares sociales de aquella época.",
-        "all": "all"
-    },
-    {
-        "id": "142",
-        "genero": "Historia",
-        "titulo": "El imperio del sol",
-        "anio": 1987,
-        "tiempo": "2h 33m",
-        "img": "164571",
-        "link": "0092965",
-        "descrip": "Cuando, en diciembre de 1941, el ejército japonés ocupa Shanghai, la privilegiada vida de James Graham, un niño inglés de clase alta, toca a su fin. Es separado de sus padres y confinado en un campo de concentración próximo a un aeropuerto militar chino. En un ambiente dominado por la tristeza y la miseria se verá obligado a madurar prematuramente, y eso condicionará su visión del mundo.",
         "all": "all"
     },
     {
@@ -1771,17 +1529,6 @@
         "all": "all"
     },
     {
-        "id": "161",
-        "genero": "Drama",
-        "titulo": "El luchador",
-        "anio": 2005,
-        "tiempo": "2h 25m",
-        "img": "164577",
-        "link": "0352248",
-        "descrip": "Basada en una historia real. Después de haberse retirado del boxeo, James J. Braddock decidió volver al cuadrilátero, en la época de la Gran Depresión, para poder alimentar a su familia. No era un boxeador con talento, pero su coraje, sacrificio y dignidad lo llevaron hasta la cumbre.",
-        "all": "all"
-    },
-    {
         "id": "162",
         "genero": "Thriller",
         "titulo": "El maquinista",
@@ -1804,39 +1551,6 @@
         "all": "all"
     },
     {
-        "id": "164",
-        "genero": "Accion",
-        "titulo": "El mediador",
-        "anio": 1998,
-        "tiempo": "2h 20m",
-        "img": "64427",
-        "link": "0120768",
-        "descrip": "Víctima de una compleja conspiración, Danny Roman, un experto negociador de la policía especializado en secuestros, se ve obligado a tomar rehenes con el fin de probar su inocencia. Además, con la ayuda de un prestigioso colega, intentará descubrir quién está detrás de la trampa que le han tendido.",
-        "all": "all"
-    },
-    {
-        "id": "165",
-        "genero": "Comedia",
-        "titulo": "El mundo según Wayne",
-        "anio": 1992,
-        "tiempo": "1h 35m",
-        "img": "2653",
-        "link": "0105793",
-        "descrip": "Cuando un importante ejecutivo de la televisión ofrece a los alocados y poco convencionales Wayne y a Garth un jugoso contrato para hacer en su cadena su peculiar show nocturno, ambos no pueden dar crédito a su suerte. Pero el camino hacia el éxito es muy tortuoso, está lleno de peligros, tentaciones y fiestas salvajes. ¿Podrá Wayne ganar el cariño de la diosa del rock Cassandra? ¿Será Garth capaz de “mojar” con la chica de sus sueños en la tienda de donuts?",
-        "all": "all"
-    },
-    {
-        "id": "166",
-        "genero": "Comedia",
-        "titulo": "El mundo según Wayne 2",
-        "anio": 1993,
-        "tiempo": "1h 35m",
-        "img": "2654",
-        "link": "0108525",
-        "descrip": "Tras el gran éxito de taquilla conseguido con su primera película como protagonista, Mike Myers sigue exhibiendo su peculiar sentido del humor en esta segunda entrega que ofrece más de lo mismo.",
-        "all": "all"
-    },
-    {
         "id": "167",
         "genero": "Historia",
         "titulo": "El oficial y el espía",
@@ -1845,17 +1559,6 @@
         "img": "164578",
         "link": "2398149",
         "descrip": "En 1894, el capitán francés Alfred Dreyfus, un joven oficial judío, es acusado de traición por espiar para Alemania y condenado a cadena perpetua en la Isla del Diablo, en la Guayana Francesa. Entre los testigos que hicieron posible esta humillación se encuentra el coronel Georges Picquart, encargado de liderar la unidad de contrainteligencia que descubrió al espía. Pero cuando Picquart se entera de que se siguen pasando secretos militares a los alemanes, se adentrará en un peligroso laberinto de mentiras y corrupción, poniendo en peligro su honor y su vida.",
-        "all": "all"
-    },
-    {
-        "id": "168",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "El Origen",
-        "anio": 2010,
-        "tiempo": "2h 29m",
-        "img": "54862",
-        "link": "1375666",
-        "descrip": "Dom Cobb es un experto en el arte de apropiarse, durante el sueño, de los secretos del subconsciente ajeno. La extraña habilidad de Cobb le ha convertido en un hombre muy cotizado en el mundo del espionaje, pero también lo ha condenado a ser un fugitivo y, por consiguiente, a renunciar a llevar una vida normal. Su única oportunidad para cambiar de vida será hacer exactamente lo contrario de lo que ha hecho siempre: la incepción, que consiste en implantar una idea en el subconsciente en lugar de sustraerla. Sin embargo, su plan se complica debido a la intervención de alguien que parece predecir cada uno de sus movimientos, alguien a quien sólo Cobb podrá descubrir.",
         "all": "all"
     },
     {
@@ -1911,28 +1614,6 @@
         "img": "107259",
         "link": "0099674",
         "descrip": "Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimar todas las posesiones de la familia negociando con el Vaticano. Después de luchar toda su vida se encuentra cansado y centra todas sus esperanzas en encontrar un sucesor que se haga cargo de los negocios. Vincent, el hijo ilegítimo de su hermano Sonny, parece ser el elegido.",
-        "all": "all"
-    },
-    {
-        "id": "174",
-        "genero": "Accion",
-        "titulo": "El pago",
-        "anio": 2003,
-        "tiempo": "1h 59m",
-        "img": "157516",
-        "link": "0338337",
-        "descrip": "Michael Jennings es un ingeniero brillante y muy bien pagado que realiza importantes proyectos para una empresa de alta tecnología. Cada vez que termina un trabajo se lo borran de la memoria para que no pueda divulgarlo. Jennings espera ganar 90 millones de dólares por su último proyecto, en el que ha invertido tres años de trabajo. Sin embargo, en esta ocasión ni siquiera le pagan, aunque vuelven a borrarle la memoria. Con la ayuda de su compañera y amante Rachel, tratará de averiguar qué ha sucedido durante todo ese tiempo del que no recuerda nada.",
-        "all": "all"
-    },
-    {
-        "id": "175",
-        "genero": "Historia",
-        "titulo": "El patriota",
-        "anio": 2000,
-        "tiempo": "2h 55m",
-        "img": "164581",
-        "link": "0187393",
-        "descrip": "Año 1776, en plena guerra de Independencia entre los colonos de Nueva Inglaterra y las tropas del rey británico Jorge III. En Carolina del Sur, el viudo Benjamin Martin, heroico soldado en Francia y en la India, renuncia a combatir para cuidar de sus siete hijos. Pero la pacífica vida de la familia Martin se ve alterada cuando Gabriel, el hijo mayor, se alista en el ejército; mientras tanto su padre se esfuerza por sacar adelante a la prole. Sin embargo, los británicos, al mando del cruel coronel Tavington, llegarán hasta las puertas de su casa poniendo en peligro a toda la familia.",
         "all": "all"
     },
     {
@@ -2233,17 +1914,6 @@
         "all": "all"
     },
     {
-        "id": "203",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "En la luna",
-        "anio": 2009,
-        "tiempo": "1h 38m",
-        "img": "6812",
-        "link": "1182345",
-        "descrip": "En un futuro no muy lejano, un astronauta vive aislado durante tres años en una excavación minera de la Luna. Cuando su contrato está a punto de expirar, descubre un terrible secreto que le concierne.",
-        "all": "all"
-    },
-    {
         "id": "204",
         "genero": "Accion",
         "titulo": "En la mira",
@@ -2285,17 +1955,6 @@
         "img": "54863",
         "link": "0461770",
         "descrip": "Narra la odisea que debe vivir la bella princesa Giselle, que es transportada por un hechizo de la malvada reina Narissa desde su mágico mundo a la moderna y caótica Manhattan actual. Inmersa en un entorno en el que 'fueron felices y comieron perdices' no funciona, Giselle deambula por un mundo caótico que necesita urgentemente unos cuantos hechizos. Pero Giselle se enamora de un abogado divorciado, encantador pero nada perfecto que decide ayudarla. A pesar de que en su mundo está prometida al príncipe de cuento de hadas, la joven princesa se hará la siguiente pregunta: ¿Su visión del amor ideal tiene futuro en el mundo real?",
-        "all": "all"
-    },
-    {
-        "id": "208",
-        "genero": "Historia",
-        "titulo": "Enemigo al acecho",
-        "anio": 2001,
-        "tiempo": "2h 12m",
-        "img": "76479",
-        "link": "0215750",
-        "descrip": "Año 1942, en plena Segunda Guerra Mundial. Mientras los ejércitos de Alemania y Rusia luchan encarnizadamente y el mundo espera con ansiedad el desenlace de la batalla de Stalingrado, un francotirador ruso, Vassili Zaitsev, persevera en la empresa de eliminar a sus enemigos uno por uno. Danilov -el oficial encargado de la propaganda soviética- lo convierte en un héroe nacional que debe servir de ejemplo para animar a las tropas a proseguir la lucha contra el ejército alemán. Los alemanes, por su parte, envían a su mejor francotirador, el mayor König, para que elimine a Vassili.",
         "all": "all"
     },
     {
@@ -2398,17 +2057,6 @@
         "all": "all"
     },
     {
-        "id": "218",
-        "genero": "Drama",
-        "titulo": "Forrest Gump",
-        "anio": 1994,
-        "tiempo": "2h 23m",
-        "img": "119377",
-        "link": "0109830",
-        "descrip": "Forrest Gump sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny, su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida.",
-        "all": "all"
-    },
-    {
         "id": "219",
         "genero": "Historia",
         "titulo": "Francotirador",
@@ -2461,17 +2109,6 @@
         "img": "50487",
         "link": "1214962",
         "descrip": "El profesor Will Gerard y su mujer llevan una vida tranquila, pero una noche ella es víctima de una brutal agresión sexual. En el hospital, un misterioso individuo se dirige a Will y se ofrece para hacer justicia y ahorrarles el suplicio de tener que pasar por un proceso judicial. Will está tan alterado que, de manera irreflexiva, acepta la propuesta. A partir de ese momento se verá metido en una organización justiciera clandestina.",
-        "all": "all"
-    },
-    {
-        "id": "224",
-        "genero": "Historia",
-        "titulo": "Fuimos soldados",
-        "anio": 2002,
-        "tiempo": "2h 19m",
-        "img": "164603",
-        "link": "0277434",
-        "descrip": "En plena guerra del Vietnam, el coronel Hal Moore y sus soldados (unos 400 hombres) aterrizaron en noviembre de 1965 en una región conocida como 'El valle de la muerte'. Allí fueron recibidos por más de 2.000 soldados del Vietcong, desencadenándose una de las batallas más feroces de la guerra.",
         "all": "all"
     },
     {
@@ -2981,17 +2618,6 @@
         "all": "all"
     },
     {
-        "id": "271",
-        "genero": "Crimen",
-        "titulo": "Jackie Brown: Triple traición",
-        "anio": 1997,
-        "tiempo": "2h 35m",
-        "img": "164611",
-        "link": "0119396",
-        "descrip": "Jackie Brown es una azafata de vuelo que necesita dinero y hace de correo para Robbie, un mafioso buscado por la policía. Un día es sorprendida en la aduana y acusada de tráfico de drogas y evasión de capital. Sólo podrá evitar su ingreso en prisión, si acepta una propuesta de la policía: ayudarles a llegar hasta Robbie.",
-        "all": "all"
-    },
-    {
         "id": "272",
         "genero": "Accion",
         "titulo": "El satánico Dr. No",
@@ -3311,28 +2937,6 @@
         "all": "all"
     },
     {
-        "id": "301",
-        "genero": "Historia",
-        "titulo": "JFK",
-        "anio": 1991,
-        "tiempo": "3h 26m",
-        "img": "123560",
-        "link": "0102138",
-        "descrip": "El fiscal de Nueva Orleans Jim Garrison reabrió el caso del asesinato del presidente de los Estados Unidos John F. Kennedy y presentó cargos contra algunas personas. Después de entrevistar a numerosos testigos de Dallas y a personas relacionadas con los hechos, mantuvo la tesis de que el magnicidio fue fruto de una conspiración en la que podrían haber intervenido el FBI, la CIA y el propio vicepresidente Lindon B. Johnson.",
-        "all": "all"
-    },
-    {
-        "id": "302",
-        "genero": "Infantil",
-        "titulo": "Jim y el durazno gigante",
-        "anio": 1996,
-        "tiempo": "1h 20m",
-        "img": "97879",
-        "link": "0116683",
-        "descrip": "Tras la muerte de sus padres, el pequeño James se ve obligado a vivir con sus dos crueles y repulsivas tías. La visita de un extraño personaje, una araña a la que salva, le proporciona un medio para escapar: un melocotón gigante que comienza a crecer desmesuradamente en su jardín. Cuando se introduzca dentro de él conocerá a otros pintorescos personajes.",
-        "all": "all"
-    },
-    {
         "id": "303",
         "genero": "Accion",
         "titulo": "John Wick: Otro día para matar",
@@ -3374,17 +2978,6 @@
         "img": "149612",
         "link": "0264734",
         "descrip": "Película basada los capítulos 37-50 del Génesis de la Biblia. Se centra en la vida de José, hijo predilecto de Jacob, un joven con un don extraordinario para interpretar los sueños.",
-        "all": "all"
-    },
-    {
-        "id": "307",
-        "genero": "Crimen",
-        "titulo": "Juegos, trampas y dos armas humeantes",
-        "anio": 1998,
-        "tiempo": "1h 48m",
-        "img": "164612",
-        "link": "0120735",
-        "descrip": "Eddie convence a tres amigos para jugarse sus ahorros en una partida de cartas contra Harry el Hacha, un mafioso del barrio. La partida está amañada, y Eddie no sólo pierde todo el dinero sino que contrae una deuda de medio millón de libras, que debe pagar en el plazo de una semana. El mafioso pretende quedarse con el local de su padre para resarcirse de la deuda, pero los cuatro amigos planean saldarla de una forma mucho más arriesgada.",
         "all": "all"
     },
     {
@@ -3506,17 +3099,6 @@
         "img": "164613",
         "link": "6491178",
         "descrip": "Dos policías, un veterano del cuerpo y su joven compañero, son suspendidos cuando un vídeo de sus duras tácticas de detención de delincuentes se convierte en la noticia del día en los medios de comunicación. Ambos con problemas personales que podrían solucionarse con dinero, deciden aprovechar su condición de civiles para hacer algo al margen de la ley.",
-        "all": "all"
-    },
-    {
-        "id": "319",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "King Kong",
-        "anio": 2005,
-        "tiempo": "3h 21m",
-        "img": "164614",
-        "link": "0360717",
-        "descrip": "Durante la Gran Depresión, Ann Darrow, una actriz de vodevil, se queda sin trabajo. Su suerte parece cambiar cuando conoce a Carl Denham, un empresario que lucha para abrirse camino en el mundo del espectáculo. A ellos se une Jack Driscoll, un autor de teatro. Los tres emprenden un viaje a una remota isla, donde Denham tiene previsto dirigir una película. En una frondosa selva, descubren a King Kong, un gorila gigantesco, y a una tribu de seres prehistóricos que han vivido ocultos durante millones de años. Movido por su insaciable ambición, Denham, planea la captura del gorila con el propósito de exhibirlo en Nueva York.",
         "all": "all"
     },
     {
@@ -3652,17 +3234,6 @@
         "all": "all"
     },
     {
-        "id": "332",
-        "genero": "Historia",
-        "titulo": "La caída del halcón negro",
-        "anio": 2001,
-        "tiempo": "2h 25m",
-        "img": "91920",
-        "link": "0265086",
-        "descrip": "Octubre de 1993. Soldados americanos de élite son enviados a Mogadiscio (Somalia) en una misión de paz de las Naciones Unidas, pero su principal objetivo es capturar al caudillo Aidid y acabar de raíz con la guerra. La misión se complica cuando dos helicópteros Black Hawk son derribados. Entonces lo único que importa es rescatar a los soldados que han quedado atrapados o han resultado heridos en el accidente.",
-        "all": "all"
-    },
-    {
         "id": "333",
         "genero": "Infantil",
         "titulo": "La cenicienta",
@@ -3693,17 +3264,6 @@
         "img": "164616",
         "link": "6892400",
         "descrip": "Anna Lou, una chica de 16 años, desaparece repentinamente en Avechot, un pequeño pueblo de montaña de los Alpes italianos. El caso es asignado al enigmático detective Vogel, un antihéroe narcisista experto en atraer a los medios de comunicación y protagonizar titulares.",
-        "all": "all"
-    },
-    {
-        "id": "336",
-        "genero": "Historia",
-        "titulo": "La conquista del honor",
-        "anio": 2006,
-        "tiempo": "2h 12m",
-        "img": "164617",
-        "link": "0418689",
-        "descrip": "Segunda Guerra Mundial (1939-1945). La batalla de Iwo Jima (1945), el episodio más cruento de la guerra del Pacífico, quedó inmortalizada en la foto de unos soldados que izaban una bandera norteamericana. El objetivo de esta batalla era la toma de un islote insignificante, pero de gran valor estratégico, pues desde allí los japoneses defendían su territorio. En la contienda cayeron más de 20.000 japoneses y 7.000 estadounidenses. Mientras tanto, en los Estados Unidos la célebre foto en la que seis soldados izaban la bandera americana fue un instrumento propagandístico para conseguir fondos que permitieran seguir sufragando los gastos de la guerra. El mismo año el propio Eastwood dirigió 'Cartas desde Iwo Jima', que narra la misma batalla desde el punto de vista japonés.",
         "all": "all"
     },
     {
@@ -3806,17 +3366,6 @@
         "all": "all"
     },
     {
-        "id": "346",
-        "genero": "Horror",
-        "titulo": "La escalera de Jacob",
-        "anio": 1990,
-        "tiempo": "1h 54m",
-        "img": "97447",
-        "link": "0099871",
-        "descrip": "Luego de regresar de la Guerra de Vietnam, un soldado sufre graves alucinaciones que cambian su vida.",
-        "all": "all"
-    },
-    {
         "id": "347",
         "genero": "Infantil",
         "titulo": "La espada en la piedra",
@@ -3872,17 +3421,6 @@
         "all": "all"
     },
     {
-        "id": "352",
-        "genero": "Drama",
-        "titulo": "La jugada maestra",
-        "anio": 2014,
-        "tiempo": "1h 56m",
-        "img": "48123",
-        "link": "1596345",
-        "descrip": "Narra la historia de la preparación y del legendario enfrentamiento por el campeonato del mundo entre Bobby Fischer, campeón de ajedrez norteamericano, y el campeón soviético Boris Spassky. El duelo, que tuvo lugar en 1972, en plena Guerra Fría, fue mucho más que un conjunto de partidas para conquistar un campeonato; prueba de ello es que captó la atención televisada de todo el mundo.",
-        "all": "all"
-    },
-    {
         "id": "353",
         "genero": "Historia",
         "titulo": "La lista de Schindler",
@@ -3891,17 +3429,6 @@
         "img": "36107",
         "link": "0108052",
         "descrip": "Oskar Schindler, un empresario alemán de gran talento para las relaciones públicas, busca ganarse la simpatía de los nazis de cara a su beneficio personal. Después de la invasión de Polonia por los alemanes en 1939, Schindler consigue, gracias a sus relaciones con los altos jerarcas nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente, gracias sobre todo a su gerente Itzhak Stern, también judío. Pero conforme la guerra avanza, Schindler y Stern comienzan ser conscientes de que a los judíos que contratan, los salvan de una muerte casi segura en el temible campo de concentración de Plaszow, que lidera el Comandante nazi Amon Goeth, un hombre cruel que disfruta ejecutando judíos.",
-        "all": "all"
-    },
-    {
-        "id": "354",
-        "genero": "Comedia",
-        "titulo": "La loca historia de las galaxias",
-        "anio": 1987,
-        "tiempo": "1h 37m",
-        "img": "73168",
-        "link": "0094012",
-        "descrip": "El planeta Spaceball intenta 'robar' la atmósfera del vecino Druidia secuestrando y pidiendo rescate por la princesa Vespa. El inventor de la trama es Dark Helmet, pero se las tendrá que ver con Lone Starr.",
         "all": "all"
     },
     {
@@ -4202,17 +3729,6 @@
         "all": "all"
     },
     {
-        "id": "383",
-        "genero": "Drama",
-        "titulo": "La última pelea",
-        "anio": 2011,
-        "tiempo": "2h 20m",
-        "img": "164704",
-        "link": "1291584",
-        "descrip": "Un veterano de Vietnam abandona el mundo de las artes marciales mixtas para trabajar en una fundición de acero. Sus graves problemas con el alcohol han destrozado a su familia, pero llega un momento en que, arrepentido, deja la bebida y decide entrenar a su hijo más joven para que participe en un torneo de artes marciales, en el que también participará su hermano mayor.",
-        "all": "all"
-    },
-    {
         "id": "384",
         "genero": "Thriller",
         "titulo": "La verdad desnuda",
@@ -4389,28 +3905,6 @@
         "all": "all"
     },
     {
-        "id": "400",
-        "genero": "Infantil",
-        "titulo": "Lluvia de hamburguesas",
-        "anio": 2009,
-        "tiempo": "1h 30m",
-        "img": "101249",
-        "link": "0844471",
-        "descrip": "El protagonista es Flint, un joven científico que sueña con inventar algo que le mejore la vida a todos sus vecinos. Tras muchos intentos consigue crear algo que realmente funciona: una máquina que hace caer comida del cielo.",
-        "all": "all"
-    },
-    {
-        "id": "401",
-        "genero": "Infantil",
-        "titulo": "Lluvia de hamburguesas 2: La venganza de las sobras",
-        "anio": 2013,
-        "tiempo": "1h 35m",
-        "img": "101250",
-        "link": "1985966",
-        "descrip": " El genio del inventor Flint Lockwoods acaba siendo reconocido por su ídolo Chester V, que lo invita a unirse a la The Live Corp Company, donde los inventores más brillantes del mundo crean nuevas tecnologías para el bienestar de la humanidad. La mano derecha de Chester es Barb: una orangutana dotada de un cerebro humano altamente evolucionado que le permite ser muy retorcida y manipuladora. El sueño de Flint cambia cuando descubre que la máquina de su invención, destinada a convertir el agua en alimentos, ha pasado a crear híbridos de animales-comida. Para salvar a la humanidad, Chester envía a Flint y a sus colegas a una peligrosa misión, que los llevará a enfrentarse a tacocodrilos, gambancés, quesoarañas con doble de bacon y otras criaturas igualmente extravagantes.",
-        "all": "all"
-    },
-    {
         "id": "402",
         "genero": "Comedia",
         "titulo": "Loca academia de pilotos",
@@ -4433,17 +3927,6 @@
         "all": "all"
     },
     {
-        "id": "404",
-        "genero": "Infantil",
-        "titulo": "Looney Tunes: De nuevo en acción",
-        "anio": 2003,
-        "tiempo": "1h 32m",
-        "img": "164710",
-        "link": "0318155",
-        "descrip": "Cansado de que toda la atención vaya a parar a Bugs Bunny, el pato Daffy abandona Hollywood y se une al especialista en doblaje recientemente despedido Bobby Delmont para embarcarse juntos en una aventura. Su misión: encontrar un diamante azul desaparecido del padre de Bobby, y permanecer un paso por delante de Bugs Bunny y una ejecutiva del estudio que van tras su pista...",
-        "all": "all"
-    },
-    {
         "id": "405",
         "genero": "Crimen",
         "titulo": "Los 8 más odiados",
@@ -4452,28 +3935,6 @@
         "img": "8610",
         "link": "3460252",
         "descrip": "Pocos años después de la Guerra de Secesión, una diligencia avanza por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth y su fugitiva Daisy Domergue, intentan llegar al pueblo de Red Rock, donde Ruth entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren, un antiguo soldado de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix, un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como se aproxima una ventisca, los cuatro se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local se topan con cuatro rostros desconocidos: el mexicano Bob, Oswaldo Mobray, verdugo de Red Rock, el vaquero Joe Gage y el general confederado Sanford Smithers. Mientras la tormenta cae sobre la parada de montaña, los ocho viajeros descubren que tal vez no lleguen hasta Red Rock después de todo.",
-        "all": "all"
-    },
-    {
-        "id": "406",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Los agentes del destino",
-        "anio": 2011,
-        "tiempo": "1h 46m",
-        "img": "97499",
-        "link": "1385826",
-        "descrip": "El día de las elecciones al Senado, el joven y carismático político David Norris conoce a Elise Sellas, una guapa bailarina de ballet que altera completamente su vida. Cuando Norris empieza a sospechar que ciertas fuerzas sobrenaturales intentan separarlos, tratará de averiguar las causas.",
-        "all": "all"
-    },
-    {
-        "id": "407",
-        "genero": "Crimen",
-        "titulo": "Los Ángeles al desnudo",
-        "anio": 1997,
-        "tiempo": "2h 18m",
-        "img": "104011",
-        "link": "0119488",
-        "descrip": "Años 50. Tres policías de Los Ángeles se ven envueltos en una intriga criminal que destapa los trapos sucios del Departamento. Para recuperar el prestigio perdido, tres agentes muy diferentes entre sí, el impetuoso Bud White, el formal Ed Exely y el ambicioso Jack Vincennes se hacen cargo de la investigación del caso.",
         "all": "all"
     },
     {
@@ -4518,17 +3979,6 @@
         "img": "148636",
         "link": "2850386",
         "descrip": "Obligados a partir en busca de un nuevo lugar donde vivir, la primera familia prehistórica se aventura a explorar el mundo con el objetivo de localizar un lugar más seguro al que llamar hogar. Pero cuando encuentran un idílico paraíso amurallado que cumple con todas sus necesidades, se encuentran con que ese lugar esconde una sorpresa: hay otra familia que ya vive allí, los Masmejor. Y es que los Masmejor, con su elaborada casa en un árbol, sus asombrosas invenciones y sus enormes huertos, van un par de pasos por delante de los Croods en la escala evolutiva. Y cuando les reciben como sus primeros invitados, no tardan en surgir tensiones entre nuestros queridos cavernícolas y sus nuevos y modernos semejantes. Cuando todo parece perdido, una nueva amenaza embarca a las dos familias en una aventura épica más allá de la seguridad de la muralla, que les obligará a aparcar sus diferencias, aunar fuerzas y luchar por un futuro juntos.",
-        "all": "all"
-    },
-    {
-        "id": "412",
-        "genero": "Crimen",
-        "titulo": "Los hijos de la calle",
-        "anio": 1996,
-        "tiempo": "2h 28m",
-        "img": "164711",
-        "link": "0117665",
-        "descrip": "Durante los años 60, la iglesia de los Santos Ángeles y su escuela eran el centro de la 'Cocina del Infierno', un barrio marginal de Nueva York. Allí podían refugiarse los niños marginados. John, Lorenzo, Michael y Tommy son cuatro amigos que tratan de sobrevivir en el barrio, y cuya única guía moral es el padre Robert Carillo, un tipo criado en las calles que intenta que no se desvíen del buen camino. Sin embargo, tras una fechoría colectiva de horribles consecuencias, los cuatro muchachos son enviados como castigo al Hogar Wilkinson, lo que cambiaría sus vidas para siempre.",
         "all": "all"
     },
     {
@@ -4620,39 +4070,6 @@
         "all": "all"
     },
     {
-        "id": "421",
-        "genero": "Infantil",
-        "titulo": "Una Navidad con los Muppets",
-        "anio": 1992,
-        "tiempo": "1h 26m",
-        "img": "115126",
-        "link": "0104940",
-        "descrip": "El clásico 'Cuento de Navidad' de Charles Dickens. Michael Caine da vida al avaro Mr. Scrooge, quien recibe la visita de unos fantasmas la noche de navidad y es transportado a su pasado, presente y futuro, viendo que el panorama es muy poco alentador...",
-        "all": "all"
-    },
-    {
-        "id": "422",
-        "genero": "Infantil",
-        "titulo": "Los Muppets",
-        "anio": 2011,
-        "tiempo": "1h 43m",
-        "img": "206",
-        "link": "1204342",
-        "descrip": "Durante sus vacaciones en Los Ángeles, Walter, el fan número uno de los Teleñecos, y sus amigos Gary y Mary descubren que el petrolero Tex Richman planea demoler el Teatro de los Teleñecos para perforar el solar y extraer el petróleo que se halla debajo. Para montar el Show más espectacular de los Teleñecos y recaudar los 10 millones de dólares necesarios para salvar el teatro, Walter, Mary y Gary buscan a la Rana Gustavo y a los Teleñecos: Fozzie trabaja en un casino de Reno con la banda de los Moopets, Peggy trabaja para Vogue como una diseñadora de tallas grandes, Animal ha ingresado en una clínica de Santa Bárbara para aprender a controlar su ira, y Gonzo es un magnate de la industria de la fontanería.",
-        "all": "all"
-    },
-    {
-        "id": "423",
-        "genero": "Infantil",
-        "titulo": "Muppets 2: Los más buscados",
-        "anio": 2014,
-        "tiempo": "1h 48m",
-        "img": "207",
-        "link": "2281587",
-        "descrip": "La pandilla de los Muppets se va de gira por todo el mundo, llenando las mejores salas de las capitales europeas como Berlín, Madrid o Londres. Pero no se libran del caos ni siquiera en el extranjero, pues se ven involuntariamente atrapados en una intriga internacional que encabezan Constantine, el mayor delincuente del mundo y la viva imagen de la Rana René, y Dominic, su vil compinche.",
-        "all": "all"
-    },
-    {
         "id": "424",
         "genero": "Comedia",
         "titulo": "Los Simpson: La película",
@@ -4661,17 +4078,6 @@
         "img": "154168",
         "link": "0462538",
         "descrip": "Homer debe salvar al mundo de una catástrofe que él mismo ha provocado. Todo comienza con Homero, su nueva mascota, un cerdo, y un silo lleno de excrementos que tiene una fuga, una combinación que desencadena un desastre distinto a todo lo que Springfield haya experimentado jamás. Mientras Marge está indignada por la monumental metedura de pata de su patán marido, una turba vengativa cae sobre el hogar de los Simpson...",
-        "all": "all"
-    },
-    {
-        "id": "425",
-        "genero": "Crimen",
-        "titulo": "Los sospechosos de siempre",
-        "anio": 1995,
-        "tiempo": "1h 47m",
-        "img": "39401",
-        "link": "0114814",
-        "descrip": "Dave Kujan, un agente especial del servicio de aduanas de Estados Unidos, está investigando las causas del incendio de un barco, en el puerto de San Pedro de Los Ángeles, que provocó 27 víctimas mortales, aunque todas parecen haber sido asesinadas. Su única fuente de información es Roger Kint, un estafador lisiado que sobrevivió al incendio. En comisaría, Kint cuenta que todo comenzó seis semanas antes en Nueva York, cuando cinco delincuentes, cinco 'sospechosos habituales', fueron detenidos para una rueda de reconocimiento relacionada con el robo de un camión de armas...",
         "all": "all"
     },
     {
@@ -4774,17 +4180,6 @@
         "all": "all"
     },
     {
-        "id": "435",
-        "genero": "Drama",
-        "titulo": "Magnolia",
-        "anio": 1999,
-        "tiempo": "3h 09m",
-        "img": "164715",
-        "link": "0175880",
-        "descrip": "La película consta de nueve tramas paralelas ambientadas en el Valle de San Fernando, en Los Ángeles: un niño prodigio, el presentador de un concurso de televisión, un ex-niño prodigio, un moribundo, su hijo perdido, la mujer y el enfermero del moribundo. Son historias aparentemente independientes, pero que guardan entre sí una extraña relación.",
-        "all": "all"
-    },
-    {
         "id": "436",
         "genero": "Infantil",
         "titulo": "Maléfica",
@@ -4840,28 +4235,6 @@
         "all": "all"
     },
     {
-        "id": "441",
-        "genero": "Infantil",
-        "titulo": "Mary Poppins",
-        "anio": 1964,
-        "tiempo": "2h 20m",
-        "img": "4446",
-        "link": "0058331",
-        "descrip": "Reinado de Eduardo VII (1901-1910). La vida de una familia inglesa formada por un padre banquero, una madre sufragista y dos niños rebeldes -que pretenden llamar la atención de sus padres haciendo la vida imposible a todas las niñeras-, se verá alterada con la llegada de Mary Poppins, una extravagante institutriz que baja de las nubes empleando su paraguas como paracaídas. Debut y Oscar para Julie Andrews en este clásico del cine familiar que en su día batió récords de taquilla. Una niñera mágica y canciones pegadizas que harán las delicias de los niños de la casa.",
-        "all": "all"
-    },
-    {
-        "id": "442",
-        "genero": "Infantil",
-        "titulo": "El regreso de Mary Poppins",
-        "anio": 2018,
-        "tiempo": "2h 11m",
-        "img": "4447",
-        "link": "5028340",
-        "descrip": "Mary Poppins es la niñera casi perfecta, con unas extraordinarias habilidades mágicas para convertir una tarea rutinaria en una aventura inolvidable y fantástica. Esta nueva secuela, vuelve para ayudar a la siguiente generación de la familia Banks a encontrar la alegría y la magia que faltan en sus vidas después de una trágica pérdida personal. La niñera viene acompañada de su amigo Jack, un optimista farolero que ayuda a llevar la luz -y la vida- a las calles de Londres.",
-        "all": "all"
-    },
-    {
         "id": "443",
         "genero": "Crimen",
         "titulo": "Mátalos suavemente",
@@ -4892,17 +4265,6 @@
         "img": "58465",
         "link": "0209144",
         "descrip": "La memoria de Leonard, un investigador de una agencia de seguros, está irreversiblemente dañada debido a un golpe sufrido en la cabeza cuando intentaba evitar el asesinato de su mujer: éste es el último hecho que recuerda del pasado. La memoria reciente la ha perdido: los hechos cotidianos desaparecen de su mente en unos minutos. Así pues, para investigar e intentar vengar el asesinato de su esposa tiene que recurrir a la ayuda de una cámara instantánea y a las notas tatuadas en su cuerpo.",
-        "all": "all"
-    },
-    {
-        "id": "446",
-        "genero": "Drama",
-        "titulo": "Mi pie izquierdo",
-        "anio": 1989,
-        "tiempo": "1h 43m",
-        "img": "164717",
-        "link": "0097937",
-        "descrip": "Dublín. Película basada en un relato autobiográfico del pintor y escritor irlandés Christy Brown (1932-1981). Aquejado de parálisis cerebral, gracias a su tenacidad y al incondicional apoyo de su madre, consiguió derribar todas las barreras que impedían su integración en la sociedad. Un conmovedor ejemplo de superación personal y lucha por alcanzar los sueños.",
         "all": "all"
     },
     {
@@ -5291,17 +4653,6 @@
         "all": "all"
     },
     {
-        "id": "481",
-        "genero": "Infantil",
-        "titulo": "Open Season - Amigos salvajes",
-        "anio": 2006,
-        "tiempo": "1h 27m",
-        "img": "101254",
-        "link": "0400717",
-        "descrip": "Boog es un oso grizzly domesticado que vive con su cuidadora Beth y que está feliz a pesar de no vivir en el bosque, como los demás osos. Pero todo cambiará cuando conozca a Elliot, un ciervo salvaje de lo más parlanchín al que un malvado cazador ha atropellado dejándole sin un cuerno...",
-        "all": "all"
-    },
-    {
         "id": "482",
         "genero": "Historia",
         "titulo": "Operación Final",
@@ -5321,28 +4672,6 @@
         "img": "164721",
         "link": "0985699",
         "descrip": "Gravemente herido en combate, el Coronel Claus von Stauffenberg, un aristócrata alemán, regresa de África y, tras unirse a la resistencia alemana, se convierte en el cerebro de la Operación Valkiria, cuyo objetivo era derrocar el régimen nazi y acabar con la guerra eliminando previamente a Hitler. El atentado, que fracasó por diversas circunstancias, consistió en la colocación de una bomba en el búnker del Fhürer (1944). El plan preveía además la creación de un gobierno en la sombra que se haría cargo de Alemania tras la muerte del dictador.",
-        "all": "all"
-    },
-    {
-        "id": "484",
-        "genero": "Infantil",
-        "titulo": "Osmosis Jones",
-        "anio": 2001,
-        "tiempo": "1h 36m",
-        "img": "69776",
-        "link": "0181739",
-        "descrip": "Frank Detorri no goza de buena salud: se alimenta de comida basura, no hace ejercicio y maltrata su cuerpo de todas las formas posibles. Esta forma tan insana de vivir hace que el cuerpo de Frank sea un campo de batalla en el que se enfrentan las más diversas bacterias. El día en que consume un huevo duro que recoge del suelo, queda al descubierto que dentro de Frank se esconde una ciudad orgánica, donde pequeños personajes imitan la vida humana.",
-        "all": "all"
-    },
-    {
-        "id": "485",
-        "genero": "Crimen",
-        "titulo": "Pandillas de Nueva York",
-        "anio": 2002,
-        "tiempo": "2h 47m",
-        "img": "54275",
-        "link": "0217505",
-        "descrip": "Nueva York, 1863. La ciudad está dominada por la corrupción política, y la guerra entre bandas provoca muertos y disturbios. En este contexto, el joven inmigrante irlandés Amsterdam Vallon quiere vengarse de William Cutting, 'Bill el carnicero', el hombre que mató a su padre.",
         "all": "all"
     },
     {
@@ -5368,17 +4697,6 @@
         "all": "all"
     },
     {
-        "id": "487",
-        "genero": "Historia",
-        "titulo": "Pecados de guerra",
-        "anio": 1989,
-        "tiempo": "2h 00m",
-        "img": "111068",
-        "link": "0097027",
-        "descrip": "Guerra de Vietnam. Recién incorporado a su pelotón, en la jungla vietnamita, el soldado Eriksson es testigo de un crimen brutal cometido por sus compañeros. Incapaz de permanecer al margen, se enfrentará al resto del pelotón, pero sobre todo al sargento Tony Meserve, un hombre enérgico y carismático pero desquiciado por el horror y la brutalidad de la guerra.",
-        "all": "all"
-    },
-    {
         "id": "488",
         "genero": "Thriller",
         "titulo": "Perdida",
@@ -5387,17 +4705,6 @@
         "img": "28666",
         "link": "2267998",
         "descrip": "El día de su quinto aniversario de boda, Nick Dunne informa que su esposa Amy ha desaparecido misteriosamente. Pero pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
-        "all": "all"
-    },
-    {
-        "id": "489",
-        "genero": "Accion",
-        "titulo": "Perros de la calle",
-        "anio": 1992,
-        "tiempo": "1h 40m",
-        "img": "164722",
-        "link": "0105236",
-        "descrip": "Una banda organizada es contratada para atracar una empresa y llevarse unos diamantes. Sin embargo, antes de que suene la alarma, la policía ya está allí. Algunos miembros de la banda mueren en el enfrentamiento con las fuerzas del orden, y los demás se reúnen en el lugar convenido.",
         "all": "all"
     },
     {
@@ -5544,17 +4851,6 @@
         "all": "all"
     },
     {
-        "id": "503",
-        "genero": "Infantil",
-        "titulo": "Pie pequeño en busca del valle encantado",
-        "anio": 1988,
-        "tiempo": "1h 09m",
-        "img": "105458",
-        "link": "0095489",
-        "descrip": "Aclamada película de animación que narra las aventuras de unos pequeños dinosaurios en su viaje por alcanzar el Gran Valle, el único sitio de la tierra que todavía no ha sido alcanzado por una plaga devastadora.",
-        "all": "all"
-    },
-    {
         "id": "504",
         "genero": "Infantil",
         "titulo": "Pinocho",
@@ -5654,28 +4950,6 @@
         "all": "all"
     },
     {
-        "id": "513",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Predestination",
-        "anio": 2014,
-        "tiempo": "1h 38m",
-        "img": "164723",
-        "link": "2397535",
-        "descrip": "Un agente especial de un departamento secreto del gobierno, una agencia creada en los años 80 que permite realizar viajes en el tiempo, tendrá que realizar una compleja serie de 'saltos' hacia atrás en el tiempo con el fin de detener al conocido como 'el terrorista fallido', un individuo que está poniendo bombas por todo el país con miles de víctimas. En uno de sus viajes a los 70, el agente, que trabaja encubierto como camarero de un bar, conoce a un hombre que le narra una historia extraordinaria...",
-        "all": "all"
-    },
-    {
-        "id": "514",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Primer",
-        "anio": 2004,
-        "tiempo": "1h 18m",
-        "img": "164724",
-        "link": "0390384",
-        "descrip": "Cuatro hombres trabajan en un garaje construyendo aparatos altamente complejos. En parte por accidente y en parte por su pericia, descubren un mecanismo dotado de poderes que les permite conseguir casi todo lo que quieran. Se trata de un hallazgo que podría cambiar el mundo, pero que pondrá a prueba las relaciones entre sus inventores...",
-        "all": "all"
-    },
-    {
         "id": "515",
         "genero": "Crimen",
         "titulo": "Promesas del este",
@@ -5709,17 +4983,6 @@
         "all": "all"
     },
     {
-        "id": "518",
-        "genero": "Drama",
-        "titulo": "Rain Man",
-        "anio": 1988,
-        "tiempo": "2h 14m",
-        "img": "34988",
-        "link": "0095953",
-        "descrip": "Charlie Babbitt, un joven egoísta que espera heredar la fortuna de su difunto padre, se entera de que el beneficiario es su hermano Raymond, un autista al que no conoce, porque ha vivido siempre recluido en un centro especial. Ambos harán un largo viaje a través de los Estados Unidos. Al principio, a Charlie, el extravagante comportamiento de su hermano lo irrita y lo desconcierta, pero, poco a poco, aprenderá a conocerlo y a quererlo.",
-        "all": "all"
-    },
-    {
         "id": "519",
         "genero": "Infantil",
         "titulo": "Ralph, el demoledor",
@@ -5739,61 +5002,6 @@
         "img": "152849",
         "link": "5848272",
         "descrip": "Ralph y su compañera Vanellope tendrán que jugárselo todo viajando por las redes en busca de una pieza de repuesto que salve Sugar Rush, el videojuego de Vanellope. Y para complicar más las cosas, ambos dependen de los ciudadanos de Internet, los llamados ‘ciudanets’ para que les ayuden a desenvolverse en ese peligroso mundo. Entre ellos está un empresario de Internet llamado Yesss, que es el algoritmo estrella y el alma de 'BuzzTube', la página web de moda del momento.",
-        "all": "all"
-    },
-    {
-        "id": "521",
-        "genero": "Accion",
-        "titulo": "Rambo: primera sangre",
-        "anio": 1982,
-        "tiempo": "1h 34m",
-        "img": "21242",
-        "link": "0083944",
-        "descrip": "Cuando John Rambo, un veterano boina verde, va a visitar a un viejo compañero de armas, se entera de que ha muerto víctima de las secuelas de la guerra. Algunos días después, la policía lo detiene por vagabundo y se ensaña con él. Entonces recuerda las torturas que sufrió en Vietnam y reacciona violentamente.",
-        "all": "all"
-    },
-    {
-        "id": "522",
-        "genero": "Accion",
-        "titulo": "Rambo II",
-        "anio": 1985,
-        "tiempo": "1h 36m",
-        "img": "21243",
-        "link": "0089880",
-        "descrip": "Rambo es excarcelado y enviado de vuelta al Vietnam con una nueva misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Tras saltar en paracaídas en la jungla, portando únicamente un cuchillo y un arco con flechas, se le dice que no ataque al enemigo y que sólo haga fotografías de reconocimiento. Pero el plan no saldrá como estaba previsto...",
-        "all": "all"
-    },
-    {
-        "id": "523",
-        "genero": "Accion",
-        "titulo": "Rambo III ",
-        "anio": 1988,
-        "tiempo": "1h 42m",
-        "img": "21244",
-        "link": "0095956",
-        "descrip": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas…",
-        "all": "all"
-    },
-    {
-        "id": "524",
-        "genero": "Accion",
-        "titulo": "Rambo IV: regreso al infierno",
-        "anio": 2008,
-        "tiempo": "1h 31m",
-        "img": "21245",
-        "link": "0462499",
-        "descrip": "El ex boina verde John Rambo lleva una solitaria y apacible vida en la jungla del norte de Tailandia, pescando y cazando cobras para venderlas. Todo cambia cuando un grupo de misioneros católicos le proponen que les sirva de guía hasta la frontera con Birmania para suministrar medicinas y alimentos a los refugiados asediados por el ejército birmano, que ha hecho de la tortura y el asesinato una práctica habitual. En estas circunstancias, Rambo no tendrá más remedio que volver a tomar partido.",
-        "all": "all"
-    },
-    {
-        "id": "525",
-        "genero": "Accion",
-        "titulo": "Rambo V: Last Blood",
-        "anio": 2019,
-        "tiempo": "1h 42m",
-        "img": "21246",
-        "link": "1206885",
-        "descrip": "Después de haber vivido un infierno, John Rambo se retira a su rancho familiar, pero su descanso se ve interrumpido por la desaparición de su ahijada tras cruzar la frontera con México. El veterano de guerra emprende un peligroso viaje en su búsqueda, enfrentándose a uno de los carteles más despiadados de la zona. Así descubre que, tras la desaparición de la chica, hay oculta una red de trata de blancas. Con sed de venganza, deberá cumplir una última misión desplegando de nuevo sus habilidades para el combate.",
         "all": "all"
     },
     {
@@ -5959,17 +5167,6 @@
         "img": "93474",
         "link": "9072352",
         "descrip": "Una hija, una madre y una abuela son acosadas por un tipo de demencia que está consumiendo a la familia.",
-        "all": "all"
-    },
-    {
-        "id": "541",
-        "genero": "Drama",
-        "titulo": "Réquiem por un sueño",
-        "anio": 2000,
-        "tiempo": "1h 42m",
-        "img": "164727",
-        "link": "0180093",
-        "descrip": "Harry y su madre tienen sueños muy distintos: ella está permanentemente a dieta esperando el día en que pueda participar en su concurso televisivo preferido; la ambición de Harry y su novia Marion es hacerse ricos vendiendo droga y utilizar las ganancias para abrir un negocio propio, pero nunca tienen el dinero suficiente para ello. A pesar de todo, Harry y Marion no se resignan y harán lo inimaginable para conseguir la vida que anhelan.",
         "all": "all"
     },
     {
@@ -6237,17 +5434,6 @@
         "all": "all"
     },
     {
-        "id": "566",
-        "genero": "Crimen",
-        "titulo": "Se7en, los siete pecados capitales",
-        "anio": 1995,
-        "tiempo": "2h 07m",
-        "img": "108334",
-        "link": "0114369",
-        "descrip": "El veterano teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso e impulsivo detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-        "all": "all"
-    },
-    {
         "id": "567",
         "genero": "Drama",
         "titulo": "Secretos de estado",
@@ -6256,39 +5442,6 @@
         "img": "28689",
         "link": "5431890",
         "descrip": "2003, mientras los politicos británicos y estadounidenses maniobran para invadir Iraq, la traductora del GCHQ Katharine Gun filtra un e-mail clasificado que urge a espiar a miembros del Consejo de Seguridad de las Naciones Unidas para forzar una resolución para ir a la Guerra. Acusada de romper el Acta de Secretos Oficiales y enfrentándose a prisión, Katharine y sus abogados están determinados a defender sus acciones. Con su vida, su libertad y su matrimonio amenazados, Katharine deberá luchar por lo que cree.",
-        "all": "all"
-    },
-    {
-        "id": "568",
-        "genero": "Accion",
-        "titulo": "Sentencia previa",
-        "anio": 2002,
-        "tiempo": "2h 26m",
-        "img": "117739",
-        "link": "0181689",
-        "descrip": "Washington DC, año 2054. La policía utiliza tecnología psíquica para arrestar y enjuiciar a los asesinos antes de que cometan un crimen. El futuro se puede predecir y los culpables son detenidos por la unidad de élite Precrime antes de que puedan delinquir. Las pruebas se basan en los 'precogs', tres seres psíquicos cuyas visiones sobre los asesinatos nunca han fallado.",
-        "all": "all"
-    },
-    {
-        "id": "569",
-        "genero": "Accion",
-        "titulo": "Sherlock Holmes",
-        "anio": 2009,
-        "tiempo": "2h 09m",
-        "img": "2624",
-        "link": "0988045",
-        "descrip": "Sherlock Holmes y su incondicional compañero Watson, deberán usar su agudeza intelectual y toda clase de recursos y habilidades para enfrentarse a un nuevo enemigo y desenmarañar un complot que podría destruir el país.",
-        "all": "all"
-    },
-    {
-        "id": "570",
-        "genero": "Accion",
-        "titulo": "Sherlock Holmes: Juego de sombras",
-        "anio": 2011,
-        "tiempo": "2h 09m",
-        "img": "2625",
-        "link": "1515091",
-        "descrip": "En todo el mundo se están produciendo llamativas noticias: un escándalo acaba con un potentado del algodón de la India, un comerciante de opio chino fallece de una aparente sobredosis, estallan bombas en Estrasburgo y Viena, fallece un magnate del acero estadounidense... Nadie ve ninguna conexión entre estos acontecimientos aparentemente aleatorios, excepto el famoso detective Sherlock Holmes, que ha adivinado una red deliberada de muerte y destrucción. Y en su centro, como una araña especialmente siniestra, está el profesor James Moriarty, una mente maestra del crimen que auna su capacidad para el mal con una total falta de conciencia. La investigación por parte de Holmes del plan de Moriarty se torna más peligrosa cuando le hace abandonar Londres, junto a Watson, para dirigirse a Francia.",
         "all": "all"
     },
     {
@@ -6468,17 +5621,6 @@
         "all": "all"
     },
     {
-        "id": "587",
-        "genero": "Historia",
-        "titulo": "Stalingrado",
-        "anio": 1993,
-        "tiempo": "2h 19m",
-        "img": "153948",
-        "link": "0108211",
-        "descrip": "En 1942, la ciudad rusa Stalingrado sufre un terrible asedio por parte de las tropas alemanas. Película coral en la que se muestran los horrores de la guerra a través de las vicisitudes de un grupo de soldados alemanes que llegan a Stalingrado tras disfrutar de un permiso en Italia. La batalla de Stalingrado fue, sin duda, una de las más sangrientas de la Segunda Guerra Mundial. En ella murieron más de un millón y medio de soldados. Una superproducción alemana de esmerada ambientación.",
-        "all": "all"
-    },
-    {
         "id": "588",
         "genero": "Ciencia-Ficcion",
         "titulo": "Star Wars: Episodio IV - Una nueva esperanza",
@@ -6622,28 +5764,6 @@
         "all": "all"
     },
     {
-        "id": "601",
-        "genero": "Infantil",
-        "titulo": "Supercan",
-        "anio": 2007,
-        "tiempo": "1h 22m",
-        "img": "6328",
-        "link": "0467110",
-        "descrip": "Tras un accidente en el misterioso laboratorio del científico chiflado, el Dr. Simon Barsinister, un perro de raza beagle descubre de repente que tiene unos poderes inimaginables además de la capacidad de hablar. Ataviado con un traje de superhéroe, Superdog jura proteger a los atormentados ciudadanos de Capitol City y, en especial, a una bonita spaniel llamada Polly Purebread. Cuando un siniestro plan de Barsinister y su secuaz Cad amenaza con destruir Capitol City, sólo Superdog puede arreglar las cosas...",
-        "all": "all"
-    },
-    {
-        "id": "603",
-        "genero": "Thriller",
-        "titulo": "Tarde de perros",
-        "anio": 1975,
-        "tiempo": "2h 05m",
-        "img": "84989",
-        "link": "0072890",
-        "descrip": "Unos delincuentes de poca monta deciden atracar la sucursal de un banco de Brooklyn. Sin embargo, debido a su inexperiencia, el robo, que había sido planeado para ser ejecutado en apenas diez minutos, se convierte en una trampa para los atracadores y en un espectáculo para la televisión en directo.",
-        "all": "all"
-    },
-    {
         "id": "604",
         "genero": "Infantil",
         "titulo": "Tarzán",
@@ -6678,7 +5798,7 @@
     },
     {
         "id": "607",
-        "genero": "Ciencia-Ficcion",
+        "genero": "Accion",
         "titulo": "Terminator",
         "anio": 1984,
         "tiempo": "1h 48m",
@@ -6689,7 +5809,7 @@
     },
     {
         "id": "608",
-        "genero": "Ciencia-Ficcion",
+        "genero": "Accion",
         "titulo": "Terminator 2: el juicio final",
         "anio": 1991,
         "tiempo": "2h 37m",
@@ -6700,7 +5820,7 @@
     },
     {
         "id": "609",
-        "genero": "Ciencia-Ficcion",
+        "genero": "Accion",
         "titulo": "Terminator 3: La rebelión de las máquinas",
         "anio": 2003,
         "tiempo": "1h 49m",
@@ -6711,7 +5831,7 @@
     },
     {
         "id": "610",
-        "genero": "Ciencia-Ficcion",
+        "genero": "Accion",
         "titulo": "Terminator: la salvación",
         "anio": 2009,
         "tiempo": "1h 58m",
@@ -6722,7 +5842,7 @@
     },
     {
         "id": "611",
-        "genero": "Ciencia-Ficcion",
+        "genero": "Accion",
         "titulo": "Terminator Génesis",
         "anio": 2015,
         "tiempo": "2h 06m",
@@ -6733,7 +5853,7 @@
     },
     {
         "id": "612",
-        "genero": "Ciencia-Ficcion",
+        "genero": "Accion",
         "titulo": "Terminator: Destino oculto",
         "anio": 2019,
         "tiempo": "2h 09m",
@@ -6817,17 +5937,6 @@
         "img": "148081",
         "link": "1979376",
         "descrip": "Woody siempre ha tenido claro cuál es su labor en el mundo y su prioridad: cuidar a su dueño, ya sea Andy o Bonnie. Pero cuando Bonnie añade a Forky, un nuevo juguete de fabricación propia, a su habitación, arranca una nueva aventura que servirá para que los viejos y nuevos amigos le enseñen a Woody lo grande que puede ser el mundo para un juguete.",
-        "all": "all"
-    },
-    {
-        "id": "620",
-        "genero": "Drama",
-        "titulo": "Trainspotting",
-        "anio": 1996,
-        "tiempo": "1h 34m",
-        "img": "77325",
-        "link": "0117951",
-        "descrip": "Mark Renton, un joven escocés de Edimburgo, y sus amigos son adictos a la heroína, lo que significa que viven fuera de la realidad, en un mundo aparte. Dentro del grupo hay un psicópata alcohólico y violento, un joven desesperado, un mujeriego con un conocimiento enciclopédico sobre Sean Connery y un entusiasta de las caminatas y de Iggy Pop.",
         "all": "all"
     },
     {
@@ -6963,17 +6072,6 @@
         "all": "all"
     },
     {
-        "id": "633",
-        "genero": "Infantil",
-        "titulo": "Un cuento americano",
-        "anio": 1986,
-        "tiempo": "1h 21m",
-        "img": "50331",
-        "link": "0090633",
-        "descrip": "Huyendo de los malvados gatos rusos, el pequeño ratoncito Fievel emigra con su familia a los Estados Unidos. Cuando en Nueva York se extravía, decide buscar a los suyos.",
-        "all": "all"
-    },
-    {
         "id": "634",
         "genero": "Infantil",
         "titulo": "Un gran dinosaurio",
@@ -7037,28 +6135,6 @@
         "img": "164739",
         "link": "1235166",
         "descrip": "El joven Malik El Djebena, un francés de origen árabe, ingresa en prisión para cumplir una pena de seis años. Aunque al principio la vida en la cárcel le resulta muy dura porque está completamente solo, se adapta rápidamente y, gracias a su carisma, se gana poco a poco la simpatía de los miembros de la mafia corsa, que tienen sobornados a los guardias y controlan todo lo que pasa en prisión.",
-        "all": "all"
-    },
-    {
-        "id": "640",
-        "genero": "Drama",
-        "titulo": "Una aventura extraordinaria",
-        "anio": 2012,
-        "tiempo": "2h 07m",
-        "img": "81288",
-        "link": "0454876",
-        "descrip": "Tras un naufragio en medio del océano Pacífico, el joven hindú Pi, hijo de un guarda de zoo que viajaba de la India a Canadá, se encuentra en un bote salvavidas con un único superviviente, un tigre de bengala con quien labrará una emocionante, increíble e inesperada relación.",
-        "all": "all"
-    },
-    {
-        "id": "641",
-        "genero": "Crimen",
-        "titulo": "Una luz en el infierno",
-        "anio": 1993,
-        "tiempo": "2h 02m",
-        "img": "119179",
-        "link": "0106489",
-        "descrip": "Años 60. El gángster Sonny es el rey del barrio del Bronx, donde vive el pequeño Calogero. Un tiroteo, presenciado por el niño, es el punto de partida de una duradera relación entre el gángster y el pequeño. Lorenzo Anello, padre del chico y un honrado conductor de autobuses, desaprueba esta relación. A pesar de ello, el muchacho crece bajo la protección de los dos hombres, dividido entre su honradez natural y su fascinación por Sonny. Sin embargo, llegará un momento en el que Calogero no tendrá más remedio que tomar una decisión sobre el camino que debe seguir.",
         "all": "all"
     },
     {
@@ -7645,6 +6721,17 @@
         "all": "all"
     },
     {
+        "id": "741",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El Escuadrón Suicida",
+        "anio": 2021,
+        "tiempo": "1h 33m",
+        "img": "167287",
+        "link": "6334354",
+        "descrip": "Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.",
+        "all": "all"
+    },
+    {
         "id": "695",
         "genero": "Infantil",
         "titulo": "Up - Una aventura de altura",
@@ -7920,17 +7007,6 @@
         "all": "all"
     },
     {
-        "id": "720",
-        "genero": "Historia",
-        "titulo": "Vuelo 93",
-        "anio": 2006,
-        "tiempo": "1h 51m",
-        "img": "83825",
-        "link": "0475276",
-        "descrip": "El 11 de septiembre de 2001 cuatro aviones fueron secuestrados. Tres alcanzaron su objetivo, pero el cuarto no. Relato de la tragedia por medio de una meticulosa recreación de los acontecimientos que rodearon al vuelo 93 de United Airlines con la esperanza de tener una visión más amplia de los hechos. La película, realizada con el apoyo de las familias de los pasajeros que viajaban a bordo del avión, relata en tiempo real la dramática historia de lo que ocurrió en el aire y en tierra, mientras los pasajeros, la tripulación, los controladores aéreos y los centros militares intentaban entender y solucionar una crisis inimaginable.",
-        "all": "all"
-    },
-    {
         "id": "721",
         "genero": "Infantil",
         "titulo": "WALL•E",
@@ -7950,17 +7026,6 @@
         "img": "148610",
         "link": "0312004",
         "descrip": "Se acerca el Concurso Anual de Verduras Gigantes y se desata una auténtica 'vegetalmanía' en el pueblo donde residen Wallace y Gromit. Los dos amigos, tan emprendedores como siempre, se están haciendo de oro con su nuevo invento, el sistema 'Anti-Pesto', una forma humanitaria de controlar a los conejos que intentan invadir los preciados huertos. De pronto, todo se viene abajo cuando una enorme, misteriosa y voraz 'bestia' empieza a aterrorizar al vecindario, atacando los huertos de noche y destrozándolo todo a su paso.",
-        "all": "all"
-    },
-    {
-        "id": "723",
-        "genero": "Drama",
-        "titulo": "Whiplash: Música y obsesión",
-        "anio": 2014,
-        "tiempo": "1h 47m",
-        "img": "57176",
-        "link": "2582802",
-        "descrip": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos métodos de enseñanza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew para formar parte del grupo, la vida del joven cambiará.",
         "all": "all"
     },
     {
