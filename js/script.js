@@ -71,7 +71,7 @@ function cargarListaPeliculas(peliculas) {
         `<div class="container-fluid justify-content-center" id="pelicula-lista">
             <div class="d-flex justify-content-center col-12">
                 <button class="btn" id=${id} data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    <img class="imagen-pelicula" src="https://theposterdb.com/api/assets/${img}/view" alt="">
+                    <img class="imagen-pelicula" src="/images/${id}.jpg" alt="">
                 </button>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog">
