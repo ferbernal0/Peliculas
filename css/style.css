@@ -113,10 +113,10 @@ article {
     width: 300px; }
 
 .section-pelicula {
-    width: 158px; }
+    width: 178px; }
 
 .imagen-pelicula {
-    width: 144px; } }
+    width: 164px; } }
 
 @media screen and (max-width: 400px) and (min-width: 0px) {
 
@@ -127,7 +127,7 @@ article {
     width: 250px; }
 
 .section-pelicula {
-    width: 120px; }
+    width: 150px; }
 
 .imagen-pelicula {
-    width: 106px; } }
+    width: 136px; } }
