@@ -64,14 +64,14 @@ function cargarListaPeliculas(peliculas) {
     $('#lista-peliculas').hide();
 	peliculas.forEach((pelicula) => {
         const listaPeliculas = document.querySelector('#lista-peliculas');
-		const { img, id } = pelicula;
+		const { id, titulo } = pelicula;
 		const divPelicula = document.createElement('div');
 		divPelicula.classList.add('col-lg-2', 'col-md-3', 'col-sm-5','col-xs-4', 'd-flex', 'justify-content-center','aling-item-center', 'section-pelicula');
 		divPelicula.innerHTML =
         `<div class="container-fluid justify-content-center" id="pelicula-lista">
             <div class="d-flex justify-content-center col-12">
                 <button class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal" id="${id}">
-                    <img class="imagen-pelicula" src="https://i.ibb.co/${img}/${id}.jpg" alt="">
+                    <img src="images/${id}.jpg" alt="Poster de ${titulo}" class="imagen-pelicula"/>
                 </button>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog">

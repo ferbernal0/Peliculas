@@ -39,13 +39,13 @@ article {
     display: none; }
 
 .section-pelicula {
-    width: 210px;
+    width: 200px;
     background-color: #0a0a0a;
     margin: 5px;
     border-radius: 10px; }
 
 .imagen-pelicula {
-    width: 196px;
+    width: 186px;
     border-radius: 5px; }
 
 .generos {
@@ -111,10 +111,10 @@ article {
 @media screen and (max-width: 576px) and (min-width: 401px) {
 
 .section-pelicula {
-    width: 190px; }
+    width: 184px; }
 
 .imagen-pelicula {
-    width: 176px; } }
+    width: 170px; } }
 
 @media screen and (max-width: 400px) and (min-width: 0px) {
 
