@@ -100,6 +100,9 @@ article {
 .duracion {
     color: darkcyan; }
 
+.tiempo {
+    color: cyan; }
+
 
 @media screen and (max-width: 576px) and (min-width: 401px) {
 
@@ -110,10 +113,10 @@ article {
     width: 300px; }
 
 .section-pelicula {
-    width: 164px; }
+    width: 158px; }
 
 .imagen-pelicula {
-    width: 150px; } }
+    width: 144px; } }
 
 @media screen and (max-width: 400px) and (min-width: 0px) {
 
@@ -124,7 +127,7 @@ article {
     width: 250px; }
 
 .section-pelicula {
-    width: 144px; }
+    width: 120px; }
 
 .imagen-pelicula {
-    width: 130px; } }
+    width: 106px; } }
