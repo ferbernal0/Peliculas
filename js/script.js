@@ -106,7 +106,7 @@ function cargarListaPeliculas(peliculas) {
             $('.titulo-pelicula').html(`${title[0].titulo} (${title[0].anio})`)
             $('.descripcion').html(`${title[0].descrip}`)
             $('.duracion').html(`Duración: ${title[0].tiempo}`)
-            $('.wpp').html(`<a class="btn btn-warning" href="https://api.whatsapp.com/send?phone=+5493516287268&text=Quiero que veamos ${title[0].titulo}"target="_blank" role="button">Notificar</a>`)
+            $('.wpp').html(`<a class="btn btn-warning" href="https://api.whatsapp.com/send?phone=+5493516287268&text=Quiero que veamos *${title[0].titulo}*"target="_blank" role="button">Notificar</a>`)
             $('.imdb').html(`<a class="btn btn-warning" href="https://www.imdb.com/title/tt${title[0].link}/"target="_blank" role="button">IMDB</a>`)
         })
 
