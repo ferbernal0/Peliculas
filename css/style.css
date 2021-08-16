@@ -110,7 +110,7 @@ article {
 
 
 
-@media screen and (max-width: 1600px) and (min-width: 1400px) {
+@media screen and (max-width: 1600px) and (min-width: 1401px) {
 
 .section-pelicula {
     width: 169px; }
@@ -118,7 +118,7 @@ article {
 .imagen-pelicula {
     width: 155px; } }
 
-@media screen and (max-width: 1399px) and (min-width: 1200px) {
+@media screen and (max-width: 1400px) and (min-width: 1201px) {
 
 .section-pelicula {
     width: 169px; }
@@ -126,7 +126,7 @@ article {
 .imagen-pelicula {
     width: 155px; } }
 
-@media screen and (max-width: 1199px) and (min-width: 992px) {
+@media screen and (max-width: 1200px) and (min-width: 991px) {
 
 .section-pelicula {
     width: 169px; }
@@ -134,7 +134,7 @@ article {
 .imagen-pelicula {
     width: 155px; } }
     
-@media screen and (max-width: 991px) and (min-width: 768px) {
+@media screen and (max-width: 990px) and (min-width: 769px) {
 
 .section-pelicula {
     width: 169px; }
@@ -142,7 +142,7 @@ article {
 .imagen-pelicula {
     width: 155px; } }
 
-@media screen and (max-width: 767px) and (min-width: 576px) {
+@media screen and (max-width: 768px) and (min-width: 577px) {
 
 .section-pelicula {
     width: 169px; }
@@ -150,7 +150,7 @@ article {
 .imagen-pelicula {
     width: 155px; } }
 
-@media screen and (max-width: 575px) and (min-width: 0px) {
+@media screen and (max-width: 576px) and (min-width: 0px) {
 
 .section-pelicula {
     width: 169px; }

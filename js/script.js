@@ -64,7 +64,7 @@ function cargarListaPeliculas(peliculas) {
     $('#lista-peliculas').hide();
 	peliculas.forEach((pelicula) => {
         const listaPeliculas = document.querySelector('#lista-peliculas');
-		const { img, id } = pelicula;
+		const { id } = pelicula;
 		const divPelicula = document.createElement('div');
 		divPelicula.classList.add('col-lg-2', 'col-md-3', 'col-sm-5','col-xs-4', 'd-flex', 'justify-content-center','aling-item-center', 'section-pelicula');
 		divPelicula.innerHTML =
