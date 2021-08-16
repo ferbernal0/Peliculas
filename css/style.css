@@ -39,13 +39,13 @@ article {
     display: none; }
 
 .section-pelicula {
-    width: 172px;
+    width: 210px;
     background-color: #0a0a0a;
     margin: 5px;
     border-radius: 10px; }
 
 .imagen-pelicula {
-    width: 158px;
+    width: 196px;
     border-radius: 5px; }
 
 .generos {
@@ -108,52 +108,18 @@ article {
     color: darkcyan; }
 
 
-
-
-@media screen and (max-width: 1600px) and (min-width: 1401px) {
+@media screen and (max-width: 576px) and (min-width: 401px) {
 
 .section-pelicula {
-    width: 169px; }
+    width: 190px; }
 
 .imagen-pelicula {
-    width: 155px; } }
+    width: 176px; } }
 
-@media screen and (max-width: 1400px) and (min-width: 1201px) {
+@media screen and (max-width: 400px) and (min-width: 0px) {
 
 .section-pelicula {
-    width: 169px; }
+    width: 150px; }
 
 .imagen-pelicula {
-    width: 155px; } }
-
-@media screen and (max-width: 1200px) and (min-width: 991px) {
-
-.section-pelicula {
-    width: 169px; }
-
-.imagen-pelicula {
-    width: 155px; } }
-    
-@media screen and (max-width: 990px) and (min-width: 769px) {
-
-.section-pelicula {
-    width: 169px; }
-
-.imagen-pelicula {
-    width: 155px; } }
-
-@media screen and (max-width: 768px) and (min-width: 577px) {
-
-.section-pelicula {
-    width: 169px; }
-
-.imagen-pelicula {
-    width: 155px; } }
-
-@media screen and (max-width: 576px) and (min-width: 0px) {
-
-.section-pelicula {
-    width: 169px; }
-
-.imagen-pelicula {
-    width: 155px; } }
+    width: 134px; } }
