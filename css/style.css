@@ -24,7 +24,7 @@ article {
     margin-bottom: 20px;
     background-color: #0a0a0a;
     text-align: center;
-    width: 40vw;
+    width: 550px;
     font-size: 1.5rem;
     border-radius: 20px; }
 
@@ -106,16 +106,22 @@ article {
 .titulo-pagina {
     width: 150px; }
 
+.buscador {
+    width: 300px; }
+
 .section-pelicula {
-    width: 180px; }
+    width: 176px; }
 
 .imagen-pelicula {
-    width: 166px; } }
+    width: 162px; } }
 
 @media screen and (max-width: 400px) and (min-width: 0px) {
 
 .titulo-pagina {
     width: 125px; }
+
+.buscador {
+    width: 250px; }
 
 .section-pelicula {
     width: 150px; }
