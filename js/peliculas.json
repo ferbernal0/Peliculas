@@ -1870,6 +1870,16 @@
         "all": "all"
     },
     {
+        "id": "658",
+        "genero": "Drama",
+        "titulo": "Foxcatcher",
+        "anio": 2014,
+        "tiempo": "2h 15m",
+        "link": "1100089",
+        "descrip": "Cuando Mark Schultz, medallista de oro olímpico, es invitado por el rico heredero John du Pont a su magnífica mansión para ayudarle a crear un campo de entrenamiento de alto nivel en el que preparar a un equipo para los Juegos Olímpicos de Seúl de 1988, Schultz dice que sí inmediatamente. La razón es que allí espera poder concentrarse en los entrenamientos y evitar así que su hermano Dave lo adelante siempre.",
+        "all": "all"
+    },
+    {
         "id": "188",
         "genero": "Historia",
         "titulo": "Francotirador",
@@ -6327,6 +6337,16 @@
         "tiempo": "1h 29m",
         "link": "10003008",
         "descrip": "Dos parejas alquilan una casa para una escapada de fin de semana, pero comienzan a sospechar que el anfitrión puede estar espiando y, lo que debería haber sido un viaje de celebración, se convierte en algo mucho más siniestro.",
+        "all": "all"
+    },
+    {
+        "id": "657",
+        "genero": "Comedia",
+        "titulo": "Villanos",
+        "anio": 2019,
+        "tiempo": "1h 30m",
+        "link": "6378710",
+        "descrip": "Después de que un par de criminales aficionados irrumpan en una casa de los suburbios de una ciudad, ambos descubren un oscuro secreto que los dueños de la casa harán todo lo posible para que no se descubra.",
         "all": "all"
     },
     {

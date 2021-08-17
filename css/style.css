@@ -13,10 +13,10 @@ article {
     color: white; }
 
 .titulo-pagina {
-    width: 250px;
+    width: 300px;
     display: flex;
     justify-content: center;
-    margin: 5px; }
+    margin: 0px; }
 
 .buscador {
     color: white;
@@ -107,7 +107,7 @@ article {
 @media screen and (max-width: 576px) and (min-width: 401px) {
 
 .titulo-pagina {
-    width: 150px; }
+    width: 200px; }
 
 .buscador {
     width: 300px; }
@@ -121,7 +121,7 @@ article {
 @media screen and (max-width: 400px) and (min-width: 0px) {
 
 .titulo-pagina {
-    width: 125px; }
+    width: 150px; }
 
 .buscador {
     width: 250px; }
