@@ -900,6 +900,16 @@
         "all": "all"
     },
     {
+        "id": "659",
+        "genero": "Thriller",
+        "titulo": "Efectos colaterales",
+        "anio": 2013,
+        "tiempo": "1h 47m",
+        "link": "2053463",
+        "descrip": "Ambientada en el mundo de la psicofarmacología, ciencia que estudia cómo afectan las drogas a la mente humana. Emily es una joven que se vuelve adicta a un nuevo medicamento que le receta su psiquiatra para que pueda controlar su ansiedad ante la inminente salida de la cárcel de su marido.",
+        "all": "all"
+    },
+    {
         "id": "091",
         "genero": "Drama",
         "titulo": "El aviador",
@@ -4230,6 +4240,16 @@
         "all": "all"
     },
     {
+        "id": "660",
+        "genero": "Thriller",
+        "titulo": "Número 23",
+        "anio": 2007,
+        "tiempo": "1h 42m",
+        "link": "0481369",
+        "descrip": "Un hombre vive obsesionado con un libro que parece describir detalles de su vida íntima. El hombre empieza a sentirse amenazado y se vuelve paranoico debido a un número que se repite una y otra vez en el libro: el 23.",
+        "all": "all"
+    },
+    {
         "id": "423",
         "genero": "Infantil",
         "titulo": "Oliver y su pandilla",
@@ -5017,6 +5037,16 @@
         "tiempo": "2h 42m",
         "link": "0490215",
         "descrip": "Segunda mitad del siglo XVII. Dos jóvenes jesuitas portugueses viajan a Japón en busca de su mentor, el conocido misionero Padre Ferreira. Los últimos rumores indican que, tras ser perseguido y torturado, Ferreira ha renunciado a su fe, algo difícil de creer para los sacerdotes que parten en su búsqueda. En Japón ellos mismos vivirán el suplicio y la violencia con que las autoridades japonesas persiguen a los cristianos, a los que torturan hasta apostatar o morir.",
+        "all": "all"
+    },
+    {
+        "id": "661",
+        "genero": "Thriller",
+        "titulo": "Sin rastros",
+        "anio": 2008,
+        "tiempo": "1h 41m",
+        "link": "0880578",
+        "descrip": "El FBI cuenta con un departamento encargado de delitos cibernéticos que se dedica únicamente a investigar y perseguir a los delincuentes que actúan en Internet. En Portland, la agente especial Jennifer Marsh tiene que resolver un caso sin precedentes: un depredador cibernético cuelga torturas y asesinatos en una sofisticada página web que, al no dejar rastro, no puede ser desconectada. El destino de sus víctimas depende del público: cuantas más visitas registre la página web, más deprisa morirán. Cuando el juego del gato y el ratón se convierte en algo personal, Jennifer y su equipo deberán lanzarse a una carrera contrarreloj para encontrar al asesino.",
         "all": "all"
     },
     {
