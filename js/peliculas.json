@@ -580,6 +580,16 @@
         "all": "all"
     },
     {
+        "id": "664",
+        "genero": "Drama",
+        "titulo": "Chappaquiddick",
+        "anio": 2017,
+        "tiempo": "1h 47m",
+        "link": "5270948",
+        "descrip": "La vida de Ted Kennedy y su carrera política se descarrilaron después de un fatal accidente automovilístico en 1969, en el que el coche que él conducía se precipitó desde un puente a un lago y en el que perdió la vida su joven secretaria de campaña, Mary Jo Kopechne.",
+        "all": "all"
+    },
+    {
         "id": "059",
         "genero": "Drama",
         "titulo": "Cherry",
@@ -5597,6 +5607,16 @@
         "tiempo": "1h 48m",
         "link": "6932874",
         "descrip": "Los hermanos Templeton se han convertido en adultos y se han alejado el uno del otro, pero un nuevo jefe bebé con un enfoque de vanguardia está a punto de unirlos nuevamente e inspirar un nuevo negocio familiar.",
+        "all": "all"
+    },
+    {
+        "id": "663",
+        "genero": "Crimen",
+        "titulo": "Un ladrón con estilo",
+        "anio": 2018,
+        "tiempo": "1h 34m",
+        "link": "2837574",
+        "descrip": "Narra una historia real, la de Forrest Tucker, un ladrón de bancos que pasó la mayor parte de su vida en la cárcel o intentando escapar de ella. De hecho, logró fugarse en 18 ocasiones y cometió su último atraco en el año 2000 cuando tenía 80 años.",
         "all": "all"
     },
     {
