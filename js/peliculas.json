@@ -1860,6 +1860,26 @@
         "all": "all"
     },
     {
+        "id": "667",
+        "genero": "Horror",
+        "titulo": "Escape Room: Sin salida",
+        "anio": 2019,
+        "tiempo": "1h 40m",
+        "link": "5886046",
+        "descrip": "Seis desconocidos se encuentran en una habitación mortal en la que deberán usar su ingenio para sobrevivir.",
+        "all": "all"
+    },
+    {
+        "id": "668",
+        "genero": "Horror",
+        "titulo": "Escape Room 2: Reto mortal",
+        "anio": 2021,
+        "tiempo": "1h 36m",
+        "link": "9844522",
+        "descrip": "Seis personas se encuentran encerradas de manera inesperada en una nueva serie de escape rooms, revelando paulatinamente aquello que tienen en común para sobrevivir… y descubriendo que todos ya habían jugado el juego con anterioridad.",
+        "all": "all"
+    },
+    {
         "id": "184",
         "genero": "Infantil",
         "titulo": "Espías a escondidas",
@@ -3860,6 +3880,16 @@
         "all": "all"
     },
     {
+        "id": "669",
+        "genero": "Horror",
+        "titulo": "Maligno",
+        "anio": 2021,
+        "tiempo": "1h 52m",
+        "link": "3811906",
+        "descrip": "Madison está paralizada por visiones de asesinatos espeluznantes, y su tormento empeora cuando descubre que estos sueños de vigilia son, de hecho, realidades aterradoras.",
+        "all": "all"
+    },
+    {
         "id": "383",
         "genero": "Thriller",
         "titulo": "Malos momentos en el Hotel Royale",
@@ -4227,6 +4257,26 @@
         "tiempo": "1h 56m",
         "link": "11525644",
         "descrip": "Detroit, año 1954. Unos delincuentes de poca monta son contratados para robar lo que creen que es un simple documento. Cuando su plan no sale como ellos esperaban, emprenden la búsqueda de quien los contrató y del propósito fina",
+        "all": "all"
+    },
+    {
+        "id": "665",
+        "genero": "Horror",
+        "titulo": "No respires",
+        "anio": 2016,
+        "tiempo": "1h 29m",
+        "link": "4160708",
+        "descrip": "Unos jóvenes ladrones creen haber encontrado la oportunidad de cometer el robo perfecto. Su objetivo será un ciego solitario, poseedor de miles de dólares ocultos. Pero tan pronto como entran en su casa serán conscientes de su error, pues se encontrarán atrapados y luchando por sobrevivir contra un psicópata con sus propios y temibles secretos.",
+        "all": "all"
+    },
+    {
+        "id": "666",
+        "genero": "Horror",
+        "titulo": "No respires 2",
+        "anio": 2021,
+        "tiempo": "1h 39m",
+        "link": "6246322",
+        "descrip": "Años después de la invasión mortal de su hogar, Norman Nordstrom vive tranquilo y cómodo hasta que sus pecados del pasado ​​lo alcanzan.",
         "all": "all"
     },
     {
