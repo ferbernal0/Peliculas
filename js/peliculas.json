@@ -80,66 +80,6 @@
         "all": "all"
     },
     {
-        "id": "009",
-        "genero": "Horror",
-        "titulo": "Actividad paranormal",
-        "anio": 2007,
-        "tiempo": "1h 27m",
-        "link": "1179904",
-        "descrip": "Una pareja feliz, joven y de clase media ve su vida atormentada por un espíritu demoníaco. Ella es una estudiante que está punto de graduarse como profesora, y él, un corredor de bolsa que trabaja desde su casa. Viven desde hace tres años en una casa que hasta el momento les parecía completamente normal; pero, inesperadamente, extraños fenómenos paranormales empiezan a perturbar su vida.",
-        "all": "all"
-    },
-    {
-        "id": "010",
-        "genero": "Horror",
-        "titulo": "Actividad paranormal 2",
-        "anio": 2010,
-        "tiempo": "1h 39m",
-        "link": "1536044",
-        "descrip": "Después de sufrir lo que ellos creen una serie de robos, una familia coloca cámaras de seguridad en toda la casa, descubriendo para su sorpresa un lado mucho más siniestro que los propios sucesos inquietantes que están viviendo... Secuela del gran e inesperado éxito del cine independiente Paranormal Activity.",
-        "all": "all"
-    },
-    {
-        "id": "011",
-        "genero": "Horror",
-        "titulo": "Actividad paranormal 3",
-        "anio": 2011,
-        "tiempo": "1h 34m",
-        "link": "1778304",
-        "descrip": "Tercera entrega de la saga Paranormal Activity. Se remonta hasta 1988, cuando las hermanas Katie y Kristi eran solo unas niñas y tienen su primer encuentro con lo sobrenatural.",
-        "all": "all"
-    },
-    {
-        "id": "012",
-        "genero": "Horror",
-        "titulo": "Actividad paranormal 4",
-        "anio": 2012,
-        "tiempo": "1h 37m",
-        "link": "2109184",
-        "descrip": "Todo transcurre cinco años después de los sucesos de Paranormal Activity 2, que terminó con el secuestro de Hunter por parte de Katie. En la actualidad, Katie y Hunter, que ahora se hace llamar Robbie, se han trasladado a un nuevo barrio y sus vecinos, Alex y su familia, comienzan a experimentar sucesos paranormales que ocurren en su casa.",
-        "all": "all"
-    },
-    {
-        "id": "013",
-        "genero": "Horror",
-        "titulo": "Actividad paranormal: Los marcados",
-        "anio": 2014,
-        "tiempo": "1h 42m",
-        "link": "2473682",
-        "descrip": "Después de sufrir una maldición, Jesse empieza a ser perseguido por fuerzas misteriosas, aunque su familia y sus amigos harán todo lo posible para salvarlo. Spin-off latino de la saga Paranormal Activity.",
-        "all": "all"
-    },
-    {
-        "id": "014",
-        "genero": "Horror",
-        "titulo": "Actividad paranormal: La dimensión fantasma",
-        "anio": 2015,
-        "tiempo": "1h 38m",
-        "link": "2473510",
-        "descrip": "La familia Fleege acaba de mudarse de casa. Entre las cosas que dejaron los anteriores inquilinos, encuentran una cámara de vídeo y unos viejos vídeos. El contenido de las cintas muestran imágenes extrañas, de dos niñas que habitaban la casa antiguamente: Kristi y Katie (Actividad paranormal 3). Muy pronto se darán cuenta que los antiguos dueños del local dejaron abandonada una cámara de vídeo HD que tiene la predicción de ver fantasmas por medio del lente de la cámara, cosa que ningún humano puede ver.",
-        "all": "all"
-    },
-    {
         "id": "015",
         "genero": "Thriller",
         "titulo": "Aislados",
