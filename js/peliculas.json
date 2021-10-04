@@ -1800,26 +1800,6 @@
         "all": "all"
     },
     {
-        "id": "667",
-        "genero": "Horror",
-        "titulo": "Escape Room: Sin salida",
-        "anio": 2019,
-        "tiempo": "1h 40m",
-        "link": "5886046",
-        "descrip": "Seis desconocidos se encuentran en una habitación mortal en la que deberán usar su ingenio para sobrevivir.",
-        "all": "all"
-    },
-    {
-        "id": "668",
-        "genero": "Horror",
-        "titulo": "Escape Room 2: Reto mortal",
-        "anio": 2021,
-        "tiempo": "1h 36m",
-        "link": "9844522",
-        "descrip": "Seis personas se encuentran encerradas de manera inesperada en una nueva serie de escape rooms, revelando paulatinamente aquello que tienen en común para sobrevivir… y descubriendo que todos ya habían jugado el juego con anterioridad.",
-        "all": "all"
-    },
-    {
         "id": "184",
         "genero": "Infantil",
         "titulo": "Espías a escondidas",
@@ -4457,6 +4437,16 @@
         "tiempo": "2h 39m",
         "link": "0469494",
         "descrip": "Texas, principios del siglo XX. Una historia sobre la familia, la avaricia y la religión. Daniel Plainview se traslada a una miserable ciudad con el propósito de hacer fortuna, pero, a medida que se va enriqueciendo, sus principios y valores desaparecen y acaba dominado por la ambición. Tras encontrar un rico yacimiento de petróleo en 1902, se convierte en un acaudalado magnate. Cuando, años después, intenta apoderarse de un nuevo yacimiento, tiene que enfrentarse al predicador Eli Sunday.",
+        "all": "all"
+    },
+    {
+        "id": "671",
+        "genero": "Thriller",
+        "titulo": "Pig",
+        "anio": 2021,
+        "tiempo": "1h 32m",
+        "link": "11003218",
+        "descrip": "Un cazador de trufas que vive sólo en la zona salvaje de Oregón, regresa a Portland para recuperar a su querida cerda trufera, que ha sido secuestrada.",
         "all": "all"
     },
     {
