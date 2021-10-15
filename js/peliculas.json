@@ -1500,16 +1500,6 @@
         "all": "all"
     },
     {
-        "id": "672",
-        "genero": "Thriller",
-        "titulo": "El prófugo",
-        "anio": 2020,
-        "tiempo": "1h 35m",
-        "link": "11417886",
-        "descrip": "Inés, es una mujer que, tras un episodio traumático durante un viaje con su pareja, comienza a confundir la frontera entre lo real y lo imaginario. Vívidas pesadillas y sonidos recurrentes invaden la vida cotidiana que lleva junto a su madre, hasta que ensayando para un concierto conoce a Alberto, un joven que se acomoda a su mundo sin cuestionamientos. Pero Inés no puede evitar una sensación peligrosa: hay seres que provienen de sus sueños. Seres que quieren quedarse para siempre.",
-        "all": "all"
-    },
-    {
         "id": "154",
         "genero": "Crimen",
         "titulo": "El rastro",
@@ -2277,6 +2267,16 @@
         "tiempo": "1h 38m",
         "link": "5220122",
         "descrip": "Nuestra familia de monstruos favorita se embarca en un crucero de lujo para que por fin Drac pueda tomarse un descanso de proveer de vacaciones al resto en el hotel. Es una navegación tranquila para la pandilla de Drac, ya que los monstruos se entregan a toda la diversión a bordo que ofrece el crucero, desde el voleibol de monstruos y las excursiones exóticas, a ponerse al día con sus bronceados de luna. Pero las vacaciones de ensueño se convierten en una pesadilla cuando Mavis se da cuenta de que Drac se ha enamorado de la misteriosa capitana de la nave, Ericka, quien esconde un peligroso secreto que podría destruir a todos los monstruos.",
+        "all": "all"
+    },
+    {
+        "id": "672",
+        "genero": "Thriller",
+        "titulo": "Hunter Hunter",
+        "anio": 2020,
+        "tiempo": "1h 34m",
+        "link": "2226162",
+        "descrip": "Joseph y su familia viven en un lugar remoto como cazadores de pieles, hasta que su tranquilidad empieza a ser amenazada por un lobo.",
         "all": "all"
     },
     {
