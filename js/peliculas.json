@@ -930,6 +930,16 @@
         "all": "all"
     },
     {
+        "id": "675",
+        "genero": "Drama",
+        "titulo": "El caso Collini",
+        "anio": 2019,
+        "tiempo": "2h 03m",
+        "link": "8739752",
+        "descrip": "Un abogado decide llevar la defensa de un hombre al que se acusa de haber asesinado a un respetable hombre de negocios de avanzada edad. A medida que profundiza en la investigación del caso, el abogado destapa uno de los mayores escándalos judiciales de la historia de Alemania.",
+        "all": "all"
+    },
+    {
         "id": "097",
         "genero": "Horror",
         "titulo": "El ciempiés humano",
