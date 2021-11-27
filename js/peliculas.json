@@ -6730,6 +6730,116 @@
         "all": "all"
     },
     {
+        "id": "850",
+        "genero": "Series",
+        "titulo": "Los Simpson",
+        "anio": "1989-2002",
+        "tiempo": "25m aprox. c/u",
+        "link": "0096697",
+        "descrip": "Narra la historia de una peculiar familia y otros divertidos personajes de la localidad norteamericana de Springfield. Homero, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de 10 años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel. (13 temporadas - 291 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "851",
+        "genero": "Series",
+        "titulo": "Parks and Recreation",
+        "anio": "2009-2015",
+        "tiempo": "22m aprox. c/u",
+        "link": "1266020",
+        "descrip": "La serie sigue las andanzas en formato de documental, de Leslie Knope, que trabaja en el departamento de parques y tiempo libre en Pawnee, Indiana. Knope se une a una enfermera llamada Ann para lograr convertir en un parque lo que es un trozo de tierra abandonado, tratando de navegar hasta lograrlo por las mil trabas de la administración municipal y varios colectivos. (7 temporadas - 125 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "852",
+        "genero": "Series",
+        "titulo": "Rick y Morty",
+        "anio": "2013-act.",
+        "tiempo": "22m aprox. c/u",
+        "link": "2861424",
+        "descrip": "Comedia animada que narra las aventuras de un científico loco, Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos, Morty y Summer. (5 temporadas - 51 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "853",
+        "genero": "Series",
+        "titulo": "Seinfeld",
+        "anio": "1989-1998",
+        "tiempo": "22-24m aprox. c/u",
+        "link": "0098904",
+        "descrip": "Cuatro amigos solteros, el comediante Jerry Seinfeld, el torpe George Constanza, la trabajadora frustrada Elaine Benes y el excéntrico vecino Cosmo Kramer, lidian con las vicisitudes diarias de la vida en la ciudad de Nueva York. (9 temporadas - 173 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "854",
+        "genero": "Series",
+        "titulo": "The Office",
+        "anio": "2005-2013",
+        "tiempo": "22-26m aprox. c/u",
+        "link": "0386676",
+        "descrip": "Un falso documental sobre un grupo de típicos trabajadores de oficina, en el que la jornada laboral consiste en choques de ego, comportamientos inapropiados y tediosos. (9 temporadas - 188 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "855",
+        "genero": "Series",
+        "titulo": "Tom y Jerry",
+        "anio": "1940-1967",
+        "tiempo": "6-10m aprox. c/u",
+        "link": "0032953",
+        "descrip": "Serie animada que muestra los intentos de un gato 'Tom' por capturar a un ratón 'Jerry'.  (3 temporadas - 164 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "856",
+        "genero": "Series",
+        "titulo": "WandaVision",
+        "anio": 2021,
+        "tiempo": "29-46m aprox. c/u",
+        "link": "9140560",
+        "descrip": "Cuenta la historia Wanda Maximoff y Vision, dos seres con superpoderes que viven una vida idílica en las afueras de una ciudad hasta que un día comienzan a sospechar que no todo es lo que parece. (1 temporada - 9 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "857",
+        "genero": "Series",
+        "titulo": "Falcon y el Soldado del Invierno",
+        "anio": 2021,
+        "tiempo": "49-60m aprox. c/u",
+        "link": "9208876",
+        "descrip": "Seis meses después de recibir el manto del Capitán América, Sam Wilson se une a Bucky Barnes en una aventura que pondrá a prueba sus habilidades, destrezas y paciencia. (1 temporada - 6 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "858",
+        "genero": "Series",
+        "titulo": "Loki",
+        "anio": "2021-act.",
+        "tiempo": "42-50m aprox. c/u",
+        "link": "9140554",
+        "descrip": "Loki es llevado ante la misteriosa organización llamada Autoridad de Variación Temporal después de robar el Cubo Cósmico durante los eventos de Avengers Endgame y se le da a elegir enfrentarse a la eliminación de la realidad o ayudar contra una amenaza mayor,​ por lo cual Loki termina viajando a través del tiempo, alterando la historia humana. (1 temporada - 6 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "859",
+        "genero": "Series",
+        "titulo": "What If...?",
+        "anio": "2021-act.",
+        "tiempo": "30-37m aprox. c/u",
+        "link": "10168312",
+        "descrip": "Explora momentos clave del universo Marvel y plantea situaciones alternativas sobre algunos de los personajes más importantes de esas películas. (1 temporada - 9 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "860",
+        "genero": "Series",
+        "titulo": "Hawkeye",
+        "anio": 2021,
+        "tiempo": "m aprox. c/u",
+        "link": "10160804",
+        "descrip": "Narra las aventuras de Hawkeye desde el punto de vista de la sucesora de Clint Barton: Kate Bishop, una de las integrantes del grupo de jóvenes vengadores. (1 temporada - 6 episodios)",
+        "all": "all"
+    },
+    {
         "id": "900",
         "genero": "Cortos",
         "titulo": "22 contra la Tierra",
