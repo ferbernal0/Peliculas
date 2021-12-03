@@ -150,6 +150,16 @@
         "all": "all"
     },
     {
+        "id": "692",
+        "genero": "Accion",
+        "titulo": "Agente Salt",
+        "anio": 2010,
+        "tiempo": "1h 45m",
+        "link": "0944835",
+        "descrip": "La lealtad de Evelyn Salt, una agente de la CIA, es puesta a prueba cuando un desertor la acusa de ser una espía rusa. Entonces, se ve obligada a huir y a servirse de todos sus conocimientos y experiencia para evitar que la capturen. Sus esfuerzos para demostrar su inocencia son inútiles. Mientras tanto, continúa la caza para descubrir su verdadera identidad.",
+        "all": "all"
+    },
+    {
         "id": "015",
         "genero": "Thriller",
         "titulo": "Aislados",
@@ -3547,6 +3557,16 @@
         "tiempo": "1h 23m",
         "link": "0097757",
         "descrip": "Ariel, hija del rey Tritón, es la princesa de las sirenas. Está a punto de celebrarse su fiesta de cumpleaños y su mayor ilusión es poder conocer a los seres humanos. Con la ayuda de la bruja Úrsula, Ariel consigue subir a la superficie, donde salva de morir ahogado a un hermoso príncipe, cuyo barco acaba de naufragar, del que se enamora perdidamente.",
+        "all": "all"
+    },
+    {
+        "id": "339",
+        "genero": "Thriller",
+        "titulo": "La última puerta",
+        "anio": 1999,
+        "tiempo": "2h 14m",
+        "link": "0142688",
+        "descrip": "Dean Corso es un bibliófilo dotado de una sólida cultura, nervios de acero y pocos escrúpulos. Es, además, un hombre extremadamente minucioso y eficaz en su trabajo. Gracias a su reputación, Boris Balkan, un coleccionista de textos satánicos, le encarga una misión muy peligrosa: encontrar los dos últimos ejemplares del legendario manual de invocación satánica ”Las Nueve Puertas del Reino de las Sombras”; pero los recursos de Corso son ilimitados. De Nueva York a Toledo, de París a Sintra, se verá inmerso en un laberinto lleno de peligros y tentaciones, aterradoras sorpresas, violencia y muertes inesperadas.",
         "all": "all"
     },
     {
@@ -7736,7 +7756,7 @@
         "anio": 1949,
         "tiempo": "7m 40s",
         "link": "0041978",
-        "descrip": "Durante la navidad, Chip y Chop intentarán entrar en casa de Donald para robarle sus nueces. Pero éste les espera dentro de casa, vestido de Santa Claus.",
+        "descrip": "Durante la navidad, Chip y Dale intentarán entrar en casa de Donald para robarle sus nueces. Pero éste les espera dentro de casa, vestido de Santa Claus.",
         "all": "all"
     },
     {
