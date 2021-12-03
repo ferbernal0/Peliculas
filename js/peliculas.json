@@ -6900,16 +6900,6 @@
         "all": "all"
     },
     {
-        "id": "850",
-        "genero": "Series",
-        "titulo": "Los Simpson",
-        "anio": "1989-2002",
-        "tiempo": "25m aprox. c/u",
-        "link": "0096697",
-        "descrip": "Narra la historia de una peculiar familia y otros divertidos personajes de la localidad norteamericana de Springfield. Homero, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de 10 años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel. (13 temporadas - 291 episodios)",
-        "all": "all"
-    },
-    {
         "id": "861",
         "genero": "Series",
         "titulo": "Jack Ryan de Tom Clancy",
@@ -6917,6 +6907,16 @@
         "tiempo": "60m aprox. c/u",
         "link": "5057054",
         "descrip": "El Jack Ryan de Tom Clancy sigue a un prometedor analista de la CIA metido en una peligrosa misión por primera vez. Ryan descubre un patrón en la comunicación terrorista que le lanza al centro de una peligrosa maniobra con una nueva especie de terrorismo que amenaza con la destrucción global. (2 temporadas - 16 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "850",
+        "genero": "Series",
+        "titulo": "Los Simpson",
+        "anio": "1989-2002",
+        "tiempo": "25m aprox. c/u",
+        "link": "0096697",
+        "descrip": "Narra la historia de una peculiar familia y otros divertidos personajes de la localidad norteamericana de Springfield. Homero, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de 10 años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel. (13 temporadas - 291 episodios)",
         "all": "all"
     },
     {
