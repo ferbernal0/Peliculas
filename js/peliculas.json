@@ -4120,46 +4120,6 @@
         "all": "all"
     },
     {
-        "id": "393",
-        "genero": "Infantil",
-        "titulo": "Cuento de Navidad de Mickey",
-        "anio": 1983,
-        "tiempo": "26m",
-        "link": "0085936",
-        "descrip": "Adaptación de 'A Christmas Carol', de Charles Dickens, en el que el humilde y agradable Bob Cratchit no puede esperar para volver a casa y compartir con su familia el día de Nochebuena, aunque no haya mucha comida para compartir. Su jefe, Ebenezer Scrooge, es el hombre más tacaño de la ciudad y piensa que la Navidad, debería servir, como cualquier otro día, para ganar dinero. Después de concederle a Boob medio día libre, Scrooge se dirige a casa sin sospechar la tenebrosa sorpresa que le espera... ",
-        "all": "all"
-    },
-    {
-        "id": "394",
-        "genero": "Infantil",
-        "titulo": "Mickey celebra la Navidad",
-        "anio": 1999,
-        "tiempo": "1h 06m",
-        "link": "0238414",
-        "descrip": "La estrella más conocida de Disney brilla en una fascinante y mágica película que seguramente pasará a convertirse en un nuevo clásico. Mickey, Minnie y sus famosos amigos Goofy, Donald, Daisy y Pluto recuerdan juntos las Navidades pasadas en estas tres maravillosas historias. Los famosos sobrinos de Donald: Jorgito, Juanito y Jaimito sueñan con que cada día sea Navidad. Lo desean con tantas fuerzas que su deseo se ve cumplido. A la mañana siguiente vuelve a ser Navidad, pasan los días y sigue siendo Navidad hasta que terminan por aburrirse y empiezan a ver el otro significado que tiene la Navidad, no sólo regalos y juguetes, sino también amor, amistad y cariño. Goofy y Max reviven juntos divertidas historias. En una Navidad habían perdido la ilusión de que Papá Noel existiera, pero se verán sorprendidos cuando el día de Nochebuena reciban la visita del verdadero Papa Noel que hará que esas Navidades sean insuperables. Minnie y Mickey se daran cuenta de que es más importante disfrutar el uno del otro en la Navidad, que del regalo en si mismo. Como broche final se reúnen todos nuestros personajes para desearnos una ¡Feliz Navidad!",
-        "all": "all"
-    },
-    {
-        "id": "395",
-        "genero": "Infantil",
-        "titulo": "La Navidad Mágica de Mickey: ¡Reunidos para celebrar!",
-        "anio": 2001,
-        "tiempo": "1h 02m",
-        "link": "0300195",
-        "descrip": "Únete a Mickey y a todos tus personajes favoritos Disney - juntos por vez primera - en su cálida celebración navideña y canta con ellos la maravillosa canción 'Tu mejor Navidad'. Cuando una fuerte tormenta de nieve deja a todos aislados, Mickey y sus invitados en la 'House of Mouse', entre los que se encuentran Winnie the Pooh, Bella, Ariel, Blancanieves y muchos viejos y nuevos amigos, ayudarán a Donald a recuperar su deteriorado espíritu festivo. La diversión comienza cuando Minnie saca sus películas navideñas preferidas y todos empiezan a recordar. Sus mágicos recuerdos pronto empapan a todos de un cálido espíritu, incluyendo al gruñón Donald, que acaba convirtiéndose en la estrella de la noche. Cuando todos unen sus voces para cantar, se dan cuenta que 'Tu mejor Navidad' es la que pasas junto a las personas que te aprecian.",
-        "all": "all"
-    },
-    {
-        "id": "396",
-        "genero": "Infantil",
-        "titulo": "Mickey y sus amigos: Juntos otra navidad",
-        "anio": 2004,
-        "tiempo": "1h 08m",
-        "link": "0424279",
-        "descrip": "Disfruta en la nueva celebración navideña de Disney. Mickey, Donald, Goofy y sus amigos protagonizan esta original película sobre la importancia de abrir el corazón al verdadero espíritu de la Navidad. Diviértete con las divertidas ocurrencias del gruñón Donald, que intentará resistirse sin conseguirlo a la alegría que reina en esta época del año. Y no pares de reírte con Mickey y Pluto mientras aprenden una gran lección sobre la importancia de la amistad.",
-        "all": "all"
-    },
-    {
         "id": "397",
         "genero": "Horror",
         "titulo": "Midsommar: el terror no espera la noche",
@@ -7190,6 +7150,16 @@
         "all": "all"
     },
     {
+        "id": "991",
+        "genero": "Cortos",
+        "titulo": "Cuento de Navidad de Mickey",
+        "anio": 1983,
+        "tiempo": "25m 41s",
+        "link": "0085936",
+        "descrip": "Adaptación de 'A Christmas Carol', de Charles Dickens, en el que el humilde y agradable Bob Cratchit no puede esperar para volver a casa y compartir con su familia el día de Nochebuena, aunque no haya mucha comida para compartir. Su jefe, Ebenezer Scrooge, es el hombre más tacaño de la ciudad y piensa que la Navidad, debería servir, como cualquier otro día, para ganar dinero. Después de concederle a Boob medio día libre, Scrooge se dirige a casa sin sospechar la tenebrosa sorpresa que le espera...",
+        "all": "all"
+    },
+    {
         "id": "916",
         "genero": "Cortos",
         "titulo": "Día y noche",
@@ -7520,6 +7490,16 @@
         "all": "all"
     },
     {
+        "id": "993",
+        "genero": "Cortos",
+        "titulo": "La Navidad Mágica de Mickey: ¡Reunidos para celebrar!",
+        "anio": 2001,
+        "tiempo": "1h 02m",
+        "link": "0300195",
+        "descrip": "Únete a Mickey y a todos tus personajes favoritos Disney - juntos por vez primera - en su cálida celebración navideña y canta con ellos la maravillosa canción 'Tu mejor Navidad'. Cuando una fuerte tormenta de nieve deja a todos aislados, Mickey y sus invitados en la 'House of Mouse', entre los que se encuentran Winnie the Pooh, Bella, Ariel, Blancanieves y muchos viejos y nuevos amigos, ayudarán a Donald a recuperar su deteriorado espíritu festivo. La diversión comienza cuando Minnie saca sus películas navideñas preferidas y todos empiezan a recordar. Sus mágicos recuerdos pronto empapan a todos de un cálido espíritu, incluyendo al gruñón Donald, que acaba convirtiéndose en la estrella de la noche. Cuando todos unen sus voces para cantar, se dan cuenta que 'Tu mejor Navidad' es la que pasas junto a las personas que te aprecian.",
+        "all": "all"
+    },
+    {
         "id": "948",
         "genero": "Cortos",
         "titulo": "La pequeña gallina sabia",
@@ -7660,6 +7640,16 @@
         "all": "all"
     },
     {
+        "id": "992",
+        "genero": "Cortos",
+        "titulo": "Mickey celebra la Navidad",
+        "anio": 1999,
+        "tiempo": "1h 06m",
+        "link": "0238414",
+        "descrip": "La estrella más conocida de Disney brilla en una fascinante y mágica película que seguramente pasará a convertirse en un nuevo clásico. Mickey, Minnie y sus famosos amigos Goofy, Donald, Daisy y Pluto recuerdan juntos las Navidades pasadas en estas tres maravillosas historias. Los famosos sobrinos de Donald: Jorgito, Juanito y Jaimito sueñan con que cada día sea Navidad. Lo desean con tantas fuerzas que su deseo se ve cumplido. A la mañana siguiente vuelve a ser Navidad, pasan los días y sigue siendo Navidad hasta que terminan por aburrirse y empiezan a ver el otro significado que tiene la Navidad, no sólo regalos y juguetes, sino también amor, amistad y cariño. Goofy y Max reviven juntos divertidas historias. En una Navidad habían perdido la ilusión de que Papá Noel existiera, pero se verán sorprendidos cuando el día de Nochebuena reciban la visita del verdadero Papa Noel que hará que esas Navidades sean insuperables. Minnie y Mickey se daran cuenta de que es más importante disfrutar el uno del otro en la Navidad, que del regalo en si mismo. Como broche final se reúnen todos nuestros personajes para desearnos una ¡Feliz Navidad!",
+        "all": "all"
+    },
+    {
         "id": "962",
         "genero": "Cortos",
         "titulo": "Mickey Mago",
@@ -7667,6 +7657,16 @@
         "tiempo": "7m 14s",
         "link": "0029188",
         "descrip": "Mickey es un ilusionista y Goofy su ayudante. El pato Donald, sentado entre el público, duda de la honestidad de los trucos del dúo...",
+        "all": "all"
+    },
+    {
+        "id": "994",
+        "genero": "Cortos",
+        "titulo": "Mickey y sus amigos: Juntos otra navidad",
+        "anio": 2004,
+        "tiempo": "1h 08m",
+        "link": "0424279",
+        "descrip": "Disfruta en la nueva celebración navideña de Disney. Mickey, Donald, Goofy y sus amigos protagonizan esta original película sobre la importancia de abrir el corazón al verdadero espíritu de la Navidad. Diviértete con las divertidas ocurrencias del gruñón Donald, que intentará resistirse sin conseguirlo a la alegría que reina en esta época del año. Y no pares de reírte con Mickey y Pluto mientras aprenden una gran lección sobre la importancia de la amistad.",
         "all": "all"
     },
     {
