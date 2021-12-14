@@ -4396,7 +4396,7 @@
         "anio": 2021,
         "tiempo": "1h 39m",
         "link": "6246322",
-        "descrip": "Años después de la invasión mortal de su hogar, Norman Nordstrom vive tranquilo y cómodo hasta que sus pecados del pasado ​​lo alcanzan.",
+        "descrip": "Años después de la invasión mortal de su hogar, Norman Nordstrom vive tranquilo y cómodo hasta que sus pecados del pasado lo alcanzan.",
         "all": "all"
     },
     {
@@ -6890,13 +6890,33 @@
         "all": "all"
     },
     {
+        "id": "864",
+        "genero": "Series",
+        "titulo": "Bob's Burgers",
+        "anio": "2011-act.",
+        "tiempo": "20-24m",
+        "link": "1561755",
+        "descrip": "Narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio. (12 temporadas - 225 episodios)",
+        "all": "all"
+    },
+    {
         "id": "863",
         "genero": "Series",
         "titulo": "(Des)encanto",
         "anio": "2018-act.",
-        "tiempo": "27-36m aprox. c/u",
+        "tiempo": "27-36m",
         "link": "5363918",
         "descrip": "Narra las desventuras de Bean, una princesa aficionada a la bebida en el mundo medieval en ruinas de Dreamland. Ahí viaja acompañada por Elfo, su enérgico acompañante, y Luci, su demonio personal. En el camino, este trío disfuncional se encontrará con ogros, arpías, trolls, duendecillos, diabillos, morsas y muchos humanos tontos. (3 temporadas - 30 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "865",
+        "genero": "Series",
+        "titulo": "Futurama",
+        "anio": "1999-2013",
+        "tiempo": "22m aprox.",
+        "link": "0149460",
+        "descrip": "Ambientada en la ciudad de 'Nueva Nueva York' en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express. (7 temporadas - 140 episodios)",
         "all": "all"
     },
     {
@@ -6904,9 +6924,19 @@
         "genero": "Series",
         "titulo": "Jack Ryan de Tom Clancy",
         "anio": "2018-act.",
-        "tiempo": "60m aprox. c/u",
+        "tiempo": "60m aprox.",
         "link": "5057054",
         "descrip": "El Jack Ryan de Tom Clancy sigue a un prometedor analista de la CIA metido en una peligrosa misión por primera vez. Ryan descubre un patrón en la comunicación terrorista que le lanza al centro de una peligrosa maniobra con una nueva especie de terrorismo que amenaza con la destrucción global. (2 temporadas - 16 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "866",
+        "genero": "Series",
+        "titulo": "La casa de los dibujos",
+        "anio": "2004-2007",
+        "tiempo": "22m aprox.",
+        "link": "0386180",
+        "descrip": "La casa de los dibujos parodia de forma grotesca los sucesos de un Reality show, en este sentido habrá unos concursantes en una casa y deberán interrelacionarse, la parodia de la serie va más lejos debido a que los personajes son tomados de otros dibujos animados, de videojuegos e incluso de un flash de internet. (3 temporadas - 36 episodios)",
         "all": "all"
     },
     {
@@ -6914,7 +6944,7 @@
         "genero": "Series",
         "titulo": "Los Simpson",
         "anio": "1989-2002",
-        "tiempo": "25m aprox. c/u",
+        "tiempo": "25m aprox.",
         "link": "0096697",
         "descrip": "Narra la historia de una peculiar familia y otros divertidos personajes de la localidad norteamericana de Springfield. Homero, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de 10 años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel. (13 temporadas - 291 episodios)",
         "all": "all"
@@ -6924,7 +6954,7 @@
         "genero": "Series",
         "titulo": "Padre de familia",
         "anio": "1999-act.",
-        "tiempo": "20-23m aprox. c/u",
+        "tiempo": "20-23m",
         "link": "0182576",
         "descrip": "Conocida por su humor negro e irreverente, la serie gira en torno a las aventuras de Peter Griffin y su disfuncional familia. Peter trabaja en una fábrica de juguetes; es irresponsable y juerguista. Lois es ama de casa y profesora de piano. Tienen tres hijos: Chris, un muchacho algo lento que lleva un artista en su interior; Megan, una adolescente con problemas de integración en la escuela; y Stewie, un bebé diabólico que sueña con conquistar el mundo. También vive con ellos Brian, un perro sumamente inteligente que se comporta como un humano. Otros personajes habituales son Joe, un expolicía parapléjico; Cleveland, un amigo de Peter; y Quagmire, un soltero obsesionado por el sexo. (20 temporadas - 378 episodios)",
         "all": "all"
@@ -6934,7 +6964,7 @@
         "genero": "Series",
         "titulo": "Parks and Recreation",
         "anio": "2009-2015",
-        "tiempo": "22m aprox. c/u",
+        "tiempo": "22m aprox.",
         "link": "1266020",
         "descrip": "La serie sigue las andanzas en formato de documental, de Leslie Knope, que trabaja en el departamento de parques y tiempo libre en Pawnee, Indiana. Knope se une a una enfermera llamada Ann para lograr convertir en un parque lo que es un trozo de tierra abandonado, tratando de navegar hasta lograrlo por las mil trabas de la administración municipal y varios colectivos. (7 temporadas - 125 episodios)",
         "all": "all"
@@ -6944,7 +6974,7 @@
         "genero": "Series",
         "titulo": "Rick y Morty",
         "anio": "2013-act.",
-        "tiempo": "22m aprox. c/u",
+        "tiempo": "22m aprox.",
         "link": "2861424",
         "descrip": "Comedia animada que narra las aventuras de un científico loco, Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos, Morty y Summer. (5 temporadas - 51 episodios)",
         "all": "all"
@@ -6954,9 +6984,19 @@
         "genero": "Series",
         "titulo": "Seinfeld",
         "anio": "1989-1998",
-        "tiempo": "22-24m aprox. c/u",
+        "tiempo": "22-24m",
         "link": "0098904",
         "descrip": "Cuatro amigos solteros, el comediante Jerry Seinfeld, el torpe George Constanza, la trabajadora frustrada Elaine Benes y el excéntrico vecino Cosmo Kramer, lidian con las vicisitudes diarias de la vida en la ciudad de Nueva York. (9 temporadas - 173 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "867",
+        "genero": "Series",
+        "titulo": "Solar Opposites",
+        "anio": "2020-act.",
+        "tiempo": "21-24m",
+        "link": "8910922",
+        "descrip": "Es una serie en la que una familia de extraterrestres trata de encajar en 'este agujero de basura infectado de humanos llamado Tierra'. (2 temporadas - 16 episodios)",
         "all": "all"
     },
     {
@@ -6964,7 +7004,7 @@
         "genero": "Series",
         "titulo": "The Office",
         "anio": "2005-2013",
-        "tiempo": "22-26m aprox. c/u",
+        "tiempo": "22-26m",
         "link": "0386676",
         "descrip": "Un falso documental sobre un grupo de típicos trabajadores de oficina, en el que la jornada laboral consiste en choques de ego, comportamientos inapropiados y tediosos. (9 temporadas - 188 episodios)",
         "all": "all"
@@ -6974,9 +7014,19 @@
         "genero": "Series",
         "titulo": "Tom y Jerry",
         "anio": "1940-1967",
-        "tiempo": "6-10m aprox. c/u",
+        "tiempo": "6-10m",
         "link": "0032953",
         "descrip": "Serie animada que muestra los intentos de un gato 'Tom' por capturar a un ratón 'Jerry'.  (3 temporadas - 164 episodios)",
+        "all": "all"
+    },
+    {
+        "id": "868",
+        "genero": "Series",
+        "titulo": "Ugly Americans",
+        "anio": "2010-2012",
+        "tiempo": "22m aprox.",
+        "link": "1621748",
+        "descrip": "El protagonista es Mark Lilly, un humano que vive en este Nueva York alternativo, lleno de zombies, vampiros, demonios y criaturas del estilo. Trabaja en el Departamento de Integración como asistente social y su objetivo es precisamente integrar a estos seres no humanos en nuestro mundo buscándoles trabajo. (2 temporadas - 31 episodios)",
         "all": "all"
     },
     {
@@ -6984,7 +7034,7 @@
         "genero": "Series",
         "titulo": "WandaVision",
         "anio": 2021,
-        "tiempo": "29-46m aprox. c/u",
+        "tiempo": "29-46m",
         "link": "9140560",
         "descrip": "Cuenta la historia Wanda Maximoff y Vision, dos seres con superpoderes que viven una vida idílica en las afueras de una ciudad hasta que un día comienzan a sospechar que no todo es lo que parece. (1 temporada - 9 episodios)",
         "all": "all"
@@ -6994,7 +7044,7 @@
         "genero": "Series",
         "titulo": "Falcon y el Soldado del Invierno",
         "anio": 2021,
-        "tiempo": "49-60m aprox. c/u",
+        "tiempo": "49-60m",
         "link": "9208876",
         "descrip": "Seis meses después de recibir el manto del Capitán América, Sam Wilson se une a Bucky Barnes en una aventura que pondrá a prueba sus habilidades, destrezas y paciencia. (1 temporada - 6 episodios)",
         "all": "all"
@@ -7004,9 +7054,9 @@
         "genero": "Series",
         "titulo": "Loki",
         "anio": "2021-act.",
-        "tiempo": "42-50m aprox. c/u",
+        "tiempo": "42-50m",
         "link": "9140554",
-        "descrip": "Loki es llevado ante la misteriosa organización llamada Autoridad de Variación Temporal después de robar el Cubo Cósmico durante los eventos de Avengers Endgame y se le da a elegir enfrentarse a la eliminación de la realidad o ayudar contra una amenaza mayor,​ por lo cual Loki termina viajando a través del tiempo, alterando la historia humana. (1 temporada - 6 episodios)",
+        "descrip": "Loki es llevado ante la misteriosa organización llamada Autoridad de Variación Temporal después de robar el Cubo Cósmico durante los eventos de Avengers Endgame y se le da a elegir enfrentarse a la eliminación de la realidad o ayudar contra una amenaza mayor, por lo cual Loki termina viajando a través del tiempo, alterando la historia humana. (1 temporada - 6 episodios)",
         "all": "all"
     },
     {
@@ -7014,7 +7064,7 @@
         "genero": "Series",
         "titulo": "What If...?",
         "anio": "2021-act.",
-        "tiempo": "30-37m aprox. c/u",
+        "tiempo": "30-37m",
         "link": "10168312",
         "descrip": "Explora momentos clave del universo Marvel y plantea situaciones alternativas sobre algunos de los personajes más importantes de esas películas. (1 temporada - 9 episodios)",
         "all": "all"
@@ -7557,6 +7607,26 @@
         "tiempo": "4m 40s",
         "link": "4941804",
         "descrip": "Riley se prepara para su primera cita bajo la atenta mirada de las emociones de sus padres.",
+        "all": "all"
+    },
+    {
+        "id": "995",
+        "genero": "Cortos",
+        "titulo": "La tortuga y la liebre",
+        "anio": 1935,
+        "tiempo": "8m 37s",
+        "link": "0027126",
+        "descrip": "Max Liebre y Toby Tortuga se desafían el uno al otro a una carrera. Max está muy seguro de que ganará, ya que se sabe mucho más veloz, y se detiene para echarse una siesta. Pero cuando escucha a la muchedumbre aclamar a Toby, que más lento y de manera constante ha mantenido su ritmo, Max debe hacer un último esfuerzo para ganar. ¿Podrá el siempre persistente Toby vencer a Max cruzando la línea de meta?.",
+        "all": "all"
+    },
+    {
+        "id": "996",
+        "genero": "Cortos",
+        "titulo": "La tortuga y la liebre: El regreso de la tortuga Toby",
+        "anio": 1936,
+        "tiempo": "7m 28s",
+        "link": "0028390",
+        "descrip": "El regreso a la competencia entre la tortuga Toby y Max la liebre, solo que esta vez en vez de una carrera es una lucha de boxeo.",
         "all": "all"
     },
     {
