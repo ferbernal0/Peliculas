@@ -1020,36 +1020,6 @@
         "all": "all"
     },
     {
-        "id": "097",
-        "genero": "Horror",
-        "titulo": "El ciempiés humano",
-        "anio": 2009,
-        "tiempo": "1h 29m",
-        "link": "1467304",
-        "descrip": "El coche de dos chicas norteamericanas que viajan por Europa sufre una avería en medio de un bosque alemán. Buscando ayuda llegan a una casa aislada; al día siguiente, se despiertan en un tétrico sótano junto a un japonés. Poco después descubren que están en manos de un siniestro cirujano alemán especializado en separar a gemelos siameses, pero lo que piensa hacer con ellos supera todos los límites de lo imaginable.",
-        "all": "all"
-    },
-    {
-        "id": "098",
-        "genero": "Horror",
-        "titulo": "El ciempiés humano 2",
-        "anio": 2011,
-        "tiempo": "1h 31m",
-        "link": "1530509",
-        "descrip": "Martin es un solitario con problemas mentales que vive con su madre en un barrio marginal de Londres. Trabaja en el turno nocturno como guardia de seguridad en un estacionamiento subterráneo. Allí se obsesiona cada noche viendo una y otra vez la película 'The Human Centipede' en el pequeño televisor de su oficina. Al borde de la locura por culpa de su padre, y su difícil niñez, Martin pone en marcha un plan para emular el ciempiés humano que tantas veces ha visto en su película favorita.",
-        "all": "all"
-    },
-    {
-        "id": "099",
-        "genero": "Horror",
-        "titulo": "El ciempiés humano 3",
-        "anio": 2015,
-        "tiempo": "1h 43m",
-        "link": "1883367",
-        "descrip": "Tercera y última entrega de la saga 'Human Centipede'. Según su director, 'The Human Centipede 3 hará que la segunda parte parezca una película de Disney.' En esta ocasión, el ciempiés humano estará formado por 500 personas.",
-        "all": "all"
-    },
-    {
         "id": "100",
         "genero": "Accion",
         "titulo": "El club de la pelea",
@@ -3107,16 +3077,6 @@
         "tiempo": "2h 36m",
         "link": "0363163",
         "descrip": "Berlín, abril de 1945. La guerra está sentenciada, pero en las calles de la capital del Reich todavía se libra una encarnizada batalla. Adolf Hitler y sus fieles se han atrincherado en un búnker. Entre ellos se encuentra Traudl Junge, la secretaria personal del Führer. En el exterior, la situación se recrudece. A pesar de que Berlín ya no puede resistir más, Hitler se niega a abandonar la ciudad y, acompañado de Eva Braun (Juliane Köhler), prepara su despedida.",
-        "all": "all"
-    },
-    {
-        "id": "673",
-        "genero": "Horror",
-        "titulo": "La casa oscura",
-        "anio": 2020,
-        "tiempo": "1h 48m",
-        "link": "9731534",
-        "descrip": "Mientras intenta superar la inesperada muerte de su marido, Beth se queda a solas en una casa cerca de un lago especialmente diseñada para ella. Aunque hace todo lo posible por no perder la cordura, los sueños no tardan en aparecer. Las perturbadoras visiones de una presencia que llama por ella en la casa comienzan a ser cada vez más frecuentes. Aunque a la luz del día todo parece normal, Beth empieza lentamente a desesperarse, por lo que decide ignorar el consejo de sus amigos e investiga en sus pertenencias tratando de encontrar alguna respuesta. Allí se topa no sólo con secretos tan extraños como terribles, sino también con un misterio que está dispuesta a resolver.",
         "all": "all"
     },
     {
@@ -6900,26 +6860,6 @@
         "all": "all"
     },
     {
-        "id": "869",
-        "genero": "Series",
-        "titulo": "American Dad",
-        "anio": "2005-act.",
-        "tiempo": "20-23m",
-        "link": "0397306",
-        "descrip": "La serie es una visión irónica de la familia media americana, aunque llevando al extremo las obsesiones y los sinsentidos de la sociedad actual. Stan Smith, el padre, es agente de la CIA y vive en estado permanente de alerta ante la posibilidad de nuevos ataques terroristas. Intenta sin éxito trasladar a su casa la disciplina castrense. La madre es la encantadora Francine, que ha decidido sacrificar su espíritu fiestero por respeto a su marido y en aras de una buena convivencia familar. Steve y Hayley son los retoños de la familia Smith. Steve es un chico inseguro e inconformista que se debate entre la ingenuidad de un niño y las drásticas decisiones de un adolescente; por el contrario, su ultra-liberal hermana Hayley pone el contrapunto político a Stan, con quien se pelea constantemente. La nota surrealista la ponen Roger, un sarcástico alienígena rescatado del Area 51 que no acaba de asimilar que no le dejen salir de casa, y Klaus, un pez que habla alemán, fruto de un experimento fallido de la CIA, y que está locamente enamorado de Francine. (18 temporadas - 322 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "870",
-        "genero": "Series",
-        "titulo": "Archer",
-        "anio": "2009-act.",
-        "tiempo": "19-21m aprox.",
-        "link": "1486217",
-        "descrip": "El cortés y sofisticado espía Archer tiene las armas más avanzadas, pero incapaces de protegerlo de la ira de su jefa y madre. (12 temporadas - 126 episodios)",
-        "all": "all"
-    },
-    {
         "id": "882",
         "genero": "Series",
         "titulo": "Aventura bestial",
@@ -6937,16 +6877,6 @@
         "tiempo": "24-28m aprox.",
         "link": "6524350",
         "descrip": "Unos amigos adolescentes ven sus vidas trastornadas por las maravillas y los horrores de la pubertad. (5 temporadas - 51 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "864",
-        "genero": "Series",
-        "titulo": "Bob's Burgers",
-        "anio": "2011-act.",
-        "tiempo": "20-24m aprox.",
-        "link": "1561755",
-        "descrip": "Narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio. (12 temporadas - 225 episodios)",
         "all": "all"
     },
     {
@@ -7140,16 +7070,6 @@
         "all": "all"
     },
     {
-        "id": "878",
-        "genero": "Series",
-        "titulo": "Robot Chicken",
-        "anio": "2005-act.",
-        "tiempo": "11m aprox.",
-        "link": "0437745",
-        "descrip": "Parodia de películas, videojuegos o personalidades de todo el mundo a través de humor mordaz. (11 temporadas - 212 episodios)",
-        "all": "all"
-    },
-    {
         "id": "853",
         "genero": "Series",
         "titulo": "Seinfeld",
@@ -7167,26 +7087,6 @@
         "tiempo": "21-24m aprox.",
         "link": "8910922",
         "descrip": "Es una serie en la que una familia de extraterrestres trata de encajar en 'este agujero de basura infectado de humanos llamado Tierra'. (2 temporadas - 16 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "879",
-        "genero": "Series",
-        "titulo": "South Park",
-        "anio": "1997-act.",
-        "tiempo": "22m aprox.",
-        "link": "0121955",
-        "descrip": "Narra las aventuras de cuatro chicos muy maleducados que viven en la peculiar ciudad de South Park, Colorado. (23 temporadas - 309 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "880",
-        "genero": "Series",
-        "titulo": "The Cleveland Show",
-        "anio": "2009-2013",
-        "tiempo": "21-22m aprox.",
-        "link": "1195935",
-        "descrip": "Cleveland Brown se muda a Stoolbend, Virginia, para reavivar su viejo amor con Donna, su amor platónico de secundaria no correspondido. La nueva vida de Cleveland incluye a una hijastra desconcertante y coqueta, un hijastro de 5 años de edad, que ama a las chicas, unos vecinos campesinos, mal hablados y groseros, una familia Británica que parece haberse quedado atorada en la era victoriana y un clan de osos que vive al final de la cuadra. (4 temporadas - 88 episodios)",
         "all": "all"
     },
     {
