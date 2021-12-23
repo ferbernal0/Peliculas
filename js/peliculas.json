@@ -4040,6 +4040,46 @@
         "all": "all"
     },
     {
+        "id": "97",
+        "genero": "Ciencia Ficcion",
+        "titulo": "Matrix",
+        "anio": 1999,
+        "tiempo": "2h 17m",
+        "link": "0133093",
+        "descrip": "Thomas Anderson es un brillante programador de una respetable compañía de software. Pero fuera del trabajo es Neo, un hacker que un día recibe una misteriosa visita...",
+        "all": "all"
+    },
+    {
+        "id": "98",
+        "genero": "Ciencia Ficcion",
+        "titulo": "Matrix: Recargado",
+        "anio": 2003,
+        "tiempo": "2h 19m",
+        "link": "0234215",
+        "descrip": "Neo, Morpheus, Trinity y el resto de la tripulación continúan en la lucha contra las máquinas que han esclavizado a la raza humana. Ahora más humanos han sido despertados e intentan vivir en el mundo real. A medida que aumentan en número, la batalla se acerca a Sion, la última ciudad real en el mundo y centro de la resistencia humana. Y tiene poco tiempo, muy poco tiempo...",
+        "all": "all"
+    },
+    {
+        "id": "99",
+        "genero": "Ciencia Ficcion",
+        "titulo": "Matrix: Revoluciones",
+        "anio": 2003,
+        "tiempo": "2h 10m",
+        "link": "0242653",
+        "descrip": "Todo lo que tiene un comienzo tiene un final. La guerra estalla en la superficie de la tierra mientras las máquinas invaden Zion. Allí donde Reloaded significaba vida, Revolutions apunta a la muerte...",
+        "all": "all"
+    },
+    {
+        "id": "673",
+        "genero": "Ciencia Ficcion",
+        "titulo": "Matrix Resurrecciones",
+        "anio": 2021,
+        "tiempo": "2h 28m",
+        "link": "10838180",
+        "descrip": "Neo vive una vida normal y corriente en San Francisco mientras su terapeuta le prescribe pastillas azules. Hasta que Morfeo le ofrece la pastilla roja y vuelve a abrir su mente al mundo de Matrix.",
+        "all": "all"
+    },
+    {
         "id": "387",
         "genero": "Infantil",
         "titulo": "Megamente",
@@ -6866,7 +6906,7 @@
         "anio": "2012-2015",
         "tiempo": "22m aprox.",
         "link": "2022713",
-        "descrip": "Sigue a un grupo de guardas forestales y un cachorro de oso grizzly hablador y sus vidas cotidianas dentro del ficticio Parque Nacional Brickleberry. (3 temporadas - 33 episodios)",
+        "descrip": "Sigue a un grupo de guardas forestales y un cachorro de oso grizzly hablador y sus vidas cotidianas dentro del ficticio Parque Nacional Brickleberry. (3 temporadas - 36 episodios)",
         "all": "all"
     },
     {
@@ -7044,7 +7084,7 @@
         "genero": "Series",
         "titulo": "Hawkeye",
         "anio": 2021,
-        "tiempo": "m aprox.",
+        "tiempo": "40-62m aprox.",
         "link": "10160804",
         "descrip": "Narra las aventuras de Hawkeye desde el punto de vista de la sucesora de Clint Barton: Kate Bishop, una de las integrantes del grupo de jóvenes vengadores. (1 temporada - 6 episodios)",
         "all": "all"
