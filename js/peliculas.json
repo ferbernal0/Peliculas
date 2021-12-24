@@ -3130,6 +3130,16 @@
         "all": "all"
     },
     {
+        "id": "697",
+        "genero": "Comedia",
+        "titulo": "La crónica francesa",
+        "anio": 2021,
+        "tiempo": "1h 48m",
+        "link": "8847712",
+        "descrip": "Una carta de amor al mundo del periodismo, ambientada en la redacción de un periódico estadounidense en una ciudad francesa ficticia del siglo XX, con tres historias interconectadas entre sí.",
+        "all": "all"
+    },
+    {
         "id": "300",
         "genero": "Infantil",
         "titulo": "La dama y el vagabundo",
@@ -4040,7 +4050,7 @@
         "all": "all"
     },
     {
-        "id": "97",
+        "id": "097",
         "genero": "Ciencia-Ficcion",
         "titulo": "Matrix",
         "anio": 1999,
@@ -4050,7 +4060,7 @@
         "all": "all"
     },
     {
-        "id": "98",
+        "id": "098",
         "genero": "Ciencia-Ficcion",
         "titulo": "Matrix: Recargado",
         "anio": 2003,
@@ -4060,7 +4070,7 @@
         "all": "all"
     },
     {
-        "id": "99",
+        "id": "099",
         "genero": "Ciencia-Ficcion",
         "titulo": "Matrix: Revoluciones",
         "anio": 2003,
