@@ -4041,7 +4041,7 @@
     },
     {
         "id": "97",
-        "genero": "Ciencia Ficcion",
+        "genero": "Ciencia-Ficcion",
         "titulo": "Matrix",
         "anio": 1999,
         "tiempo": "2h 17m",
@@ -4051,7 +4051,7 @@
     },
     {
         "id": "98",
-        "genero": "Ciencia Ficcion",
+        "genero": "Ciencia-Ficcion",
         "titulo": "Matrix: Recargado",
         "anio": 2003,
         "tiempo": "2h 19m",
@@ -4061,7 +4061,7 @@
     },
     {
         "id": "99",
-        "genero": "Ciencia Ficcion",
+        "genero": "Ciencia-Ficcion",
         "titulo": "Matrix: Revoluciones",
         "anio": 2003,
         "tiempo": "2h 10m",
@@ -4071,7 +4071,7 @@
     },
     {
         "id": "673",
-        "genero": "Ciencia Ficcion",
+        "genero": "Ciencia-Ficcion",
         "titulo": "Matrix Resurrecciones",
         "anio": 2021,
         "tiempo": "2h 28m",
@@ -6217,6 +6217,26 @@
         "tiempo": "2h 13m",
         "link": "9376612",
         "descrip": "El maestro de artes marciales Shang-Chi se enfrenta al pasado que creía haber dejado atrás cuando se ve envuelto en la red de la misteriosa organización de los Diez Anillos.",
+        "all": "all"
+    },
+    {
+        "id": "667",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Eternals",
+        "anio": 2021,
+        "tiempo": "2h 37m",
+        "link": "9032400",
+        "descrip": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor.",
+        "all": "all"
+    },
+    {
+        "id": "668",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Spider-Man: Sin camino a casa",
+        "anio": 2021,
+        "tiempo": "2h 29m",
+        "link": "10872600",
+        "descrip": "Por primera vez en la historia cinematográfica de Spider-Man, nuestro héroe, vecino y amigo es desenmascarado, y por tanto, ya no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un superhéroe. Cuando pide ayuda al Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser él.",
         "all": "all"
     },
     {
