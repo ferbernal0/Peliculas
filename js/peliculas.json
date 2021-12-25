@@ -1820,6 +1820,16 @@
         "all": "all"
     },
     {
+        "id": "698",
+        "genero": "Infantil",
+        "titulo": "Encanto",
+        "anio": 2021,
+        "tiempo": "1h 43m",
+        "link": "2953050",
+        "descrip": "Cuenta la historia de una familia extraordinaria, los Madrigal, que viven escondidos en las montañas de Colombia, en una casa mágica situada en un enclave maravilloso llamado Encanto. La magia de Encanto ha dotado a todos los niños de la familia un don único, desde la súperfuerza hasta el poder de curar... Pero se olvidó de un miembro de la familia: Mirabel. Cuando ésta descubre que la magia que rodea Encanto está en peligro, decide que ella, la única Madrigal normal, podría ser la última esperanza de su extraordinaria familia.",
+        "all": "all"
+    },
+    {
         "id": "179",
         "genero": "Crimen",
         "titulo": "Enemigos públicos",
@@ -7717,6 +7727,16 @@
         "tiempo": "7m 12s",
         "link": "3824386",
         "descrip": "Historia de amor entre dos islas tropicales situadas en medio del océano a lo largo de millones de años...",
+        "all": "all"
+    },
+    {
+        "id": "997",
+        "genero": "Cortos",
+        "titulo": "Lejos del árbol",
+        "anio": 2021,
+        "tiempo": "7m 22s",
+        "link": "14927356",
+        "descrip": "La curiosidad se apodera de un joven mapache cuyo padre, frustrado, intenta mantener a ambos a salvo.",
         "all": "all"
     },
     {
