@@ -300,26 +300,6 @@
         "all": "all"
     },
     {
-        "id": "029",
-        "genero": "Infantil",
-        "titulo": "Aviones",
-        "anio": 2013,
-        "tiempo": "1h 32m",
-        "link": "1691917",
-        "descrip": "Dusty es un avión que sueña con participar en una competición aérea de altos vuelos. Pero Dusty no fue precisamente construido para competir y resulta que... ¡tiene miedo a las alturas! Así que, recurre a un experimentado aviador naval que le ayuda a clasificarse para retar al vigente campeón del circuito de carreras. Dusty demostrará su valor para alcanzar alturas inimaginables y enseñará al mundo lo que hay que hacer para levantar el vuelo.",
-        "all": "all"
-    },
-    {
-        "id": "030",
-        "genero": "Infantil",
-        "titulo": "Aviones 2: Equipo de rescate",
-        "anio": 2014,
-        "tiempo": "1h 24m",
-        "link": "2980706",
-        "descrip": "En esta segunda entrega la historia se centra en un equipo de aviones de bomberos cuya misión es proteger el Parque Nacional de Piston Peak de un terrible incendio. Cuando Dusty se da cuenta de que su motor está dañado, cambia las competiciones de carreras para unirse al veterano equipo de rescate contraincendios. Juntos se jugarán la vida por apagar un incendio enorme, y Dusty se dará cuenta de lo que cuesta ser un héroe de verdad.",
-        "all": "all"
-    },
-    {
         "id": "031",
         "genero": "Infantil",
         "titulo": "Bambi",
@@ -780,16 +760,6 @@
         "all": "all"
     },
     {
-        "id": "662",
-        "genero": "Crimen",
-        "titulo": "Cuestión de sangre",
-        "anio": 2021,
-        "tiempo": "2h 20m",
-        "link": "10696896",
-        "descrip": "Bill Baker es un rudo operario de una plataforma petrolífera estadounidense que viaja a Marsella para visitar a su hija, que está en prisión por un asesinato que afirma no haber cometido. Lejos de casa, las cosas no serán nada fáciles para un padre dispuesto a todo para demostrar la inocencia de su hija.",
-        "all": "all"
-    },
-    {
         "id": "076",
         "genero": "Thriller",
         "titulo": "Culpable o inocente",
@@ -937,16 +907,6 @@
         "tiempo": "1h 42m",
         "link": "1606378",
         "descrip": "El policía John McClane se encuentra por sorpresa en Moscú con su hijo Jack en el lugar y momento equivocados. Con los peores elementos de los bajos fondos rusos tras ellos y luchando contrarreloj para evitar una guerra, los dos McClane descubren que sus métodos opuestos para enfrentarse a las dificultades les pueden venir bien para aunar fuerzas para mantenerse vivos.",
-        "all": "all"
-    },
-    {
-        "id": "659",
-        "genero": "Thriller",
-        "titulo": "Efectos colaterales",
-        "anio": 2013,
-        "tiempo": "1h 47m",
-        "link": "2053463",
-        "descrip": "Ambientada en el mundo de la psicofarmacología, ciencia que estudia cómo afectan las drogas a la mente humana. Emily es una joven que se vuelve adicta a un nuevo medicamento que le receta su psiquiatra para que pueda controlar su ansiedad ante la inminente salida de la cárcel de su marido.",
         "all": "all"
     },
     {
@@ -1237,16 +1197,6 @@
         "tiempo": "1h 49m",
         "link": "0787524",
         "descrip": "Narra la historia de Srinivasa Ramanujan, un matemático indio que hizo importantes contribuciones al mundo de las matemáticas como la teoría de los números, las series y las fracciones continuas. Con su arduo trabajo, Srinivasa consiguió entrar en la Universidad de Cambridge durante la Primera Guerra Mundial, donde continuó trabajando en sus teorías con la ayuda del profesor británico G. H. Hardy, a pesar de todos los impedimentos que su origen indio suponían para los estándares sociales de aquella época.",
-        "all": "all"
-    },
-    {
-        "id": "122",
-        "genero": "Accion",
-        "titulo": "El implacable",
-        "anio": 2017,
-        "tiempo": "1h 54m",
-        "link": "1615160",
-        "descrip": "La historia de un humilde hombre de negocios, Quan, cuyo pasado erupciona en una venganza desenfrenada después de que su hija muera en un atentado terrorista motivado por aspectos políticos. En su búsqueda de los terroristas, Quan se ve atrapado en un juego del gato y el ratón con un político irlandés que colabora con el gobierno británico, cuyo pasado podría tener algo que ver con los asesinos.",
         "all": "all"
     },
     {
@@ -1550,16 +1500,6 @@
         "all": "all"
     },
     {
-        "id": "153",
-        "genero": "Infantil",
-        "titulo": "El principito",
-        "anio": 2015,
-        "tiempo": "1h 47m",
-        "link": "1754656",
-        "descrip": "Para que todo salga bien en la prestigiosa Academia Werth, la pequeña y su madre se mudan a una casa nueva. La pequeña es muy seria y madura para su edad y planea estudiar durante las vacaciones siguiendo un estricto programa organizado por su madre; pero sus planes son perturbados por un vecino excéntrico y generoso. Él le enseña un mundo extraordinario en donde todo es posible. Un mundo en el que el Aviador se topó alguna vez con el misterioso Principito. Entonces comienza la aventura de la pequeña en el universo del Principito. Y así descubre nuevamente su infancia y comprenderá que sólo se ve bien con el corazón. Lo esencial es invisible a los ojos.",
-        "all": "all"
-    },
-    {
         "id": "154",
         "genero": "Crimen",
         "titulo": "El rastro",
@@ -1730,16 +1670,6 @@
         "all": "all"
     },
     {
-        "id": "171",
-        "genero": "Thriller",
-        "titulo": "El triángulo",
-        "anio": 2009,
-        "tiempo": "1h 39m",
-        "link": "1187064",
-        "descrip": "Cuando Jess, de camino al puerto, atropella a una gaviota, no se imagina que se trata de un mal presagio. Cuando llega al yate, donde lo espera un grupo de amigos, nota que algo va mal, pero no acierta a saber por qué. Sus temores se acrecientan cuando se desencadena una tormenta que obliga al grupo a abandonar el yate para subir a otro barco, en el que Jess tiene la sensación de haber estado antes. El barco parece desierto, pero no están solos. Alguien los está cazando uno a uno. Y Jess, sin saberlo, tiene la llave que puede acabar ese horror.",
-        "all": "all"
-    },
-    {
         "id": "682",
         "genero": "Historia",
         "titulo": "El último duelo",
@@ -1797,16 +1727,6 @@
         "tiempo": "2h 10m",
         "link": "1895587",
         "descrip": "En el año 2002, un reducido equipo de reporteros de investigación del Boston Globe destapó los escándalos de pederastia cometidos durante décadas por curas del estado de Massachussets. La publicación de estos hechos, que la archidiócesis de Boston intentó ocultar, sacudió a la Iglesia Católica como institución.",
-        "all": "all"
-    },
-    {
-        "id": "177",
-        "genero": "Thriller",
-        "titulo": "En realidad, nunca estuviste aquí",
-        "anio": 2017,
-        "tiempo": "1h 30m",
-        "link": "5742374",
-        "descrip": "Joe, ex marine y antiguo veterano de guerra, es un tipo solitario que dedica su tiempo a intentar salvar a mujeres que son explotadas sexualmente. No se permite ni amigos ni amantes y se gana la vida rescatando jóvenes de las garras de los tratantes de blancas. Un día recibe la llamada de un político porque su hija ha sido secuestrada.",
         "all": "all"
     },
     {
@@ -2237,36 +2157,6 @@
         "tiempo": "2h 20m",
         "link": "2119532",
         "descrip": "Narra la historia de Desmond Doss, un joven médico militar que participó en la sangrienta batalla de Okinawa, en el Pacífico durante la II Guerra Mundial, y se convirtió en el primer objetor de conciencia en la historia estadounidense en recibir la Medalla de Honor del Congreso. Doss quería servir a su país, pero desde pequeño se había hecho una promesa a sí mismo: no coger jamás ningún arma.",
-        "all": "all"
-    },
-    {
-        "id": "217",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Hellboy",
-        "anio": 2004,
-        "tiempo": "2h 13m",
-        "link": "0167190",
-        "descrip": "Finales de la Segunda Guerra Mundial. Por medio de la magia negra, los nazis conjuran al demonio Hellboy, que crece entre los aliados hasta convertirse en adulto, actuando como agente de la oficina de defensa e investigación paranormal.",
-        "all": "all"
-    },
-    {
-        "id": "218",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Hellboy 2: el ejército dorado",
-        "anio": 2008,
-        "tiempo": "2h 00m",
-        "link": "0411477",
-        "descrip": "Tras la ruptura de un acuerdo milenario entre la humanidad y ciertos poderes invisibles, el infierno en la Tierra está cada vez más cerca. Un líder despiadado decide traicionar a sus ancestros y organiza un ejército de criaturas diabólicas. Sólo un gran héroe podrá derrotar a este ejército. Se trata de Hellboy. Con la colaboración de la Agencia de Investigación y Defensa Paranormal, Hellboy viajará entre dos mundos, combatiendo seres invocados desde un mundo fantástico. Hellboy, que pertenece a los dos mundos, deberá elegir entre la vida que conoce y el desconocido destino que le reclama.",
-        "all": "all"
-    },
-    {
-        "id": "219",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Hellboy",
-        "anio": 2019,
-        "tiempo": "2h 02m",
-        "link": "2274648",
-        "descrip": "La Agencia para la Investigación y Defensa Paranormal (AIDP) encomienda a Hellboy la tarea de derrotar a un espíritu ancestral: Nimue, conocida como 'La Reina de la Sangre'. Nimue fue la amante del mismísimo Merlín durante el reinado del Rey Arturo, de él aprendió los hechizos que la llevaron a ser una de las brujas más poderosas… Pero la locura se apoderó de ella y aprisionó al mago para toda la eternidad. Hace siglos consiguieron acabar con esta villana, enterrándola profundamente, pero ha vuelto de entre los muertos con la intención de destruir a la humanidad con su magia negra.",
         "all": "all"
     },
     {
@@ -3770,6 +3660,46 @@
         "all": "all"
     },
     {
+        "id": "217",
+        "genero": "Comedia",
+        "titulo": "Los cazafantasmas",
+        "anio": 1984,
+        "tiempo": "1h 46m",
+        "link": "0087332",
+        "descrip": "A los doctores Venkman, Stantz y Spengler, expertos en parapsicología, no les conceden una beca de investigación que habían solicitado. Al encontrarse sin trabajo, deciden fundar la empresa 'Los Cazafantasmas', dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la ciudad será el presagio de la llegada de un peligroso y poderoso demonio.",
+        "all": "all"
+    },
+    {
+        "id": "218",
+        "genero": "Comedia",
+        "titulo": "Los cazafantasmas 2",
+        "anio": 1989,
+        "tiempo": "1h 49m",
+        "link": "0097428",
+        "descrip": "Cinco años después de salvar a la ciudad de Nueva York, los Cazafantasmas han pasado al olvido. Aunque ya nadie parece necesitar sus servicios, algunos de sus integrantes intentan mantener viva la organización.",
+        "all": "all"
+    },
+    {
+        "id": "219",
+        "genero": "Comedia",
+        "titulo": "Cazafantasmas",
+        "anio": 2016,
+        "tiempo": "2h 14m",
+        "link": "1289401",
+        "descrip": "Manhattan, Nueva York. Después de casi treinta años sin saber de ellos, los fantasmas y demonios se han vuelto a escapar de los infiernos para destruir la ciudad. Esta vez un nuevo equipo de Cazafantasmas, formado por un grupo de cuatro mujeres, está dispuesto a terminar con cualquier amenaza espectral.",
+        "all": "all"
+    },
+    {
+        "id": "671",
+        "genero": "Comedia",
+        "titulo": "Ghostbusters: El legado",
+        "anio": 2021,
+        "tiempo": "2h 05m",
+        "link": "4513678",
+        "descrip": "Una madre soltera y sus dos hijos se mudan a una nueva ciudad, en la que pronto descubren que tienen una conexión con los Cazafantasmas originales y el legado secreto de su abuelo.",
+        "all": "all"
+    },
+    {
         "id": "361",
         "genero": "Infantil",
         "titulo": "Los Croods: Una aventura prehistórica",
@@ -4067,16 +3997,6 @@
         "tiempo": "2h 02m",
         "link": "6998518",
         "descrip": "Red es un leñador que vive alejado del mundo junto al amor de su vida, Mandy. Un día, mientras da un paseo abstraída en una de las novelas de fantasía que suele leer a diario, Mandy se cruza sin saberlo con el líder de una secta que desarrolla una obsesión por ella. Decidido a poseerla a cualquier precio, él y su grupo de secuaces invocan a una banda de motoristas venidos del infierno que la raptan y, en el proceso, hacen añicos la vida de Red. Decidido a vengarse y equipado con toda clase de artilugios, pone en marcha una matanza que deja cuerpos, sangre y vísceras allá por donde pasa.",
-        "all": "all"
-    },
-    {
-        "id": "385",
-        "genero": "Thriller",
-        "titulo": "Marcado por la muerte",
-        "anio": 2013,
-        "tiempo": "1h 58m",
-        "link": "2101341",
-        "descrip": "Victor es la mano derecha de Alphonse, un mafioso neoyorquino que corre el peligro de ser asesinado por un individuo que está matando a todos los miembros de su banda. Victor conoce a Beatrice, una misteriosa mujer que vive enfrente de él y por la que empieza a sentirse atraído. Pronto descubre que la mujer ha sido víctima de un crimen y busca venganza. Pero también ella averigua que Víctor quiere vengar la muerte de su mujer y de su hija. Son dos seres heridos y obsesionados que llevarán a cabo juntos un oscuro y violento plan de venganza.",
         "all": "all"
     },
     {
@@ -4500,16 +4420,6 @@
         "all": "all"
     },
     {
-        "id": "660",
-        "genero": "Thriller",
-        "titulo": "Número 23",
-        "anio": 2007,
-        "tiempo": "1h 42m",
-        "link": "0481369",
-        "descrip": "Un hombre vive obsesionado con un libro que parece describir detalles de su vida íntima. El hombre empieza a sentirse amenazado y se vuelve paranoico debido a un número que se repite una y otra vez en el libro: el 23.",
-        "all": "all"
-    },
-    {
         "id": "423",
         "genero": "Infantil",
         "titulo": "Oliver y su pandilla",
@@ -4551,7 +4461,7 @@
     },
     {
         "id": "427",
-        "genero": "Ciencia-Ficcion",
+        "genero": "Thriller",
         "titulo": "Paratemporal",
         "anio": 2019,
         "tiempo": "1h 42m",
@@ -4697,16 +4607,6 @@
         "tiempo": "2h 39m",
         "link": "0469494",
         "descrip": "Texas, principios del siglo XX. Una historia sobre la familia, la avaricia y la religión. Daniel Plainview se traslada a una miserable ciudad con el propósito de hacer fortuna, pero, a medida que se va enriqueciendo, sus principios y valores desaparecen y acaba dominado por la ambición. Tras encontrar un rico yacimiento de petróleo en 1902, se convierte en un acaudalado magnate. Cuando, años después, intenta apoderarse de un nuevo yacimiento, tiene que enfrentarse al predicador Eli Sunday.",
-        "all": "all"
-    },
-    {
-        "id": "671",
-        "genero": "Thriller",
-        "titulo": "Pig",
-        "anio": 2021,
-        "tiempo": "1h 32m",
-        "link": "11003218",
-        "descrip": "Un cazador de trufas que vive sólo en la zona salvaje de Oregón, regresa a Portland para recuperar a su querida cerda trufera, que ha sido secuestrada.",
         "all": "all"
     },
     {
@@ -5680,16 +5580,6 @@
         "all": "all"
     },
     {
-        "id": "534",
-        "genero": "Thriller",
-        "titulo": "Tesis",
-        "anio": 1996,
-        "tiempo": "2h 05m",
-        "link": "0117883",
-        "descrip": "Ángela, estudiante de Imagen, está preparando una tesis sobre la violencia audiovisual. Como complemento a su trabajo, su director de tesis se compromete a buscar en la videoteca de la facultad material para ella, pero al día siguiente es hallado muerto. Ángela conoce a Chema, un compañero experto en cine gore y pornográfico, y a Bosco, un extraño chico, amigo íntimo de una joven asesinada en una snuff movie.",
-        "all": "all"
-    },
-    {
         "id": "535",
         "genero": "Crimen",
         "titulo": "Tiempos violentos",
@@ -6610,16 +6500,6 @@
         "all": "all"
     },
     {
-        "id": "620",
-        "genero": "Thriller",
-        "titulo": "Viento salvaje",
-        "anio": 2017,
-        "tiempo": "1h 47m",
-        "link": "5362988",
-        "descrip": "Una joven agente del FBI se alía con un veterano rastreador local para investigar el asesinato de una joven ocurrido en una reserva de nativos americanos...",
-        "all": "all"
-    },
-    {
         "id": "621",
         "genero": "Horror",
         "titulo": "Martes 13",
@@ -6987,1176 +6867,6 @@
         "tiempo": "1h 49m",
         "link": "2948356",
         "descrip": "La moderna metrópoli mamífera de Zootrópolis es una ciudad absolutamente única. Está compuesta de barrios con diferentes hábitats como la lujosa Sahara Square y la gélida Tundratown. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña más diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada fácil. Pero está decidida a demostrar su valía y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchín y estafador, para resolver el misterio.",
-        "all": "all"
-    },
-    {
-        "id": "864",
-        "genero": "Series",
-        "titulo": "Brickleberry",
-        "anio": "2012-2015",
-        "tiempo": "22m aprox.",
-        "link": "2022713",
-        "descrip": "Sigue a un grupo de guardas forestales y un cachorro de oso grizzly hablador y sus vidas cotidianas dentro del ficticio Parque Nacional Brickleberry. (3 temporadas - 36 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "863",
-        "genero": "Series",
-        "titulo": "(Des)encanto",
-        "anio": "2018-act.",
-        "tiempo": "27-36m aprox.",
-        "link": "5363918",
-        "descrip": "Narra las desventuras de Bean, una princesa aficionada a la bebida en el mundo medieval en ruinas de Dreamland. Ahí viaja acompañada por Elfo, su enérgico acompañante, y Luci, su demonio personal. En el camino, este trío disfuncional se encontrará con ogros, arpías, trolls, duendecillos, diabillos, morsas y muchos humanos tontos. (3 temporadas - 30 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "866",
-        "genero": "Series",
-        "titulo": "Duncanville",
-        "anio": "2020-act.",
-        "tiempo": "22m aprox.",
-        "link": "9073898",
-        "descrip": "Duncan es el típico chico de quince años que tiene la fantasía de volverse rico sin tener que ponerse nunca un traje. (2 temporadas - 23 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "865",
-        "genero": "Series",
-        "titulo": "Futurama",
-        "anio": "1999-2013",
-        "tiempo": "22m aprox.",
-        "link": "0149460",
-        "descrip": "Ambientada en la ciudad de 'Nueva Nueva York' en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express. (7 temporadas - 140 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "861",
-        "genero": "Series",
-        "titulo": "Jack Ryan de Tom Clancy",
-        "anio": "2018-act.",
-        "tiempo": "60m aprox.",
-        "link": "5057054",
-        "descrip": "El Jack Ryan de Tom Clancy sigue a un prometedor analista de la CIA metido en una peligrosa misión por primera vez. Ryan descubre un patrón en la comunicación terrorista que le lanza al centro de una peligrosa maniobra con una nueva especie de terrorismo que amenaza con la destrucción global. (2 temporadas - 16 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "850",
-        "genero": "Series",
-        "titulo": "Los Simpson",
-        "anio": "1989-2002",
-        "tiempo": "25m aprox.",
-        "link": "0096697",
-        "descrip": "Narra la historia de una peculiar familia y otros divertidos personajes de la localidad norteamericana de Springfield. Homero, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de 10 años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel. (13 temporadas - 291 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "862",
-        "genero": "Series",
-        "titulo": "Padre de familia",
-        "anio": "1999-act.",
-        "tiempo": "20-23m aprox.",
-        "link": "0182576",
-        "descrip": "Conocida por su humor negro e irreverente, la serie gira en torno a las aventuras de Peter Griffin y su disfuncional familia. Peter trabaja en una fábrica de juguetes; es irresponsable y juerguista. Lois es ama de casa y profesora de piano. Tienen tres hijos: Chris, un muchacho algo lento que lleva un artista en su interior; Megan, una adolescente con problemas de integración en la escuela; y Stewie, un bebé diabólico que sueña con conquistar el mundo. También vive con ellos Brian, un perro sumamente inteligente que se comporta como un humano. Otros personajes habituales son Joe, un expolicía parapléjico; Cleveland, un amigo de Peter; y Quagmire, un soltero obsesionado por el sexo. (20 temporadas - 378 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "851",
-        "genero": "Series",
-        "titulo": "Parks and Recreation",
-        "anio": "2009-2015",
-        "tiempo": "22m aprox.",
-        "link": "1266020",
-        "descrip": "La serie sigue las andanzas en formato de documental, de Leslie Knope, que trabaja en el departamento de parques y tiempo libre en Pawnee, Indiana. Knope se une a una enfermera llamada Ann para lograr convertir en un parque lo que es un trozo de tierra abandonado, tratando de navegar hasta lograrlo por las mil trabas de la administración municipal y varios colectivos. (7 temporadas - 125 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "852",
-        "genero": "Series",
-        "titulo": "Rick y Morty",
-        "anio": "2013-act.",
-        "tiempo": "22m aprox.",
-        "link": "2861424",
-        "descrip": "Comedia animada que narra las aventuras de un científico loco, Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos, Morty y Summer. (5 temporadas - 51 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "853",
-        "genero": "Series",
-        "titulo": "Seinfeld",
-        "anio": "1989-1998",
-        "tiempo": "22-24m aprox.",
-        "link": "0098904",
-        "descrip": "Cuatro amigos solteros, el comediante Jerry Seinfeld, el torpe George Constanza, la trabajadora frustrada Elaine Benes y el excéntrico vecino Cosmo Kramer, lidian con las vicisitudes diarias de la vida en la ciudad de Nueva York. (9 temporadas - 173 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "867",
-        "genero": "Series",
-        "titulo": "Solar Opposites",
-        "anio": "2020-act.",
-        "tiempo": "21-24m aprox.",
-        "link": "8910922",
-        "descrip": "Es una serie en la que una familia de extraterrestres trata de encajar en 'este agujero de basura infectado de humanos llamado Tierra'. (2 temporadas - 16 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "854",
-        "genero": "Series",
-        "titulo": "The Office",
-        "anio": "2005-2013",
-        "tiempo": "22-26m aprox.",
-        "link": "0386676",
-        "descrip": "Un falso documental sobre un grupo de típicos trabajadores de oficina, en el que la jornada laboral consiste en choques de ego, comportamientos inapropiados y tediosos. (9 temporadas - 188 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "855",
-        "genero": "Series",
-        "titulo": "Tom y Jerry",
-        "anio": "1940-1967",
-        "tiempo": "6-10m aprox.",
-        "link": "0032953",
-        "descrip": "Serie animada que muestra los intentos de un gato 'Tom' por capturar a un ratón 'Jerry'. (3 temporadas - 164 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "868",
-        "genero": "Series",
-        "titulo": "Ugly Americans",
-        "anio": "2010-2012",
-        "tiempo": "22m aprox.",
-        "link": "1621748",
-        "descrip": "El protagonista es Mark Lilly, un humano que vive en este Nueva York alternativo, lleno de zombies, vampiros, demonios y criaturas del estilo. Trabaja en el Departamento de Integración como asistente social y su objetivo es precisamente integrar a estos seres no humanos en nuestro mundo buscándoles trabajo. (2 temporadas - 31 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "856",
-        "genero": "Series",
-        "titulo": "WandaVision",
-        "anio": 2021,
-        "tiempo": "29-46m aprox.",
-        "link": "9140560",
-        "descrip": "Cuenta la historia Wanda Maximoff y Vision, dos seres con superpoderes que viven una vida idílica en las afueras de una ciudad hasta que un día comienzan a sospechar que no todo es lo que parece. (1 temporada - 9 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "857",
-        "genero": "Series",
-        "titulo": "Falcon y el Soldado del Invierno",
-        "anio": 2021,
-        "tiempo": "49-60m aprox.",
-        "link": "9208876",
-        "descrip": "Seis meses después de recibir el manto del Capitán América, Sam Wilson se une a Bucky Barnes en una aventura que pondrá a prueba sus habilidades, destrezas y paciencia. (1 temporada - 6 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "858",
-        "genero": "Series",
-        "titulo": "Loki",
-        "anio": "2021-act.",
-        "tiempo": "42-50m aprox.",
-        "link": "9140554",
-        "descrip": "Loki es llevado ante la misteriosa organización llamada Autoridad de Variación Temporal después de robar el Cubo Cósmico durante los eventos de Avengers Endgame y se le da a elegir enfrentarse a la eliminación de la realidad o ayudar contra una amenaza mayor, por lo cual Loki termina viajando a través del tiempo, alterando la historia humana. (1 temporada - 6 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "859",
-        "genero": "Series",
-        "titulo": "What If...?",
-        "anio": "2021-act.",
-        "tiempo": "30-37m aprox.",
-        "link": "10168312",
-        "descrip": "Explora momentos clave del universo Marvel y plantea situaciones alternativas sobre algunos de los personajes más importantes de esas películas. (1 temporada - 9 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "860",
-        "genero": "Series",
-        "titulo": "Hawkeye",
-        "anio": 2021,
-        "tiempo": "40-62m aprox.",
-        "link": "10160804",
-        "descrip": "Narra las aventuras de Hawkeye desde el punto de vista de la sucesora de Clint Barton: Kate Bishop, una de las integrantes del grupo de jóvenes vengadores. (1 temporada - 6 episodios)",
-        "all": "all"
-    },
-    {
-        "id": "900",
-        "genero": "Cortos",
-        "titulo": "22 contra la Tierra",
-        "anio": 2021,
-        "tiempo": "5m 37s",
-        "link": "14499632",
-        "descrip": "Antes de los acontecimientos narrados en Soul, 22 se niega a ir a la Tierra y decide reclutar a cinco almitas para su intento de rebelión. Sin embargo, mientras las actividades de sus secuaces van conduciendo a desenlaces inesperados, la turbulenta conspiración de 22 podría dar lugar a una sorprendente revelación sobre el propósito de la vida",
-        "all": "all"
-    },
-    {
-        "id": "901",
-        "genero": "Cortos",
-        "titulo": "A través del espejo",
-        "anio": 1936,
-        "tiempo": "8m 49s",
-        "link": "0028378",
-        "descrip": "Mickey sueña que traspasa el espejo de su habitación y entra en un mundo donde los objetos están vivos.",
-        "all": "all"
-    },
-    {
-        "id": "902",
-        "genero": "Cortos",
-        "titulo": "Aero Mate",
-        "anio": 2011,
-        "tiempo": "5m 12s",
-        "link": "2100093",
-        "descrip": "Protagonizado por Mate, después de ver a varios aviones intentará aprender a volar por sí mismo.",
-        "all": "all"
-    },
-    {
-        "id": "903",
-        "genero": "Cortos",
-        "titulo": "Almacén de invierno",
-        "anio": 1949,
-        "tiempo": "6m 54s",
-        "link": "0042047",
-        "descrip": "Chip y Dale están intentando reunir bellotas para pasar el invierno cuando de repente ven al guardabosques Donald con una bolsa repleta con la intención de plantarlas.",
-        "all": "all"
-    },
-    {
-        "id": "904",
-        "genero": "Cortos",
-        "titulo": "Árboles y flores",
-        "anio": 1932,
-        "tiempo": "7m 49s",
-        "link": "0022899",
-        "descrip": "Una idílica danza de la flora, hasta que un miserable árbol viejo la interrumpe.",
-        "all": "all"
-    },
-    {
-        "id": "905",
-        "genero": "Cortos",
-        "titulo": "Azulado",
-        "anio": 2013,
-        "tiempo": "6m 46s",
-        "link": "2616880",
-        "descrip": "En un día lluvioso de una gran ciudad, un paraguas azul se enamora de un precioso paraguas rojo.",
-        "all": "all"
-    },
-    {
-        "id": "906",
-        "genero": "Cortos",
-        "titulo": "Bao",
-        "anio": 2018,
-        "tiempo": "7m 41s",
-        "link": "8075496",
-        "descrip": "Cuenta la historia de una madre con el síndrome del nido vacío que encontrará una segunda oportunidad con un panecillo típico de la comida asiática.",
-        "all": "all"
-    },
-    {
-        "id": "907",
-        "genero": "Cortos",
-        "titulo": "Brincando",
-        "anio": 2003,
-        "tiempo": "4m 42s",
-        "link": "0395479",
-        "descrip": "Cuenta la historia de de una oveja muy elegante cuyos bailes son realmente populares entre los otros animales, hasta que un día es esquilada.",
-        "all": "all"
-    },
-    {
-        "id": "908",
-        "genero": "Cortos",
-        "titulo": "Buenas migas",
-        "anio": 2014,
-        "tiempo": "6m 12s",
-        "link": "3689498",
-        "descrip": "La historia de la vida amorosa de un hombre desde el punto de vista de Winston, su perro.",
-        "all": "all"
-    },
-    {
-        "id": "909",
-        "genero": "Cortos",
-        "titulo": "BURN•E",
-        "anio": 2008,
-        "tiempo": "7m 36s",
-        "link": "1334585",
-        "descrip": "La historia gira en torno a un robot de reparación, que responde al nombre de Burn-E, que tiene que arreglar un desperfecto ocurrido en exterior de la nave, y se queda atrapado fuera de la misma. A partir de ahí, nuestro nuevo robot, se las tendrá que ingeniar para volver al interior de la nave espacial.",
-        "all": "all"
-    },
-    {
-        "id": "910",
-        "genero": "Cortos",
-        "titulo": "Cabeza o corazón",
-        "anio": 2016,
-        "tiempo": "6m 26s",
-        "link": "5807512",
-        "descrip": "¿Qué hace que el cerebro envíe información al resto de órganos del cuerpo?",
-        "all": "all"
-    },
-    {
-        "id": "911",
-        "genero": "Cortos",
-        "titulo": "Chip y Dale",
-        "anio": 1947,
-        "tiempo": "6m 38s",
-        "link": "0039263",
-        "descrip": "Un duro invierno, Donald intentará talar un árbol para recopilar leña y resguardarse del frío. Pero en ese árbol viven dos ardillas, Chip y Dale, que harán todo lo posible para que no destruyan su hogar y para salvar su cosecha de nueces.",
-        "all": "all"
-    },
-    {
-        "id": "912",
-        "genero": "Cortos",
-        "titulo": "Cómo conectar su cine en casa",
-        "anio": 2007,
-        "tiempo": "6m 20s",
-        "link": "1114718",
-        "descrip": "Goofy compra un sistema de alta definición e intenta montarlo sólo, con los resultados que los seguidores de Goofy conocen de antemano.",
-        "all": "all"
-    },
-    {
-        "id": "913",
-        "genero": "Cortos",
-        "titulo": "Cómo jugar fútbol americano",
-        "anio": 1944,
-        "tiempo": "7m 37s",
-        "link": "0036933",
-        "descrip": "Goofy aprovecha un partido local para enseñar cómo se juega al fútbol americano.",
-        "all": "all"
-    },
-    {
-        "id": "914",
-        "genero": "Cortos",
-        "titulo": "Cómo nadar",
-        "anio": 1942,
-        "tiempo": "7m 31s",
-        "link": "0034875",
-        "descrip": "En esta ocasión Goofy nos enseña cómo nadar, aunque sus peripecias son del todo infructuosas.",
-        "all": "all"
-    },
-    {
-        "id": "915",
-        "genero": "Cortos",
-        "titulo": "Cómo pescar",
-        "anio": 1942,
-        "tiempo": "7m 11s",
-        "link": "0034873",
-        "descrip": "Goofy se prepara para un día de pesca llevando todos los utensilios necesarios para ello. Con lo que no cuenta es con su desconocimiento y su poca habilidad para pescar.",
-        "all": "all"
-    },
-    {
-        "id": "991",
-        "genero": "Cortos",
-        "titulo": "Cuento de Navidad de Mickey",
-        "anio": 1983,
-        "tiempo": "25m 41s",
-        "link": "0085936",
-        "descrip": "Adaptación de 'A Christmas Carol', de Charles Dickens, en el que el humilde y agradable Bob Cratchit no puede esperar para volver a casa y compartir con su familia el día de Nochebuena, aunque no haya mucha comida para compartir. Su jefe, Ebenezer Scrooge, es el hombre más tacaño de la ciudad y piensa que la Navidad, debería servir, como cualquier otro día, para ganar dinero. Después de concederle a Boob medio día libre, Scrooge se dirige a casa sin sospechar la tenebrosa sorpresa que le espera...",
-        "all": "all"
-    },
-    {
-        "id": "916",
-        "genero": "Cortos",
-        "titulo": "Día y noche",
-        "anio": 2010,
-        "tiempo": "6m 36s",
-        "link": "1620446",
-        "descrip": "Cuando Día, un tipo soleado, se encuentra con Noche, un desconocido de sombrío estado de ánimo, saltan chispas. Ambos se temen, desconfían el uno del otro. Sin embargo, a medida que cada uno va descubriendo las cualidades del otro, se dan cuenta de que sus contrapuestas visiones del mundo pueden ser complementarias e incluso beneficiosas Y así es como nace entre ellos una relación amistosa.",
-        "all": "all"
-    },
-    {
-        "id": "917",
-        "genero": "Cortos",
-        "titulo": "Disparates de Mate",
-        "anio": 2008,
-        "tiempo": "35m 37s",
-        "link": "1384816",
-        "descrip": "Incluye: Mate, el grande / Mate al rescate / Mate monster truck / Mate volador no identificado / El Matedor / Mate Lunático / Mate heavy metal / Mate detective privado / Karate Mate",
-        "all": "all"
-    },
-    {
-        "id": "918",
-        "genero": "Cortos",
-        "titulo": "Donald chef",
-        "anio": 1941,
-        "tiempo": "7m 32s",
-        "link": "0033460",
-        "descrip": "Donald está escuchando un programa de radio mientras cocina unos gofres, pero está tan distraido que utiliza pegamento en lugar de levadura en la masa.",
-        "all": "all"
-    },
-    {
-        "id": "919",
-        "genero": "Cortos",
-        "titulo": "El árbol navideño de Pluto",
-        "anio": 1952,
-        "tiempo": "6m 46s",
-        "link": "0045037",
-        "descrip": "Mickey y Pluto salen a buscar buscar un árbol de Navidad, pero, sin saberlo, se llevan a casa uno en el que viven las ardillas Chip y Dale, que aprovecharán la ocasión para jugar con los adornos...",
-        "all": "all"
-    },
-    {
-        "id": "920",
-        "genero": "Cortos",
-        "titulo": "El arte del esquí",
-        "anio": 1941,
-        "tiempo": "7m 55s",
-        "link": "0033356",
-        "descrip": "Goofy, descansando en un hotel en plena montaña, demuestra los conceptos básicos del esquí. El equipamiento es el de la época, y con él se evidencia que Goofy tiene muchos problemas para esquiar. El salto de esquí final lleva a Goofy al lugar del que nunca debería haber salido.",
-        "all": "all"
-    },
-    {
-        "id": "921",
-        "genero": "Cortos",
-        "titulo": "El ataque de Jack Jack",
-        "anio": 2005,
-        "tiempo": "4m 44s",
-        "link": "0455565",
-        "descrip": "Los espectadores de Los Increíbles ya saben que la niñera de Jack-Jack empezó a experimentar dificultades con él poco después de colgar el teléfono a su madre. Este corto continúa la historia a partir de ese fatídico momento.",
-        "all": "all"
-    },
-    {
-        "id": "922",
-        "genero": "Cortos",
-        "titulo": "El campeón olímpico",
-        "anio": 1942,
-        "tiempo": "6m 57s",
-        "link": "0035148",
-        "descrip": "Goofy es el protagonista de este corto Disney en el que nos hace un recorrido por la historia de los juegos olímpicos y sus deportes más destacados de la manera que sólo Goofy sabría hacer.",
-        "all": "all"
-    },
-    {
-        "id": "923",
-        "genero": "Cortos",
-        "titulo": "El centro de la fiesta",
-        "anio": 2014,
-        "tiempo": "5m 34s",
-        "link": "3116154",
-        "descrip": "Mike y Sulley vuelven a la universidad para hace una fiesta.",
-        "all": "all"
-    },
-    {
-        "id": "924",
-        "genero": "Cortos",
-        "titulo": "El cuento del reloj",
-        "anio": 2010,
-        "tiempo": "6m 03s",
-        "link": "1736313",
-        "descrip": "Un ladrón entra por la noche a robar a una relojería, y el más pequeño de los relojes de cuco hará lo posible para evitarlo.",
-        "all": "all"
-    },
-    {
-        "id": "925",
-        "genero": "Cortos",
-        "titulo": "El hombre orquesta",
-        "anio": 2005,
-        "tiempo": "4m 33s",
-        "link": "0479113",
-        "descrip": "Una pequeña campesina con una gran moneda de oro acude a la fuente de la plaza para pedir un deseo y se encuentra con dos músicos callejeros. Ambos competirán por conseguir la moneda.",
-        "all": "all"
-    },
-    {
-        "id": "926",
-        "genero": "Cortos",
-        "titulo": "El Juego de Geri",
-        "anio": 1997,
-        "tiempo": "4m 53s",
-        "link": "0131409",
-        "descrip": "El personaje principal juega al ajedrez consigo mismo. A medida que el juego evoluciona, parece que hay dos personas jugando.",
-        "all": "all"
-    },
-    {
-        "id": "927",
-        "genero": "Cortos",
-        "titulo": "El juguete de lata",
-        "anio": 1988,
-        "tiempo": "5m 11s",
-        "link": "0096273",
-        "descrip": "Tin Toy es un juguete recién comprado que llega a una casa, donde vive un bebé que se divierte rompiendo los juguetes. Cuando éste se percata de la presencia del nuevo muñeco, lo persigue y Tin Toy corre por todo el cuarto huyendo del bebé...",
-        "all": "all"
-    },
-    {
-        "id": "928",
-        "genero": "Cortos",
-        "titulo": "El lobo feroz",
-        "anio": 1934,
-        "tiempo": "9m 21s",
-        "link": "0024886",
-        "descrip": "Segundo de los cortos de Disney basados en los tres cerditos. Esta vez, se encuentran con Caperucita y deciden ayudarla a llegar a casa de su abuelita.",
-        "all": "all"
-    },
-    {
-        "id": "929",
-        "genero": "Cortos",
-        "titulo": "El nuevo auto de Mike",
-        "anio": 2002,
-        "tiempo": "3m 48s",
-        "link": "0323250",
-        "descrip": "Mike Wazoski está obsesionado con su nuevo coche de seis ruedas e insiste en presumir de él ante su amigo, Sulley. Por desgracia para Mike, todo lo que le puede ir mal, le va a ir mal.",
-        "all": "all"
-    },
-    {
-        "id": "930",
-        "genero": "Cortos",
-        "titulo": "El sueño de Rojo",
-        "anio": 1987,
-        "tiempo": "4m 14s",
-        "link": "0093832",
-        "descrip": "Un monociclo apartado en una tienda de bicicletas intenta imaginarse una realidad mejor.",
-        "all": "all"
-    },
-    {
-        "id": "931",
-        "genero": "Cortos",
-        "titulo": "El toque de oro",
-        "anio": 1935,
-        "tiempo": "9m 37s",
-        "link": "0026423",
-        "descrip": "Cuenta la historia del avaro Rey Midas, que cegado por ampliar su riqueza, aceptó el toque de oro a pesar de los consejos de un pequeño elfo.",
-        "all": "all"
-    },
-    {
-        "id": "932",
-        "genero": "Cortos",
-        "titulo": "Enredados por siempre",
-        "anio": 2012,
-        "tiempo": "6m 29s",
-        "link": "2112281",
-        "descrip": "Las luces flotaban en el reino, el día había llegado, la boda de la princesa Rapunzel y Eugene Fitzherbert (Flynn Rider) estaba a punto de comenzar, pero... ¿y los anillos? Pascal y Máximus han perdido las alianzas y sin ellas no hay ceremonia. Bandadas de palomas, desastres con el vino, todo eso y mucho más en la boda más esperada del año.",
-        "all": "all"
-    },
-    {
-        "id": "933",
-        "genero": "Cortos",
-        "titulo": "Érase una vez un muñeco de nieve",
-        "anio": 2020,
-        "tiempo": "7m 35s",
-        "link": "13061790",
-        "descrip": "El cortometraje sigue los primeros pasos de Olaf cuando el muñeco de nieve cobra vida y busca su identidad en las montañas de las afueras de Arendelle.",
-        "all": "all"
-    },
-    {
-        "id": "934",
-        "genero": "Cortos",
-        "titulo": "Es hora de viajar",
-        "anio": 2013,
-        "tiempo": "6m 01s",
-        "link": "2980764",
-        "descrip": "Mickey, su chica favorita Minnie Mouse, y sus amigos el caballo Horace y la vaca Clarabella disfrutan de un viaje en carreta hasta que aparece el malvado Pete pata Palo.",
-        "all": "all"
-    },
-    {
-        "id": "935",
-        "genero": "Cortos",
-        "titulo": "Ferdinando el toro",
-        "anio": 1938,
-        "tiempo": "7m 30s",
-        "link": "0030128",
-        "descrip": "El toro Ferdinando cuenta la historia de un astado distinto a los demás: pacífico, contemplativo y candoroso.",
-        "all": "all"
-    },
-    {
-        "id": "936",
-        "genero": "Cortos",
-        "titulo": "Fiesta-Saurus Rex",
-        "anio": 2012,
-        "tiempo": "6m 34s",
-        "link": "2340678",
-        "descrip": "La historia gira en torno a una fiesta que hacen los juguetes, liderados por Rex.",
-        "all": "all"
-    },
-    {
-        "id": "990",
-        "genero": "Cortos",
-        "titulo": "Forky pregunta",
-        "anio": 2019,
-        "tiempo": "29m 46s",
-        "link": "10167284",
-        "descrip": "Forky se plantea cuestiones trascendentales sobre el funcionamiento del mundo. Algunas son tan profundas como ¿qué es el amor? ¿y el tiempo? Y, por supuesto, también se plantea la más importante de todas: ¿qué es el queso?",
-        "all": "all"
-    },
-    {
-        "id": "937",
-        "genero": "Cortos",
-        "titulo": "Frozen: Fiebre congelada",
-        "anio": 2015,
-        "tiempo": "7m 57s",
-        "link": "4007502",
-        "descrip": "Es el cumpleaños de Anna, y Elsa y Kristoff están buscando la forma de hacerle la mejor fiesta posible. Pero los poderes con el hielo de Elsa van a complicar las cosas.",
-        "all": "all"
-    },
-    {
-        "id": "938",
-        "genero": "Cortos",
-        "titulo": "George y A.J.",
-        "anio": 2009,
-        "tiempo": "4m 02s",
-        "link": "1552624",
-        "descrip": "Es un spin-off de Up, que sigue la misma historia de aquella y nos deja ver lo que los enfermeros del aventurero Carl tuvieron que sufrir tras ver como su paciente volaba con su casa por los aires.",
-        "all": "all"
-    },
-    {
-        "id": "939",
-        "genero": "Cortos",
-        "titulo": "Hola Alberto",
-        "anio": 2021,
-        "tiempo": "6m 37s",
-        "link": "15476620",
-        "descrip": "Mientras su mejor amigo, Luca, está en el colegio, Alberto disfruta de su nueva vida en Portorosso, donde trabaja con Massimo, el imponente pescador manco y tatuado, parco en palabras, que es, a ojos de Alberto, el humano más guay de todo el planeta. Lo que más desea Alberto es impresionar a su mentor, pero eso es más fácil decirlo que hacerlo.",
-        "all": "all"
-    },
-    {
-        "id": "940",
-        "genero": "Cortos",
-        "titulo": "John Henry",
-        "anio": 2000,
-        "tiempo": "10m 19s",
-        "link": "0219105",
-        "descrip": "Interpretación en clave musical de la leyenda de John Henry.",
-        "all": "all"
-    },
-    {
-        "id": "941",
-        "genero": "Cortos",
-        "titulo": "Juntos nuevamente",
-        "anio": 2021,
-        "tiempo": "6m 49s",
-        "link": "14062858",
-        "descrip": "Una pareja entrada en años intenta recuperar su pasión juvenil por la vida y por su relación.",
-        "all": "all"
-    },
-    {
-        "id": "942",
-        "genero": "Cortos",
-        "titulo": "Kitbull",
-        "anio": 2019,
-        "tiempo": "8m 52s",
-        "link": "12650666",
-        "descrip": "Una inesperada conexión se da entre dos criaturas: un gato decididamente independiente y un pit-bull. Ambos experimentan por primera vez lo que significa la amistad.",
-        "all": "all"
-    },
-    {
-        "id": "943",
-        "genero": "Cortos",
-        "titulo": "Knick Knack",
-        "anio": 1989,
-        "tiempo": "3m 37s",
-        "link": "0097674",
-        "descrip": "Las risas y el amor surgen entre los souvenirs depositados en las estanterías de una librería.",
-        "all": "all"
-    },
-    {
-        "id": "944",
-        "genero": "Cortos",
-        "titulo": "La balada de Nessie",
-        "anio": 2011,
-        "tiempo": "5m 33s",
-        "link": "1827536",
-        "descrip": "La historia tiene lugar en Escocia y se centra en Nessie, el monstruo del Lago Ness y su mejor amigo, el pato MacQuack.",
-        "all": "all"
-    },
-    {
-        "id": "945",
-        "genero": "Cortos",
-        "titulo": "La leyenda de Mor'du",
-        "anio": 2012,
-        "tiempo": "6m 51s",
-        "link": "2565938",
-        "descrip": "Cortometraje de Brave, que permite profundizar en la leyenda de Mor’du, contada por la bruja excéntrica que lo transformó",
-        "all": "all"
-    },
-    {
-        "id": "946",
-        "genero": "Cortos",
-        "titulo": "La Luna",
-        "anio": 2011,
-        "tiempo": "6m 57s",
-        "link": "1957945",
-        "descrip": "Es la fábula atemporal de un joven que está madurando en la más peculiar de las circunstancias. Esta noche es la primera vez que su padre y su abuelo se lo llevan al trabajo. En un barco de madera antiguo enfilan el mar, y cuando no tienen la tierra a vista se detienen y esperan. Una gran sorpresa aguarda al niño a medida que va descubriendo de qué forma tan inusual trabaja su familia. ¿Debería seguir el ejemplo de su padre o el de su abuelo?, ¿será capaz de encontrar su propio método en medio de sus opiniones encontradas y las tradiciones desgastadas por el tiempo?.",
-        "all": "all"
-    },
-    {
-        "id": "947",
-        "genero": "Cortos",
-        "titulo": "La misión especial de Dug",
-        "anio": 2009,
-        "tiempo": "4m 42s",
-        "link": "1537759",
-        "descrip": "Alpha, el severo dóberman al servicio de Charles Muntz, encomienda una misión al patoso Dug el día de su cumpleaños.",
-        "all": "all"
-    },
-    {
-        "id": "993",
-        "genero": "Cortos",
-        "titulo": "La Navidad Mágica de Mickey: ¡Reunidos para celebrar!",
-        "anio": 2001,
-        "tiempo": "1h 02m",
-        "link": "0300195",
-        "descrip": "Únete a Mickey y a todos tus personajes favoritos Disney - juntos por vez primera - en su cálida celebración navideña y canta con ellos la maravillosa canción 'Tu mejor Navidad'. Cuando una fuerte tormenta de nieve deja a todos aislados, Mickey y sus invitados en la 'House of Mouse', entre los que se encuentran Winnie the Pooh, Bella, Ariel, Blancanieves y muchos viejos y nuevos amigos, ayudarán a Donald a recuperar su deteriorado espíritu festivo. La diversión comienza cuando Minnie saca sus películas navideñas preferidas y todos empiezan a recordar. Sus mágicos recuerdos pronto empapan a todos de un cálido espíritu, incluyendo al gruñón Donald, que acaba convirtiéndose en la estrella de la noche. Cuando todos unen sus voces para cantar, se dan cuenta que 'Tu mejor Navidad' es la que pasas junto a las personas que te aprecian.",
-        "all": "all"
-    },
-    {
-        "id": "948",
-        "genero": "Cortos",
-        "titulo": "La pequeña gallina sabia",
-        "anio": 1934,
-        "tiempo": "7m 22s",
-        "link": "0025997",
-        "descrip": "Donald y su amigo Peter Pig tratan de evitar que la señora gallina les enseñe el valor del trabajo.",
-        "all": "all"
-    },
-    {
-        "id": "949",
-        "genero": "Cortos",
-        "titulo": "La primera cita de Riley",
-        "anio": 2015,
-        "tiempo": "4m 40s",
-        "link": "4941804",
-        "descrip": "Riley se prepara para su primera cita bajo la atenta mirada de las emociones de sus padres.",
-        "all": "all"
-    },
-    {
-        "id": "995",
-        "genero": "Cortos",
-        "titulo": "La tortuga y la liebre",
-        "anio": 1935,
-        "tiempo": "8m 37s",
-        "link": "0027126",
-        "descrip": "Max Liebre y Toby Tortuga se desafían el uno al otro a una carrera. Max está muy seguro de que ganará, ya que se sabe mucho más veloz, y se detiene para echarse una siesta. Pero cuando escucha a la muchedumbre aclamar a Toby, que más lento y de manera constante ha mantenido su ritmo, Max debe hacer un último esfuerzo para ganar. ¿Podrá el siempre persistente Toby vencer a Max cruzando la línea de meta?.",
-        "all": "all"
-    },
-    {
-        "id": "996",
-        "genero": "Cortos",
-        "titulo": "La tortuga y la liebre: El regreso de la tortuga Toby",
-        "anio": 1936,
-        "tiempo": "7m 28s",
-        "link": "0028390",
-        "descrip": "El regreso a la competencia entre la tortuga Toby y Max la liebre, solo que esta vez en vez de una carrera es una lucha de boxeo.",
-        "all": "all"
-    },
-    {
-        "id": "950",
-        "genero": "Cortos",
-        "titulo": "La vendedora de fósforos",
-        "anio": 2006,
-        "tiempo": "6m 40s",
-        "link": "0816562",
-        "descrip": "Una joven niña intentará una noche nevada vender sus cerillas por una desolada ciudad.",
-        "all": "all"
-    },
-    {
-        "id": "951",
-        "genero": "Cortos",
-        "titulo": "Lamp Life",
-        "anio": 2020,
-        "tiempo": "7m 11s",
-        "link": "10167262",
-        "descrip": "Este corto relata qué fue de la vida de Bo desde que la vimos por última vez en Toy Story 2.",
-        "all": "all"
-    },
-    {
-        "id": "952",
-        "genero": "Cortos",
-        "titulo": "Las 500 ½ de Radiador Springs",
-        "anio": 2014,
-        "tiempo": "6m 12s",
-        "link": "3755844",
-        "descrip": "En Radiador Springs la vida es apacible, pero Rayo McQueen tendrá que competir con un nuevo rival.",
-        "all": "all"
-    },
-    {
-        "id": "953",
-        "genero": "Cortos",
-        "titulo": "Las aventuras de André y Wally B.",
-        "anio": 1984,
-        "tiempo": "1m 53s",
-        "link": "0086855",
-        "descrip": "Describe las travesuras de una abeja tan rápida como revoltosa, y las de su objetivo, todavía más rápido que ella.",
-        "all": "all"
-    },
-    {
-        "id": "954",
-        "genero": "Cortos",
-        "titulo": "Lava",
-        "anio": 2014,
-        "tiempo": "7m 12s",
-        "link": "3824386",
-        "descrip": "Historia de amor entre dos islas tropicales situadas en medio del océano a lo largo de millones de años...",
-        "all": "all"
-    },
-    {
-        "id": "997",
-        "genero": "Cortos",
-        "titulo": "Lejos del árbol",
-        "anio": 2021,
-        "tiempo": "7m 22s",
-        "link": "14927356",
-        "descrip": "La curiosidad se apodera de un joven mapache cuyo padre, frustrado, intenta mantener a ambos a salvo.",
-        "all": "all"
-    },
-    {
-        "id": "955",
-        "genero": "Cortos",
-        "titulo": "Lorenzo",
-        "anio": 2004,
-        "tiempo": "4m 50s",
-        "link": "0412936",
-        "descrip": "Cuenta la historia de un gato gordo y perezoso aterrorizado por su propia cola.",
-        "all": "all"
-    },
-    {
-        "id": "956",
-        "genero": "Cortos",
-        "titulo": "Los tres cerditos",
-        "anio": 1933,
-        "tiempo": "8m 42s",
-        "link": "0024660",
-        "descrip": "Los tres cerditos construyen cada uno una casa de un material diferente. El Lobo Feroz llega y hace volar las casas de paja y de palos, pero no consigue destruir la casa de ladrillos.",
-        "all": "all"
-    },
-    {
-        "id": "957",
-        "genero": "Cortos",
-        "titulo": "Lou",
-        "anio": 2017,
-        "tiempo": "6m 43s",
-        "link": "6267732",
-        "descrip": "Cuando un ladrón de juguetes arruina el recreo en un jardín de infantes, sólo hay una cosa que se interpone en su camino: la caja de objetos perdidos.",
-        "all": "all"
-    },
-    {
-        "id": "958",
-        "genero": "Cortos",
-        "titulo": "Luxo Jr.",
-        "anio": 1986,
-        "tiempo": "2m 11s",
-        "link": "0091455",
-        "descrip": "Un flexo siente curiosidad hacia una pelota que pasa a su lado.",
-        "all": "all"
-    },
-    {
-        "id": "959",
-        "genero": "Cortos",
-        "titulo": "Madriguera",
-        "anio": 2020,
-        "tiempo": "6m 17s",
-        "link": "13167288",
-        "descrip": "Un conejo joven intenta construir la madriguera de sus sueños, avergonzándose cada vez que cava accidentalmente en la casa de un vecino.",
-        "all": "all"
-    },
-    {
-        "id": "960",
-        "genero": "Cortos",
-        "titulo": "Mate viaja en el tiempo",
-        "anio": 2012,
-        "tiempo": "6m 23s",
-        "link": "2166364",
-        "descrip": "Mate viaja accidentalmente en el tiempo hasta 1909.",
-        "all": "all"
-    },
-    {
-        "id": "961",
-        "genero": "Cortos",
-        "titulo": "Mate y la luz fantasma",
-        "anio": 2006,
-        "tiempo": "7m 09s",
-        "link": "0901686",
-        "descrip": "Una misteriosa luz blanca atormenta al personaje de Mate.",
-        "all": "all"
-    },
-    {
-        "id": "992",
-        "genero": "Cortos",
-        "titulo": "Mickey celebra la Navidad",
-        "anio": 1999,
-        "tiempo": "1h 06m",
-        "link": "0238414",
-        "descrip": "La estrella más conocida de Disney brilla en una fascinante y mágica película que seguramente pasará a convertirse en un nuevo clásico. Mickey, Minnie y sus famosos amigos Goofy, Donald, Daisy y Pluto recuerdan juntos las Navidades pasadas en estas tres maravillosas historias. Los famosos sobrinos de Donald: Jorgito, Juanito y Jaimito sueñan con que cada día sea Navidad. Lo desean con tantas fuerzas que su deseo se ve cumplido. A la mañana siguiente vuelve a ser Navidad, pasan los días y sigue siendo Navidad hasta que terminan por aburrirse y empiezan a ver el otro significado que tiene la Navidad, no sólo regalos y juguetes, sino también amor, amistad y cariño. Goofy y Max reviven juntos divertidas historias. En una Navidad habían perdido la ilusión de que Papá Noel existiera, pero se verán sorprendidos cuando el día de Nochebuena reciban la visita del verdadero Papa Noel que hará que esas Navidades sean insuperables. Minnie y Mickey se daran cuenta de que es más importante disfrutar el uno del otro en la Navidad, que del regalo en si mismo. Como broche final se reúnen todos nuestros personajes para desearnos una ¡Feliz Navidad!",
-        "all": "all"
-    },
-    {
-        "id": "962",
-        "genero": "Cortos",
-        "titulo": "Mickey Mago",
-        "anio": 1937,
-        "tiempo": "7m 14s",
-        "link": "0029188",
-        "descrip": "Mickey es un ilusionista y Goofy su ayudante. El pato Donald, sentado entre el público, duda de la honestidad de los trucos del dúo...",
-        "all": "all"
-    },
-    {
-        "id": "994",
-        "genero": "Cortos",
-        "titulo": "Mickey y sus amigos: Juntos otra navidad",
-        "anio": 2004,
-        "tiempo": "1h 08m",
-        "link": "0424279",
-        "descrip": "Disfruta en la nueva celebración navideña de Disney. Mickey, Donald, Goofy y sus amigos protagonizan esta original película sobre la importancia de abrir el corazón al verdadero espíritu de la Navidad. Diviértete con las divertidas ocurrencias del gruñón Donald, que intentará resistirse sin conseguirlo a la alegría que reina en esta época del año. Y no pares de reírte con Mickey y Pluto mientras aprenden una gran lección sobre la importancia de la amistad.",
-        "all": "all"
-    },
-    {
-        "id": "963",
-        "genero": "Cortos",
-        "titulo": "Olaf presenta",
-        "anio": 2021,
-        "tiempo": "9m 14s",
-        "link": "15475608",
-        "descrip": "Cinco clásicos de Disney contados por tu muñeco de nieve favorito, Olaf.",
-        "all": "all"
-    },
-    {
-        "id": "964",
-        "genero": "Cortos",
-        "titulo": "Olaf: Otra aventura congelada de Frozen",
-        "anio": 2017,
-        "tiempo": "22m 15s",
-        "link": "5452780",
-        "descrip": "Olaf tratará de empaparse de las tradiciones familiares durante este periodo tan especial del año para organizar las mejores fiestas navideñas en el castillo. Al parecer, después de tanto tiempo fuera de casa, Elsa y Anna no están acostumbradas a las reuniones familiares, por lo que Olaf decide ir puerta por puerta empapándose de lo que hace el resto de las familias de Arandelle para implantar la tradición en su nuevo hogar.",
-        "all": "all"
-    },
-    {
-        "id": "965",
-        "genero": "Cortos",
-        "titulo": "Paperman",
-        "anio": 2012,
-        "tiempo": "6m 35s",
-        "link": "2388725",
-        "descrip": "La acción nos sitúa en el Nueva York de mediados del siglo XX. Un hombre se cruza con la chica de sus sueños, pero la pierde de vista y la cree perdida para siempre. Hasta que, desde la ventana de su oficina, ve que trabaja en el rascacielos de enfrente. Utilizando la imaginación y unos papeles, intentará conquistarla.",
-        "all": "all"
-    },
-    {
-        "id": "989",
-        "genero": "Cortos",
-        "titulo": "Para pajaritos",
-        "anio": 2000,
-        "tiempo": "3m 25s",
-        "link": "0248808",
-        "descrip": "Todo comienza con un grupo de pájaros pequeños posados en un cable telefónico. Cuando llega un pájaro más grande todos comienzan a quejarse y burlarse de él...",
-        "all": "all"
-    },
-    {
-        "id": "966",
-        "genero": "Cortos",
-        "titulo": "Parcialmente nublado",
-        "anio": 2009,
-        "tiempo": "5m 49s",
-        "link": "1425244",
-        "descrip": "En el cielo, las nubes se encargan de crear los bebés y los animalitos para que las cigüeñas los repartan por la Tierra, llevando a cada uno a su casa. El problema es que algunas tienen la misión de crear cocodrilos, tiburones, erizos...",
-        "all": "all"
-    },
-    {
-        "id": "967",
-        "genero": "Cortos",
-        "titulo": "Patrulla de aterrizaje. Operación: El secreto de Santa",
-        "anio": 2010,
-        "tiempo": "6m 55s",
-        "link": "1754374",
-        "descrip": "Santa Claus recurre de nuevo a la inestimable ayuda de Lanny y Wayne.",
-        "all": "all"
-    },
-    {
-        "id": "968",
-        "genero": "Cortos",
-        "titulo": "Pelea en la nieve",
-        "anio": 1942,
-        "tiempo": "7m 15s",
-        "link": "0034670",
-        "descrip": "El pato Donald entra en una guerra de hielo contra sus tres sobrinos, que luchan desde su fortaleza de hielo.",
-        "all": "all"
-    },
-    {
-        "id": "969",
-        "genero": "Cortos",
-        "titulo": "Pequeño gran Buzz",
-        "anio": 2011,
-        "tiempo": "7m 06s",
-        "link": "2033372",
-        "descrip": "Buzz Lightyear se queda olvidado en un restaurante de comida rápida al ser confundido con la versión del propio Buzz que viene de regalo en el menú infantil. Mientras los juguetes de Bonnie soportan a este imitador de 7 cm de alto que emite un molesto zumbido, el Buzz real asiste a un grupo de terapia de apoyo que hay en el propio restaurante para todos los juguetes desechados y olvidados allí. Woody y la pandilla idean una manera de rescatar a su amigo, mientras que Buzz trata de escapar de esa reunión de psicoterapia de juguetes para poder reunirse con sus amigos.",
-        "all": "all"
-    },
-    {
-        "id": "970",
-        "genero": "Cortos",
-        "titulo": "Perro de rescate",
-        "anio": 1947,
-        "tiempo": "6m 46s",
-        "link": "0039762",
-        "descrip": "Las montañas cubiertas de nieve; pero no hay que preocuparse, el perro de rescate Pluto está de guardia. En realidad, dado que apenas se mantiene a salvo, quizá debería preocuparse. Una foca juguetona sigue robando su barril de grog.",
-        "all": "all"
-    },
-    {
-        "id": "971",
-        "genero": "Cortos",
-        "titulo": "Pícaros",
-        "anio": 1949,
-        "tiempo": "7m 40s",
-        "link": "0041978",
-        "descrip": "Durante la navidad, Chip y Dale intentarán entrar en casa de Donald para robarle sus nueces. Pero éste les espera dentro de casa, vestido de Santa Claus.",
-        "all": "all"
-    },
-    {
-        "id": "972",
-        "genero": "Cortos",
-        "titulo": "Piper",
-        "anio": 2016,
-        "tiempo": "6m 05s",
-        "link": "5613056",
-        "descrip": "Sigue la historia de un pequeño pájaro, el cual, hambriento, decide enfrentarse a su mayor miedo: el agua.",
-        "all": "all"
-    },
-    {
-        "id": "973",
-        "genero": "Cortos",
-        "titulo": "Pixar Popcorn",
-        "anio": 2021,
-        "tiempo": "25m 42s",
-        "link": "13634444",
-        "descrip": "Serie de diez cortos protagonizada por personajes de Pixar, basados en películas como Cars, Los Increíbles, Toy Story o Buscando a Nemo.",
-        "all": "all"
-    },
-    {
-        "id": "974",
-        "genero": "Cortos",
-        "titulo": "Práctica extraterrestre",
-        "anio": 2006,
-        "tiempo": "5m 02s",
-        "link": "0945571",
-        "descrip": "Un joven extraterrestre pone a prueba la paciencia de su instructor, cada vez más cansado, mientras trata de abducir a un granjero inocente y adormilado.",
-        "all": "all"
-    },
-    {
-        "id": "975",
-        "genero": "Cortos",
-        "titulo": "Presto",
-        "anio": 2008,
-        "tiempo": "5m 15s",
-        "link": "1245104",
-        "descrip": "Un mago se ve en numerosos problemas cuando el conejo de su chistera, exigiendo su zanahoria, se rebela justo al comenzar su espectáculo.",
-        "all": "all"
-    },
-    {
-        "id": "976",
-        "genero": "Cortos",
-        "titulo": "Problemas de sueño",
-        "anio": 1941,
-        "tiempo": "7m 46s",
-        "link": "0033568",
-        "descrip": "Donald intenta descansar porque tiene que madrugar, pero serán numerosos los problemas que le quitarán el sueño.",
-        "all": "all"
-    },
-    {
-        "id": "977",
-        "genero": "Cortos",
-        "titulo": "Roger Rabbit: Dolor de barriga",
-        "anio": 1989,
-        "tiempo": "8m 08s",
-        "link": "0100821",
-        "descrip": "Roger Rabbit está encargado de hacer de niñera de Baby Herman, pero el niño no le va a poner las cosas fáciles...",
-        "all": "all"
-    },
-    {
-        "id": "978",
-        "genero": "Cortos",
-        "titulo": "Roger Rabbit: El conejo de la montaña rusa",
-        "anio": 1990,
-        "tiempo": "8m 11s",
-        "link": "0100510",
-        "descrip": "Roger Rabbit está encargado de hacer de niñera de Baby Herman.",
-        "all": "all"
-    },
-    {
-        "id": "979",
-        "genero": "Cortos",
-        "titulo": "Roger Rabbit: Lío en el bosque",
-        "anio": 1993,
-        "tiempo": "9m 09s",
-        "link": "0108377",
-        "descrip": "Durante un picnic, Baby Herman sigue a un castor...",
-        "all": "all"
-    },
-    {
-        "id": "980",
-        "genero": "Cortos",
-        "titulo": "Sanjay - El súper equipo",
-        "anio": 2015,
-        "tiempo": "7m 07s",
-        "link": "4661600",
-        "descrip": "Un niño se imagina formando parte de su propio grupo de superhéroes.",
-        "all": "all"
-    },
-    {
-        "id": "981",
-        "genero": "Cortos",
-        "titulo": "Smash and Grab",
-        "anio": 2019,
-        "tiempo": "8m 00s",
-        "link": "7103168",
-        "descrip": "Tras años de trabajo duro en el interior de la sala de máquina de una enorme locomotora, dos robots anticuados deciden poner su vida en riesgo para tratar de zafarse de las cadenas que los oprimen.",
-        "all": "all"
-    },
-    {
-        "id": "982",
-        "genero": "Cortos",
-        "titulo": "Sobre hielo",
-        "anio": 1935,
-        "tiempo": "8m 06s",
-        "link": "0026816",
-        "descrip": "Mickey demuestra a Minnie sus habilidades patinando, mientras que Goofy practica la pesca a través del hielo. Por otra parte, Donald pone unos patines a Pluto pero las tentativas del perro por patinar son infructuosas.",
-        "all": "all"
-    },
-    {
-        "id": "983",
-        "genero": "Cortos",
-        "titulo": "Toy Story de terror",
-        "anio": 2013,
-        "tiempo": "21m 36s",
-        "link": "2446040",
-        "descrip": "Los juguetes de Toy Story protagonizan este especial de Halloween. Se van de viaje y terminan en un motel de carretera. Y entonces uno de ellos desaparece...",
-        "all": "all"
-    },
-    {
-        "id": "984",
-        "genero": "Cortos",
-        "titulo": "Toy Story: Olvidados en el tiempo",
-        "anio": 2014,
-        "tiempo": "21m 39s",
-        "link": "3473654",
-        "descrip": "Después del día de Navidad, la pandilla de Toy Story se encuentra en territorio desconocido cuando Bonnie va a casa de un amigo a jugar a la consola. Allí, Woody y compañía se encuentran con todo un set de figuras de acción que no sabe que en realidad son juguetes. Ahora todo depende de Trixie, el triceratops, para que las cosas no se vuelvan completamente locas.",
-        "all": "all"
-    },
-    {
-        "id": "985",
-        "genero": "Cortos",
-        "titulo": "Trepadores alpinos",
-        "anio": 1936,
-        "tiempo": "9m 34s",
-        "link": "0027281",
-        "descrip": "Mickey, Donald y Pluto salen de escalada a la montaña, enfrentándose a varios contratiempos.",
-        "all": "all"
-    },
-    {
-        "id": "986",
-        "genero": "Cortos",
-        "titulo": "Tu amigo la rata",
-        "anio": 2007,
-        "tiempo": "11m 16s",
-        "link": "1134859",
-        "descrip": "Remy y su hermano Emille dedican una clase didáctica en la que hablan sobre el comportamiento de las ratas a lo largo de la historia, en un intento de persuadir a los humanos y cambiar el punto de vista que tienen sobre estos roedores.",
-        "all": "all"
-    },
-    {
-        "id": "987",
-        "genero": "Cortos",
-        "titulo": "Vacaciones en Hawái",
-        "anio": 2011,
-        "tiempo": "5m 53s",
-        "link": "1850374",
-        "descrip": "Bonnie se marcha a Hawai, y Barbie y Ken están emocionados por irse a sus primeras vacaciones tropicales, pero cuando accidentalmente se quedan atrás, depende de Buzz, Woody y el resto de juguetes recrear el paraíso de Hawai en la habitación de Bonnie.",
-        "all": "all"
-    },
-    {
-        "id": "988",
-        "genero": "Cortos",
-        "titulo": "Viento",
-        "anio": 2019,
-        "tiempo": "8m 38s",
-        "link": "9536850",
-        "descrip": "Una abuela y su nieto viven en un espacio que no parece tener fin, en el que están suspendidos a causa de los fuertes vientos que soplan en él. Ambos tratan de reunir escombros que les ayuden a salir del pozo en el que se encuentran, con la esperanza puesta en encontrar un mundo mejor una vez alcancen el exterior.",
         "all": "all"
     }
 ]
