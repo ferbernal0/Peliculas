@@ -1714,7 +1714,7 @@
         "genero": "Accion",
         "titulo": "En la mira",
         "anio": 2012,
-        "tiempo": "1h 49m",
+        "tiempo": "1h 50m",
         "link": "1855199",
         "descrip": "Taylor y Zavala son dos agentes de policía que patrullan las calles de Los Ángeles. Taylor decide grabar todo lo que les sucede mientras recorren las calles de los barrios más peligrosos de la ciudad. Al mismo tiempo se ven cada vez más involucrados en una guerra entre dos bandas, una de afroamericanos y otra de hispanos, que pretenden controlar el tráfico de drogas en la zona.",
         "all": "all"
@@ -5587,6 +5587,16 @@
         "tiempo": "2h 09m",
         "link": "6450804",
         "descrip": "Sarah Connor y Grace, una híbrido de cyborg y humano, deberán proteger a una joven del Rev-9, un nuevo Terminator que viene del futuro.",
+        "all": "all"
+    },
+    {
+        "id": "620",
+        "genero": "Crimen",
+        "titulo": "The Card Counter",
+        "anio": 2021,
+        "tiempo": "1h 52m",
+        "link": "11196036",
+        "descrip": "William Tell es un exmilitar y jugador profesional de póker. Su meticulosa vida se trastoca cuando se le acerca Cirk, un joven que busca ayuda en Tell para ejecutar su plan de venganza contra un coronel militar.",
         "all": "all"
     },
     {
