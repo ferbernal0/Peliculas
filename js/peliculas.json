@@ -1810,6 +1810,16 @@
         "all": "all"
     },
     {
+        "id": "662",
+        "genero": "Horror",
+        "titulo": "Espíritus oscuros",
+        "anio": 2021,
+        "tiempo": "1h 40m",
+        "link": "7740510",
+        "descrip": "En Antlers, una pequeña ciudad de Oregón, una profesora y su hermano, el sheriff de la localidad, se empiezan a interesar por un estudiante misterioso y distante. A medida que se van conociendo, descubren que el joven esconde un peligroso secreto que podría tener consecuencias fatales.",
+        "all": "all"
+    },
+    {
         "id": "185",
         "genero": "Infantil",
         "titulo": "Fantasía",
@@ -3694,7 +3704,7 @@
         "genero": "Comedia",
         "titulo": "Ghostbusters: El legado",
         "anio": 2021,
-        "tiempo": "2h 05m",
+        "tiempo": "2h 04m",
         "link": "4513678",
         "descrip": "Una madre soltera y sus dos hijos se mudan a una nueva ciudad, en la que pronto descubren que tienen una conexión con los Cazafantasmas originales y el legado secreto de su abuelo.",
         "all": "all"
