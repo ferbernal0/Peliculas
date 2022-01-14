@@ -670,6 +670,16 @@
         "all": "all"
     },
     {
+        "id": "122",
+        "genero": "Accion",
+        "titulo": "Copshop",
+        "anio": 2021,
+        "tiempo": "1h 48m",
+        "link": "5748448",
+        "descrip": "Una comisaría de policía de un pequeño pueblo se convierte en el improbable campo de batalla entre un asesino a sueldo, una inteligente policía novata y un estafador que busca refugio tras las rejas sin ningún lugar al que huir.",
+        "all": "all"
+    },
+    {
         "id": "067",
         "genero": "Historia",
         "titulo": "Corazón valiente",
@@ -2260,6 +2270,16 @@
         "all": "all"
     },
     {
+        "id": "700",
+        "genero": "Infantil",
+        "titulo": "Hotel Transylvania: Transformanía",
+        "anio": 2022,
+        "tiempo": "1h 28m",
+        "link": "9848626",
+        "descrip": "Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el 'Rayo Monstrificador', se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo!",
+        "all": "all"
+    },
+    {
         "id": "672",
         "genero": "Thriller",
         "titulo": "Hunter Hunter",
@@ -3450,6 +3470,16 @@
         "all": "all"
     },
     {
+        "id": "171",
+        "genero": "Accion",
+        "titulo": "La última fortaleza",
+        "anio": 2001,
+        "tiempo": "2h 12m",
+        "link": "0272020",
+        "descrip": "Acusado de un acto de desobediencia que tuvo fatales consecuencias, el venerado general Irwin, un héroe de guerra, es sometido a un consejo de guerra, degradado y encerrado en una prisión militar conocida como 'La fortaleza'. Allí pronto se convierte en el punto de mira del alcaide, el coronel Winter, un hombre de carácter autoritario que comienza a sentirse acomplejado ante el carisma de Irwin con los reclusos.",
+        "all": "all"
+    },
+    {
         "id": "339",
         "genero": "Thriller",
         "titulo": "La última puerta",
@@ -4440,6 +4470,16 @@
         "all": "all"
     },
     {
+        "id": "385",
+        "genero": "Accion",
+        "titulo": "One Shot",
+        "anio": 2021,
+        "tiempo": "1h 37m",
+        "link": "14199590",
+        "descrip": "Los miembros de un escuadrón de élite de los Navy SEAL, en una misión encubierta para transportar a un importante prisionero desde una prisión secreta de la CIA, quedan atrapados cuando un grupo de insurgentes atacan intentando rescatar al mismo prisionero.",
+        "all": "all"
+    },
+    {
         "id": "424",
         "genero": "Historia",
         "titulo": "Operación Final",
@@ -5267,6 +5307,16 @@
         "tiempo": "1h 48m",
         "link": "3470600",
         "descrip": "Buster Moon es un elegante koala que regenta un teatro que conoció tiempos mejores. Es un optimista nato, lo que está muy bien si no fuera un poco caradura, pero ama a su teatro con pasión y es capaz de cualquier cosa para salvarlo. Sabe que el sueño de su vida está a punto de desaparecer, y sólo tiene una oportunidad para mantenerlo a flote: organizar un concurso de canto y conseguir que sea un gran éxito. Entre los muchos candidatos aparecerán una cerdita ama de casa y otro cerdo muy animoso, una puercoespín rockera, un gorila bondadoso, un ratón presumido y una elefante muy tímida.",
+        "all": "all"
+    },
+    {
+        "id": "534",
+        "genero": "Infantil",
+        "titulo": "Sing 2: ¡Ven y canta de nuevo!",
+        "anio": 2021,
+        "tiempo": "1h 50m",
+        "link": "6467266",
+        "descrip": "Buster Moon y su elenco de animales artistas se preparan para lanzar un deslumbrante espectáculo escénico en la capital mundial del entretenimiento. Solo hay un problema: debe convencer a la estrella de rock más solitaria del mundo de unirse a ellos.",
         "all": "all"
     },
     {
