@@ -1410,6 +1410,16 @@
         "all": "all"
     },
     {
+        "id": "659",
+        "genero": "Thriller",
+        "titulo": "El misterio de Soho",
+        "anio": 2021,
+        "tiempo": "1h 57m",
+        "link": "9639470",
+        "descrip": "Una joven amante de la moda viaja en el tiempo y termina en Londres en la década de 1960. Allí conoce a su gran ídolo, una cantante. Sin embargo, tiene que descubrir que la vida en ese momento en el Soho es diferente de lo que ella esperaba.",
+        "all": "all"
+    },
+    {
         "id": "142",
         "genero": "Historia",
         "titulo": "El oficial y el espía",
@@ -2917,6 +2927,16 @@
         "tiempo": "2h 22m",
         "link": "4649466",
         "descrip": "Cuando el cuartel general de la agencia secreta es destruido, se descubre una organización de espionaje aliada en EE.UU. llamada Statesman, cuyo origen se remonta a la fecha en que ambas fueron fundadas. En una nueva aventura que pone a prueba la fuerza y el ingenio de sus agentes, ambas organizaciones secretas de élite aúnan sus esfuerzos para intentar derrotar a su enemigo común y salvar al mundo... algo que está convirtiéndose en una especie de hábito para Eggsy.",
+        "all": "all"
+    },
+    {
+        "id": "660",
+        "genero": "Accion",
+        "titulo": "King's Man: El origen",
+        "anio": 2021,
+        "tiempo": "2h 11m",
+        "link": "6856242",
+        "descrip": "Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos.",
         "all": "all"
     },
     {
