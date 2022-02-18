@@ -400,6 +400,26 @@
         "all": "all"
     },
     {
+        "id": "029",
+        "genero": "Infantil",
+        "titulo": "Bernardo y Bianca",
+        "anio": 1977,
+        "tiempo": "1h 18m",
+        "link": "0076618",
+        "descrip": "Una niña huérfana que ha sido secuestrada envía un mensaje en una botella pidiendo ayuda. Bernardo y Bianca, dos valientes ratones miembros de la Sociedad Internacional de Rescate, reciben el mensaje y van en busca de la niña.",
+        "all": "all"
+    },
+    {
+        "id": "030",
+        "genero": "Infantil",
+        "titulo": "Bernando y Bianca en Cangurolandia",
+        "anio": 1990,
+        "tiempo": "1h 18m",
+        "link": "0100477",
+        "descrip": "En Australia, un malvado cazador furtivo ha secuestrado a un niño con el objetivo de que le revele el paradero de un nido donde descansa una preciosa águila. Las noticias llegan a los rescatadores Bernardo y Vianca, que salen en su ayuda.",
+        "all": "all"
+    },
+    {
         "id": "041",
         "genero": "Infantil",
         "titulo": "Bichos: una aventura en miniatura",
@@ -970,6 +990,16 @@
         "all": "all"
     },
     {
+        "id": "153",
+        "genero": "Infantil",
+        "titulo": "El caldero mágico",
+        "anio": 1985,
+        "tiempo": "1h 21m",
+        "link": "0088814",
+        "descrip": "Tarón es un valiente joven que debe impedir que el malvado Rey Horned se apodere del Caldero Mágico, cuya fuerza misteriosa es capaz de crear un auténtico ejército de invencibles guerreros.",
+        "all": "all"
+    },
+    {
         "id": "702",
         "genero": "Thriller",
         "titulo": "El callejón de las almas perdidas",
@@ -1167,36 +1197,6 @@
         "tiempo": "2h 45m",
         "link": "2310332",
         "descrip": "Después de haber recuperado el reino del Dragón Smaug en la montaña, la Compañía ha desencadenado, sin querer, una potencia maligna. Un Smaug enfurecido vuela hacia la Ciudad del Lago para acabar con cualquier resto de vida. Obsesionado con las enormes riquezas en su poder, el rey enano Thorin se vuelve codicioso, mientras Bilbo intenta hacerle entrar en razón haciendo algo desesperado y peligroso. Pero hay aún mayores peligros por delante. Sin la ayuda del mago Gandalf, su gran enemigo Sauron ha enviado legiones de orcos hacia la Montaña Solitaria en un ataque épico. Cuando la oscuridad se cierna sobre ellos, las razas de los Enanos, Elfos y Hombres deberán decidir si unirse o ser destruidos. Bilbo se encontrará así en la batalla épica de los Cinco Ejércitos, donde el futuro de la Tierra Media está en juego.",
-        "all": "all"
-    },
-    {
-        "id": "117",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "El Hombre Araña",
-        "anio": 2002,
-        "tiempo": "2h 02m",
-        "link": "0145487",
-        "descrip": "Tras la muerte de sus padres, Peter Parker, un tímido estudiante, vive con su tía May y su tío Ben. Precisamente debido a su retraimiento no es un chico muy popular en el instituto. Un día le muerde una araña que ha sido modificada genéticamente; a la mañana siguiente, descubre estupefacto que posee la fuerza y la agilidad de ese insecto. Las aventuras del hombre araña se basan en el famoso cómic de Stan Lee y Steve Ditko",
-        "all": "all"
-    },
-    {
-        "id": "118",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "El Hombre Araña 2",
-        "anio": 2004,
-        "tiempo": "2h 16m",
-        "link": "0316654",
-        "descrip": "Han pasado dos años desde que el tranquilo Peter Parker dejó a Mary Jane Watson, su gran amor, y decidió seguir asumiendo sus responsabilidades como Spider-Man. Peter debe afrontar nuevos desafíos mientras lucha contra el don y la maldición de sus poderes equilibrando sus dos identidades: el escurridizo superhéroe Spider-Man y el estudiante universitario. Las relaciones con las personas que más aprecia están ahora en peligro de ser descubiertas con la aparición del poderoso villano de múltiples tentáculos Doctor Octopus.",
-        "all": "all"
-    },
-    {
-        "id": "119",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "El Hombre Araña 3",
-        "anio": 2007,
-        "tiempo": "2h 20m",
-        "link": "0413300",
-        "descrip": "Parece que Parker ha conseguido por fin el equilibrio entre su devoción por Mary Jane y sus deberes como superhéroe. Pero, de repente, su traje se vuelve negro y adquiere nuevos poderes; también él se transforma, mostrando el lado más oscuro y vengativo de su personalidad. Bajo la influencia del nuevo traje, Peter se convierte en un ser egoísta que sólo se preocupa por sí mismo. Tiene, pues, que afrontar un dilema: disfrutar de sus nuevos poderes o seguir siendo un héroe compasivo. Mientras tanto, sobre él se cierne la amenaza de dos temibles enemigos: Venom y el Hombre de Arena.",
         "all": "all"
     },
     {
@@ -1657,26 +1657,6 @@
         "tiempo": "2h 01m",
         "link": "5363618",
         "descrip": "Narra la historia de un joven batería de una banda de música que comienza a perder la audición.",
-        "all": "all"
-    },
-    {
-        "id": "167",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "El Sorprendente Hombre Araña",
-        "anio": 2012,
-        "tiempo": "2h 17m",
-        "link": "0948470",
-        "descrip": "Como la mayoría de los adolescentes de su edad, Peter está intentando descubrir quién es y cómo ha llegado a ser lo que es. En su viaje para atar los cabos de su pasado descubre un secreto que guardaba su padre, un secreto que finalmente dará forma a su destino como Spiderman.",
-        "all": "all"
-    },
-    {
-        "id": "168",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "El sorprendente Hombre Araña 2: La amenaza de Electro",
-        "anio": 2014,
-        "tiempo": "2h 22m",
-        "link": "1872181",
-        "descrip": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado.",
         "all": "all"
     },
     {
@@ -4090,6 +4070,676 @@
         "all": "all"
     },
     {
+        "id": "706",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Blade, cazador de vampiros",
+        "anio": 1998,
+        "tiempo": "2h 01m",
+        "link": "0120611",
+        "descrip": "En un mundo en guerra, en el que cohabitan hombres y vampiros, el caso de Blade es extraordinario: es un vampiro que no se alimenta de sangre humana y que, además, pretende acabar con la raza de 'seres superiores' que mordieron a su madre cuando estaba embarazada.",
+        "all": "all"
+    },
+    {
+        "id": "707",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Blade II: Cazador de vampiros",
+        "anio": 2002,
+        "tiempo": "1h 57m",
+        "link": "0187738",
+        "descrip": "Una nueva raza de vampiros, los Reapers, surge para atacar tanto a los humanos como a los de su propia raza, causando el terror. El Consejo de la Sombra, un grupo de vampiros que teme por su supervivencia y que tiene su sede en Praga, contacta con Blade para que acabe con ellos.",
+        "all": "all"
+    },
+    {
+        "id": "708",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Blade: Trinity",
+        "anio": 2004,
+        "tiempo": "2h 03m",
+        "link": "0359013",
+        "descrip": "Durante años, Blade ha luchado contra los vampiros sin que el mundo supiera lo que sucedía en los bajos fondos. Pero ahora, tras caer en las redes del FBI, se ve forzado a salir a la luz del día para unir sus fuerzas con un clan de humanos cazadores de vampiros que nunca supo que existían, los Nightstalkers. Junto a Abigail y Hannibal, Blade sigue la pista de una Antigua criatura que lo está acechando el vampiro original: Drácula.",
+        "all": "all"
+    },
+    {
+        "id": "709",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Capitán América",
+        "anio": 1990,
+        "tiempo": "1h 38m",
+        "link": "0103923",
+        "descrip": "Portovenere (Italia), 1936: tras presenciar la matanza de su familia, Tadzio De Santis, un niño-prodigio, es sometido a crueles experimentos por los científicos de Hitler y Mussolini. La Dra. Vaselli, que participaba en esos experimentos, decide desertar y huir a América... California (USA), 1943: Steve Rogers, un joven con polio, se presenta como voluntario para un experimento militar que le convertirá en el primero de un ejército de super-soldados. Después de que la Dra. Vaselli sea asesinada por un espía nazi, Steve Rogers adoptará la identidad del Capitán América y viajará a la Europa ocupada por el Eje. Ahí no solo deberá combatir a los nazis y sus nuevas armas secretas, sino que enfrentará al antiguo Tadzio De Santis, hoy convertido en un super-soldado fascista: se trata de su diabólica némesis, el agente nazi Craneo Rojo.",
+        "all": "all"
+    },
+    {
+        "id": "710",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Daredevil: El hombre sin miedo",
+        "anio": 2003,
+        "tiempo": "2h 14m",
+        "link": "0287978",
+        "descrip": "El abogado Matt Murdock es ciego a causa de un residuo radioactivo, pero sus otros cuatro sentidos están especialmente agudizados. De día, Murdock representa a los oprimidos. Por la noche, es Daredevil, un héroe enmascarado que vigila las oscuras calles de la ciudad y lucha contra toda clase de injusticias.",
+        "all": "all"
+    },
+    {
+        "id": "711",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El castigador",
+        "anio": 2004,
+        "tiempo": "2h 04m",
+        "link": "0330793",
+        "descrip": "Frank Castle, un agente secreto del FBI con un historial intachable, decide un día abandonar una profesión tan peligrosa para poder tener una vida familiar normal. Pero, precisamente entonces, su vida se hace añicos al cumplirse el peor de sus temores: su familia es asesinada como venganza por su último trabajo. Buscando castigar a los asesinos, al final encuentra lo que menos esperaba: la redención.",
+        "all": "all"
+    },
+    {
+        "id": "711",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El castigador",
+        "anio": 2004,
+        "tiempo": "2h 04m",
+        "link": "0330793",
+        "descrip": "Frank Castle, un agente secreto del FBI con un historial intachable, decide un día abandonar una profesión tan peligrosa para poder tener una vida familiar normal. Pero, precisamente entonces, su vida se hace añicos al cumplirse el peor de sus temores: su familia es asesinada como venganza por su último trabajo. Buscando castigar a los asesinos, al final encuentra lo que menos esperaba: la redención.",
+        "all": "all"
+    },
+    {
+        "id": "117",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El Hombre Araña",
+        "anio": 2002,
+        "tiempo": "2h 02m",
+        "link": "0145487",
+        "descrip": "Tras la muerte de sus padres, Peter Parker, un tímido estudiante, vive con su tía May y su tío Ben. Precisamente debido a su retraimiento no es un chico muy popular en el instituto. Un día le muerde una araña que ha sido modificada genéticamente; a la mañana siguiente, descubre estupefacto que posee la fuerza y la agilidad de ese insecto. Las aventuras del hombre araña se basan en el famoso cómic de Stan Lee y Steve Ditko",
+        "all": "all"
+    },
+    {
+        "id": "118",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El Hombre Araña 2",
+        "anio": 2004,
+        "tiempo": "2h 16m",
+        "link": "0316654",
+        "descrip": "Han pasado dos años desde que el tranquilo Peter Parker dejó a Mary Jane Watson, su gran amor, y decidió seguir asumiendo sus responsabilidades como Spider-Man. Peter debe afrontar nuevos desafíos mientras lucha contra el don y la maldición de sus poderes equilibrando sus dos identidades: el escurridizo superhéroe Spider-Man y el estudiante universitario. Las relaciones con las personas que más aprecia están ahora en peligro de ser descubiertas con la aparición del poderoso villano de múltiples tentáculos Doctor Octopus.",
+        "all": "all"
+    },
+    {
+        "id": "119",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El Hombre Araña 3",
+        "anio": 2007,
+        "tiempo": "2h 20m",
+        "link": "0413300",
+        "descrip": "Parece que Parker ha conseguido por fin el equilibrio entre su devoción por Mary Jane y sus deberes como superhéroe. Pero, de repente, su traje se vuelve negro y adquiere nuevos poderes; también él se transforma, mostrando el lado más oscuro y vengativo de su personalidad. Bajo la influencia del nuevo traje, Peter se convierte en un ser egoísta que sólo se preocupa por sí mismo. Tiene, pues, que afrontar un dilema: disfrutar de sus nuevos poderes o seguir siendo un héroe compasivo. Mientras tanto, sobre él se cierne la amenaza de dos temibles enemigos: Venom y el Hombre de Arena.",
+        "all": "all"
+    },
+    {
+        "id": "167",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El Sorprendente Hombre Araña",
+        "anio": 2012,
+        "tiempo": "2h 17m",
+        "link": "0948470",
+        "descrip": "Como la mayoría de los adolescentes de su edad, Peter está intentando descubrir quién es y cómo ha llegado a ser lo que es. En su viaje para atar los cabos de su pasado descubre un secreto que guardaba su padre, un secreto que finalmente dará forma a su destino como Spiderman.",
+        "all": "all"
+    },
+    {
+        "id": "168",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El sorprendente Hombre Araña 2: La amenaza de Electro",
+        "anio": 2014,
+        "tiempo": "2h 22m",
+        "link": "1872181",
+        "descrip": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado.",
+        "all": "all"
+    },
+    {
+        "id": "712",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Elektra",
+        "anio": 2005,
+        "tiempo": "1h 40m",
+        "link": "0357277",
+        "descrip": "Tras recuperarse de las mortales heridas sufridas en 'Daredevil', Elektra se convierte en la más peligrosa asesina del mundo. Cuando le encargan la próxima misión, toma una decisión que podría encauzar su vida o destruirla para siempre.",
+        "all": "all"
+    },
+    {
+        "id": "713",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Ghost Rider: El vengador fantasma",
+        "anio": 2007,
+        "tiempo": "2h 04m",
+        "link": "0259324",
+        "descrip": "Johnny es un temerario acróbata de motocicletas de día, pero de noche se convierte en Ghost Rider, el vengador fantasma, un cazarrecompensas de demonios fugados del infierno.",
+        "all": "all"
+    },
+    {
+        "id": "714",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Ghost Rider: Espíritu de venganza",
+        "anio": 2012,
+        "tiempo": "1h 36m",
+        "link": "1071875",
+        "descrip": "Con el fin de controlar sus deseos de venganza, Johnny Blaze, que ve sus poderes como una maldición, vive apartado del mundo y sin relacionarse con nadie. Sin embargo, acaba siendo localizado por el monje Moreau, que necesita su ayuda para buscar a Nadya y a su hijo Danny antes de que los encuentre Roarke, un viejo conocido de Blaze.",
+        "all": "all"
+    },
+    {
+        "id": "715",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Howard el pato",
+        "anio": 1986,
+        "tiempo": "1h 51m",
+        "link": "0091225",
+        "descrip": "Desde un lejano planeta, y debido a un error de un laboratorio espacial, llega a La Tierra teletransportado un extraño personaje, un pato que dice llamarse Howard. Es acogido en casa de Beberly, una joven que es vocal de un grupo de rock. Cuando el doctor Jenin intenta devolverle a su planeta, la energia diabólica del experimento le atrapa, transformandole en el terrible Señor de las Tinieblas y Howard tendrá que enfrentarse a él.",
+        "all": "all"
+    },
+    {
+        "id": "716",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Hulk",
+        "anio": 2003,
+        "tiempo": "2h 19m",
+        "link": "0286716",
+        "descrip": "Bruce Banner, un investigador de genética con un pasado trágico, sufre un accidente que le hace transformarse en un monstruo verde furioso cuando se enfada.",
+        "all": "all"
+    },
+    {
+        "id": "717",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Los 4 fantásticos",
+        "anio": 2005,
+        "tiempo": "1h 46m",
+        "link": "0120667",
+        "descrip": "Durante un viaje espacial, cuatro astronautas se exponen a una extraña tormenta que altera su ADN y les dota de asombrosos superpoderes.",
+        "all": "all"
+    },
+    {
+        "id": "718",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Los 4 fantásticos y Silver Surfer",
+        "anio": 2007,
+        "tiempo": "1h 32m",
+        "link": "0486576",
+        "descrip": "Los cuatro fantásticos, se enfrentan a su mayor reto hasta la fecha cuando un enigmático emisario intergaláctico llega a la Tierra para prepararla para su destrucción. Además, Reed, Sue, Johnny y Ben deben aunar fuerzas para lidiar con el sorprendente regreso de su mortal enemigo, el Doctor Muerte.",
+        "all": "all"
+    },
+    {
+        "id": "719",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Los 4 Fantásticos",
+        "anio": 2015,
+        "tiempo": "1h 40m",
+        "link": "1502712",
+        "descrip": "Cuatro jóvenes inadaptados se teletransportan a un peligroso universo alternativo, lo que les confiere extraños poderes. Cuando sus vidas cambian de forma drástica e irremediable, deben aprender a controlar sus nuevas habilidades y trabajar en equipo para salvar al mundo de un viejo conocido que ahora se ha convertido en un temible enemigo.",
+        "all": "all"
+    },
+    {
+        "id": "720",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Los Cuatro Fantásticos",
+        "anio": 1994,
+        "tiempo": "1h 31m",
+        "link": "0109770",
+        "descrip": "Reed y Victor son dos estudiantes de física que pretenden capturar la energía de un cometa con un artefacto de diseño propio. La noche del experimento algo va mal, Reed sugiere abandonar el edificio, pero Victor se niega, y sólo la intervención de Ben Grimm, un amigo de Reed, salvará a éste de una muerte similar a la que sufre Victor. Años más tarde, Reed, Ben y los hermanos Storm realizan un vuelo espacial para experimentar fuera de la atmósfera. Pero la aparición del Joyero provoca que el cohete estalle en pedazos en pleno espacio ante la radiación. Los restos del cohete se estrellan en la Tierra y sus ilesos tripulantes descubren que han adquirido poderes sobrehumanos.",
+        "all": "all"
+    },
+    {
+        "id": "721",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Man-Thing",
+        "anio": 2005,
+        "tiempo": "1h 37m",
+        "link": "0290747",
+        "descrip": "Unos agentes que trabajan para un magnate petrolero en una perforación de un antiguo pantano comienzan a desaparecer, junto con algunos lugareños. El nuevo sheriff de la ciudad teme que algo sobrenatural podría estar pasando.",
+        "all": "all"
+    },
+    {
+        "id": "722",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Punisher: War Zone",
+        "anio": 2008,
+        "tiempo": "1h 43m",
+        "link": "0450314",
+        "descrip": "Continuando su cruzada para castigar a criminales violentos en América, el agente del FBI Frank Castle llega a Nueva York en busca de un jefe que controla los bajos fondos de la ciudad.",
+        "all": "all"
+    },
+    {
+        "id": "723",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Spider-Man: Un nuevo universo",
+        "anio": 2018,
+        "tiempo": "1h 57m",
+        "link": "4633694",
+        "descrip": "Luego de ser mordido por una araña radioactiva, el joven Miles Morales desarrolla misteriosos poderes que lo transforman en el Hombre Araña. Ahora deberá usar sus nuevas habilidades ante el malvado Kingpin, un enorme demente que puede abrir portales hacia otros universos.",
+        "all": "all"
+    },
+    {
+        "id": "724",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "The Punisher",
+        "anio": 1989,
+        "tiempo": "1h 30m",
+        "link": "0098141",
+        "descrip": "Frank Castle, un policía supuestamente muerto, regresa para hacer el papel de juez, jurado y verdugo en una guerra contra el crimen.",
+        "all": "all"
+    },
+    {
+        "id": "568",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Iron Man: el hombre de hierro",
+        "anio": 2008,
+        "tiempo": "2h 07m",
+        "link": "0371746",
+        "descrip": "El multimillonario fabricante de armas Tony Stark (Robert Downey Jr.) debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en 'El hombre de hierro', un héroe que se dedica a combatir el mal en todo el mundo.",
+        "all": "all"
+    },
+    {
+        "id": "569",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Hulk: el hombre increíble",
+        "anio": 2008,
+        "tiempo": "1h 53m",
+        "link": "0800080",
+        "descrip": "El científico Bruce Banner recorre el mundo en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y dominado por su propia rabia, es incapaz de sacarse de la cabeza a Betty Ross, por lo que decide volver a la civilización. Mientras se enfrenta a una extraña criatura, el agente de la KGB Emil Blonsky se expone a una dosis de radiación más intensa que la que convirtió a Bruce en Hulk. Emil hace responsable a Hulk de su terrible situación, y la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás pisaron la Tierra.",
+        "all": "all"
+    },
+    {
+        "id": "570",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Iron Man 2",
+        "anio": 2010,
+        "tiempo": "2h 05m",
+        "link": "1228705",
+        "descrip": "El mundo ya sabe que el multimillonario Tony Stark es Iron Man, el superhéroe enmascarado. A pesar de las presiones del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man, porque teme que esa información caiga en en manos de irresponsables. Con Pepper Potts y James Rhodes a su lado, Tony forja alianzas nuevas y se enfrenta a nuevas y poderosas fuerzas.",
+        "all": "all"
+    },
+    {
+        "id": "571",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Thor",
+        "anio": 2011,
+        "tiempo": "1h 55m",
+        "link": "0800369",
+        "descrip": "Thor es un arrogante y codicioso guerrero cuya imprudencia desata una antigua guerra. Por ese motivo, su padre Odín lo castiga desterrándolo a la Tierra para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Cuando el villano más peligroso de su mundo envía a la Tierra a las fuerzas más oscuras de Asgard, Thor se dará cuenta de lo que realmente hace falta para ser un verdadero héroe.",
+        "all": "all"
+    },
+    {
+        "id": "572",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Capitán América: El primer vengador",
+        "anio": 2011,
+        "tiempo": "2h 05m",
+        "link": "0458339",
+        "descrip": "Nacido durante la Gran Depresión (años 30), Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el General Chester Phillips le ofreció la oportunidad de participar en un experimento especial: la 'Operación Renacimiento'. Tras administrarle el “Suero Super-Soldado” y bombardearlo con “vitarrayos”, el cuerpo de Steve se hace perfecto. A continuación, se sometió a un intensivo programa de entrenamiento físico y táctico. Tres meses después, le encomendaron su primera misión como Capitán América. Armado con un escudo indestructible, emprenderá la guerra contra el Mal como centinela de la libertad y líder de los Vengadores.",
+        "all": "all"
+    },
+    {
+        "id": "573",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "The Avengers: Los Vengadores",
+        "anio": 2012,
+        "tiempo": "2h 23m",
+        "link": "0848228",
+        "descrip": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel 'Los Vengadores', el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y el Capitán América entre otros.",
+        "all": "all"
+    },
+    {
+        "id": "574",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Iron Man 3",
+        "anio": 2013,
+        "tiempo": "2h 11m",
+        "link": "1300854",
+        "descrip": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
+        "all": "all"
+    },
+    {
+        "id": "575",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Thor: un mundo oscuro",
+        "anio": 2013,
+        "tiempo": "1h 53m",
+        "link": "1981115",
+        "descrip": "Thor lucha por restablecer el orden en el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa con el propósito de volver a sumir el universo en la oscuridad. Se trata de un villano con el que ni siquiera Odín y Asgard se atreven a enfrentarse; por esa razón, Thor tendrá que emprender un viaje muy peligroso, durante el cual se reunirá con Jane Foster y la obligará a sacrificarlo todo para salvar el mundo.",
+        "all": "all"
+    },
+    {
+        "id": "576",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Capitán América y el Soldado del Invierno",
+        "anio": 2014,
+        "tiempo": "2h 16m",
+        "link": "1843866",
+        "descrip": "Tras los devastadores acontecimientos acaecidos en Nueva York con Los Vengadores, Steve Rogers, alias el Capitán América, vive tranquilamente en Washington D.C. intentando adaptarse al mundo moderno. Pero cuando atacan a un colega de S.H.I.E.L.D., Steve se ve envuelto en una trama de intrigas que representa una amenaza para el mundo. Se unirá entonces a la Viuda Negra para desenmascarar a los conspiradores. Cuando por fin descubren la magnitud de la trama, se unirá a ellos el Halcón. Los tres tendrán que enfrentarse a un enemigo inesperado y extraordinario: el Soldado de Invierno.",
+        "all": "all"
+    },
+    {
+        "id": "577",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Guardianes de la Galaxia",
+        "anio": 2014,
+        "tiempo": "2h 01m",
+        "link": "2015381",
+        "descrip": "El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas después de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambición amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de árbol, la letal y enigmática Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, deberá hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia.",
+        "all": "all"
+    },
+    {
+        "id": "578",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Avengers: Era de Ultrón",
+        "anio": 2015,
+        "tiempo": "2h 22m",
+        "link": "2395427",
+        "descrip": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultrón emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
+        "all": "all"
+    },
+    {
+        "id": "579",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Ant-Man: el hombre hormiga",
+        "anio": 2015,
+        "tiempo": "1h 58m",
+        "link": "0478970",
+        "descrip": "Tras abandonar la cárcel, el ladrón y estafador Scott Lang recibe la llamada del misterioso Dr. Hank Pym para realizar un trabajo especial. El científico suministra al joven un traje especial, que le otorgar la capacidad de reducir su tamaño al de un insecto, al tiempo que aumenta considerablemente su fuerza. Con esta nueva arma en su poder, capaz de comunicarse con los insectos, Lang deberá abrazar su héroe interior, olvidar su pasado de delincuente y tratar de salvar al mundo de una terrible amenaza.",
+        "all": "all"
+    },
+    {
+        "id": "580",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Capitán América: Civil War",
+        "anio": 2016,
+        "tiempo": "2h 28m",
+        "link": "3498820",
+        "descrip": "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano.",
+        "all": "all"
+    },
+    {
+        "id": "581",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Doctor Strange: Hechicero Supremo",
+        "anio": 2016,
+        "tiempo": "1h 55m",
+        "link": "1211837",
+        "descrip": "La vida del Dr. Stephen Strange cambia para siempre tras un accidente automovilístico que le deja muy malheridas sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar esperanza y una cura en un lugar impensable: una comunidad aislada en Nepal llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación, sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. En poco tiempo, Strange, armado con sus poderes mágicos recientemente adquiridos, se ve obligado a elegir entre volver a su antigua vida de riqueza y prestigio o dejarlo todo, para defender el mundo como el mago más poderoso del planeta.",
+        "all": "all"
+    },
+    {
+        "id": "582",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Guardianes de la Galaxia Vol. 2",
+        "anio": 2017,
+        "tiempo": "2h 16m",
+        "link": "3896198",
+        "descrip": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill.",
+        "all": "all"
+    },
+    {
+        "id": "583",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Spider-Man: De regreso a casa",
+        "anio": 2017,
+        "tiempo": "2h 14m",
+        "link": "2250912",
+        "descrip": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+        "all": "all"
+    },
+    {
+        "id": "584",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Thor: Ragnarok",
+        "anio": 2017,
+        "tiempo": "2h 11m",
+        "link": "3501632",
+        "descrip": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!.",
+        "all": "all"
+    },
+    {
+        "id": "585",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Pantera Negra",
+        "anio": 2018,
+        "tiempo": "2h 15m",
+        "link": "1825683",
+        "descrip": "Cuenta la historia de T'Challa, quien vuelve a casa, a la nación de Wakanda, aislada y muy avanzada tecnológicamente, para ser proclamado Rey. Pero la reaparición de un viejo enemigo pone a prueba el temple de T'Challa como Rey y Black Panther ya que se ve arrastrado a un conflicto que pone en peligro todo el destino de Wakanda y del mundo.",
+        "all": "all"
+    },
+    {
+        "id": "586",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Avengers: Infinity War",
+        "anio": 2018,
+        "tiempo": "2h 30m",
+        "link": "4154756",
+        "descrip": "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+        "all": "all"
+    },
+    {
+        "id": "587",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Ant-Man and the wasp",
+        "anio": 2018,
+        "tiempo": "1h 59m",
+        "link": "5095030",
+        "descrip": "Scott Lang lidia con las consecuencias de sus elecciones como superhéroe y padre. Mientras lucha por mantener un equilibrio entre su vida hogareña y sus responsabilidades como Ant-Man, se enfrenta a Hope van Dyne y al Dr. Hank Pym con una nueva misión urgente. Scott debe volver a ponerse el traje y aprender a luchar junto con La Avispa mientras el equipo trabaja en conjunto para descubrir secretos del pasado.",
+        "all": "all"
+    },
+    {
+        "id": "588",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Capitana Marvel",
+        "anio": 2019,
+        "tiempo": "2h 04m",
+        "link": "4154664",
+        "descrip": "La historia sigue a Carol Danvers mientras se convierte en una de las heroínas más poderosas del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas...",
+        "all": "all"
+    },
+    {
+        "id": "589",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Avengers: Endgame",
+        "anio": 2019,
+        "tiempo": "3h 02m",
+        "link": "4154796",
+        "descrip": "Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias...",
+        "all": "all"
+    },
+    {
+        "id": "590",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Spider-Man: Lejos de casa",
+        "anio": 2019,
+        "tiempo": "2h 10m",
+        "link": "6320628",
+        "descrip": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
+        "all": "all"
+    },
+    {
+        "id": "591",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Black Widow",
+        "anio": 2021,
+        "tiempo": "2h 14m",
+        "link": "3480822",
+        "descrip": "Natasha Romanoff, alias Viuda Negra, se enfrenta a los capítulos más oscuros de su historia cuando surge una peligrosa conspiración relacionada con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe lidiar con su historia como espía y con la estela de relaciones destruidas que dejó atrás mucho antes de convertirse en Vengadora.",
+        "all": "all"
+    },
+    {
+        "id": "677",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Shang-Chi y la leyenda de los diez anillos",
+        "anio": 2021,
+        "tiempo": "2h 13m",
+        "link": "9376612",
+        "descrip": "El maestro de artes marciales Shang-Chi se enfrenta al pasado que creía haber dejado atrás cuando se ve envuelto en la red de la misteriosa organización de los Diez Anillos.",
+        "all": "all"
+    },
+    {
+        "id": "667",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Eternals",
+        "anio": 2021,
+        "tiempo": "2h 36m",
+        "link": "9032400",
+        "descrip": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor.",
+        "all": "all"
+    },
+    {
+        "id": "668",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Spider-Man: Sin camino a casa",
+        "anio": 2021,
+        "tiempo": "2h 29m",
+        "link": "10872600",
+        "descrip": "Por primera vez en la historia cinematográfica de Spider-Man, nuestro héroe, vecino y amigo es desenmascarado, y por tanto, ya no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un superhéroe. Cuando pide ayuda al Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser él.",
+        "all": "all"
+    },
+    {
+        "id": "618",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Venom",
+        "anio": 2018,
+        "tiempo": "1h 53m",
+        "link": "1270797",
+        "descrip": "Como periodista, Eddie Brock lleva tiempo intentando desenmascarar al creador de la Fundación Vida, el famoso genio científico Carlton Drake, una obsesión que ha arruinado su carrera y su relación con su novia, Anne. Al investigar uno de los experimentos de Drake, el ente alienígena Venom se fusiona con el cuerpo de Eddie, y el reportero adquiere de pronto nuevos e increíbles superpoderes, así como la oportunidad de hacer prácticamente lo que se le antoje. Retorcido, oscuro, impredecible e impulsado por la cólera, Venom obliga a Eddie a luchar por controlar unas habilidades sumamente peligrosas que, al mismo tiempo, también resultan embriagadoras y le hacen sentir poderoso. Dado que Eddie y Venom se necesitan mutuamente para conseguir lo que quieren, se van entremezclando cada vez más... ¿Dónde acaba Eddie y empieza Venom?",
+        "all": "all"
+    },
+    {
+        "id": "681",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Venom: Carnage liberado",
+        "anio": 2021,
+        "tiempo": "1h 38m",
+        "link": "7097896",
+        "descrip": "Eddie Brock y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte se infecta con un simbionte propio.",
+        "all": "all"
+    },
+    {
+        "id": "643",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "X-Men",
+        "anio": 2000,
+        "tiempo": "1h 45m",
+        "link": "0120903",
+        "descrip": "En un futuro cercano, la humanidad comienza a ver aparecer una nueva raza; los mutantes. Dotados de extraños y variados poderes, están agrupados en dos bandos: los que abogan por la integración y el entendimiento con la humanidad, encabezados por el doctor Charles Xavier, y los que buscan el enfrentamiento con una raza que consideran inferior y que les odia, dirigidos por Magnus, alias Magneto, un peligroso mutante con extraordinarios poderes.",
+        "all": "all"
+    },
+    {
+        "id": "644",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "X-Men 2",
+        "anio": 2003,
+        "tiempo": "2h 14m",
+        "link": "0290334",
+        "descrip": "Los mutantes son seres humanos con alguna variación genética que les dota de características especiales, lo que los convierte en la minoría más perseguida del mundo. Dadas las circunstancia, el profesor Xavier crea una institución que sirva de refugio a estos seres. En ella son preparados para aceptar y dominar sus poderes con el fin de luchar contra la intolerancia y la creciente histeria colectiva que amenaza su existencia. Pero el rechazo hacia los mutantes aumenta todavía más cuando uno de ellos lanza un devastador ataque, lo que da lugar a una pública repulsa contra ellos y al reforzamiento de la Mutant Registration Act, cuyo líder, William Stryker, se propone eliminarlos atacando la escuela de X-Men.",
+        "all": "all"
+    },
+    {
+        "id": "645",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "X-Men: La batalla final",
+        "anio": 2006,
+        "tiempo": "1h 45m",
+        "link": "0376994",
+        "descrip": "Un hecho amenaza con alterar el curso de la historia. Por primera vez, los mutantes pueden elegir: o conservar su singularidad, condenándose al aislamiento, o renunciar a sus poderes y convertirse en seres humanos normales. Los líderes de los mutantes sostienen puntos de vista antagónicos: mientras Charles Xavier aboga por la tolerancia, Magneto defiende la tesis de la supervivencia de los más aptos.",
+        "all": "all"
+    },
+    {
+        "id": "646",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "X-Men orígenes: Wolverine",
+        "anio": 2009,
+        "tiempo": "1h 48m",
+        "link": "0458525",
+        "descrip": "Precuela de la película X-Men. Situada 17 años antes, narra los inicios del arma X y la forma en la que Lobezno se convirtió en mutante. Logan, convertido en un mutante que se hace llamar Lobezno, y que es capaz de sacar unas afiladas garras y de una fuerza y agilidad sobrehumana, ultima su venganza contra Victor Creed, culpable de la muerte de su novia. Mientras tanto, otros mutantes se acogen al programa X para unir sus fuerzas.",
+        "all": "all"
+    },
+    {
+        "id": "647",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "X-Men: Primera generación",
+        "anio": 2011,
+        "tiempo": "2h 12m",
+        "link": "1270798",
+        "descrip": "Antes de que los mutantes se dieran a conocer y adoptaran los nombres de Profesor X y Magneto, los jóvenes Charles Xavier y Erik Lehnsherr empezaban a descubrir sus poderes. No había animadversión alguna entre ellos, sino que los unía una sincera amistad y el deseo de trabajar juntos y entrenar a un grupo de jóvenes mutantes para evitar el Armagedón nuclear. Su enemigo común: el malvado Sebastian Shaw, un mutante con el que Erik tiene una cuenta pendiente.",
+        "all": "all"
+    },
+    {
+        "id": "648",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Wolverine: Inmortal",
+        "anio": 2013,
+        "tiempo": "2h 19m",
+        "link": "1430132",
+        "descrip": "Un Logan amnésico investiga su pasado en el mundo del crimen organizado japonés. Vulnerable por primera vez y desafiando sus límites físicos y emocionales, no sólo se enfrentará al letal acero samurái, sino que además mantendrá una lucha interna contra su inmortalidad, que lo hará más fuerte.",
+        "all": "all"
+    },
+    {
+        "id": "649",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "X-Men: días del futuro pasado",
+        "anio": 2014,
+        "tiempo": "2h 29m",
+        "link": "1877832",
+        "descrip": "Los X-Men luchan por la supervivencia de la especie en una guerra que se desarrolla en épocas diferentes. Los personajes de la trilogía cinematográfica original de 'X-Men' unen sus fuerzas a las que ellos mismos poseían en el pasado, cuando eran más jóvenes, para cambiar un importante acontecimiento histórico y librar una épica batalla que podría salvar nuestro futuro.",
+        "all": "all"
+    },
+    {
+        "id": "650",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Deadpool",
+        "anio": 2016,
+        "tiempo": "1h 49m",
+        "link": "1431045",
+        "descrip": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
+        "all": "all"
+    },
+    {
+        "id": "651",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "X-Men: Apocalipsis",
+        "anio": 2016,
+        "tiempo": "2h 24m",
+        "link": "3385516",
+        "descrip": "Desde el inicio de los tiempos Apocalipsis, el mutante más poderoso que ha existido nunca, era adorado como un dios mientras acumulaba los poderes del resto de mutantes convirtiéndose en un ser inmortal. Tras miles de años dormido, despierta en un mundo que no le gusta y por ello recluta un equipo, encabezado por Magneto, para acabar con toda la humanidad y crear un nuevo orden mundial. Pero el Profesor X, con la ayuda de Mística, se unirá a un grupo de jóvenes mutantes para tratar de detener al mayor enemigo contra el que se hayan enfrentado jamás.",
+        "all": "all"
+    },
+    {
+        "id": "652",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Logan",
+        "anio": 2017,
+        "tiempo": "2h 18m",
+        "link": "3315342",
+        "descrip": "Sin sus poderes, por primera vez, Wolverine es verdaderamente vulnerable. Después de una vida de dolor y angustia, sin rumbo y perdido en el mundo donde los X-Men son leyenda, su mentor Charles Xavier lo convence para asumir una última misión: proteger a una joven que será la única esperanza para la raza mutante...",
+        "all": "all"
+    },
+    {
+        "id": "653",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Deadpool 2",
+        "anio": 2018,
+        "tiempo": "2h 14m",
+        "link": "5463162",
+        "descrip": "Wade Wilson, mejor conocido como Deadpool, su nombre de batalla e identidad antiheroica, está de regreso con Deadpool 2 y en esta ocasión su misión será salvar a un chico llamado Russell de las manos de un poderoso rival llamado Cable. En aras de dar cumplimiento a su tarea el antihéroe formará un grupo al cual pondrá el nombre de X-Force.",
+        "all": "all"
+    },
+    {
+        "id": "654",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "X-Men: Dark Phoenix",
+        "anio": 2019,
+        "tiempo": "1h 54m",
+        "link": "6565702",
+        "descrip": "Los X-Men se enfrentan a su enemigo más poderoso: uno de sus miembros, Jean Grey. Durante una misión de rescate en el espacio, Jean casi muere al ser alcanzada por una misteriosa fuerza cósmica. Cuando regresa a casa, esa radiación la ha hecho más poderosa, pero mucho más inestable. Mientras lucha con la entidad que habita en su interior, Jean desata sus poderes de formas que no puede controlar ni comprender. Jean cae en una espiral fuera de control haciendo daño a aquellos que más ama y empieza a destruir los lazos que mantienen unidos a los X-Men.",
+        "all": "all"
+    },
+    {
+        "id": "655",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Los nuevos mutantes",
+        "anio": 2020,
+        "tiempo": "1h 35m",
+        "link": "4682266",
+        "descrip": "Cinco jóvenes mutantes que acaban de descubrir sus habilidades, son encerrados en unas instalaciones secretas contra su voluntad y luchan por escapar de su pasado y salvarse a sí mismos.",
+        "all": "all"
+    },
+    {
         "id": "678",
         "genero": "Accion",
         "titulo": "Masacre en la cárcel 13",
@@ -4447,6 +5097,16 @@
         "tiempo": "2h 44m",
         "link": "0408306",
         "descrip": "Basada en hechos reales. Tras el asesinato de varios atletas israelíes por el grupo terrorista palestino 'Septiembre Negro' durante los Juegos Olímpicos de Múnich de 1972, un agente especial del Mossad tuvo que ejecutar una misión altamente secreta: asesinar a los responsables.",
+        "all": "all"
+    },
+    {
+        "id": "704",
+        "genero": "Infantil",
+        "titulo": "Música, maestro",
+        "anio": 1946,
+        "tiempo": "1h 16m",
+        "link": "0038718",
+        "descrip": "Antología musical animada compuesta por 10 fragmentos: 'The Martins and the Coys', 'Blue Bayou', 'All the Cats Join In', 'Without You', 'Casey At the Bat', 'Two Silhouettes', 'Peter and the Wolf', 'After You've Gone', 'Johnny Fedora and Alice Blue Bonnett', 'The Whale Who Wanted To Sing At the Met'.",
         "all": "all"
     },
     {
@@ -5067,6 +5727,16 @@
         "tiempo": "1h 42m",
         "link": "2357291",
         "descrip": "Blu, Perla y sus tres hijos llevan una vida perfecta. Cuando Perla decide que los niños tienen que aprender a vivir como auténticas aves, insiste en que la familia se aventure a viajar al Amazonas. Mientras Blu trata de encajar con sus nuevos vecinos, le preocupa la posibilidad de perder a Perla y a los chicos ante la llamada de la selva.",
+        "all": "all"
+    },
+    {
+        "id": "705",
+        "genero": "Infantil",
+        "titulo": "Ritmo y melodía",
+        "anio": 1948,
+        "tiempo": "1h 13m",
+        "link": "0040580",
+        "descrip": "En la más pura tradición de Walt Disney llega este clásico, que hace el número 10, con historias llenas de simpáticos personajes y música muy pegadiza. Únete al Pato Donald en ”Échale la culpa a la samba” y no podrás dejar de mover el cuerpo. En la siguiente historia descubrirás que la música es una verdadera aventura para una abeja muy ocupada en ”El abejorro”. También conocerás a un pequeño personaje, en tamaño, pero de enorme corazón, ”Silbatín”, y con Juanito Manzanas descubrirás cómo el trabajo puede resultar muy gratificante.",
         "all": "all"
     },
     {
@@ -6050,276 +6720,6 @@
         "all": "all"
     },
     {
-        "id": "568",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Iron Man: el hombre de hierro",
-        "anio": 2008,
-        "tiempo": "2h 07m",
-        "link": "0371746",
-        "descrip": "El multimillonario fabricante de armas Tony Stark (Robert Downey Jr.) debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en 'El hombre de hierro', un héroe que se dedica a combatir el mal en todo el mundo.",
-        "all": "all"
-    },
-    {
-        "id": "569",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Hulk: el hombre increíble",
-        "anio": 2008,
-        "tiempo": "1h 53m",
-        "link": "0800080",
-        "descrip": "El científico Bruce Banner recorre el mundo en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y dominado por su propia rabia, es incapaz de sacarse de la cabeza a Betty Ross, por lo que decide volver a la civilización. Mientras se enfrenta a una extraña criatura, el agente de la KGB Emil Blonsky se expone a una dosis de radiación más intensa que la que convirtió a Bruce en Hulk. Emil hace responsable a Hulk de su terrible situación, y la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás pisaron la Tierra.",
-        "all": "all"
-    },
-    {
-        "id": "570",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Iron Man 2",
-        "anio": 2010,
-        "tiempo": "2h 05m",
-        "link": "1228705",
-        "descrip": "El mundo ya sabe que el multimillonario Tony Stark es Iron Man, el superhéroe enmascarado. A pesar de las presiones del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man, porque teme que esa información caiga en en manos de irresponsables. Con Pepper Potts y James Rhodes a su lado, Tony forja alianzas nuevas y se enfrenta a nuevas y poderosas fuerzas.",
-        "all": "all"
-    },
-    {
-        "id": "571",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Thor",
-        "anio": 2011,
-        "tiempo": "1h 55m",
-        "link": "0800369",
-        "descrip": "Thor es un arrogante y codicioso guerrero cuya imprudencia desata una antigua guerra. Por ese motivo, su padre Odín lo castiga desterrándolo a la Tierra para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Cuando el villano más peligroso de su mundo envía a la Tierra a las fuerzas más oscuras de Asgard, Thor se dará cuenta de lo que realmente hace falta para ser un verdadero héroe.",
-        "all": "all"
-    },
-    {
-        "id": "572",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Capitán América: El primer vengador",
-        "anio": 2011,
-        "tiempo": "2h 05m",
-        "link": "0458339",
-        "descrip": "Nacido durante la Gran Depresión (años 30), Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el General Chester Phillips le ofreció la oportunidad de participar en un experimento especial: la 'Operación Renacimiento'. Tras administrarle el “Suero Super-Soldado” y bombardearlo con “vitarrayos”, el cuerpo de Steve se hace perfecto. A continuación, se sometió a un intensivo programa de entrenamiento físico y táctico. Tres meses después, le encomendaron su primera misión como Capitán América. Armado con un escudo indestructible, emprenderá la guerra contra el Mal como centinela de la libertad y líder de los Vengadores.",
-        "all": "all"
-    },
-    {
-        "id": "573",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "The Avengers: Los Vengadores",
-        "anio": 2012,
-        "tiempo": "2h 23m",
-        "link": "0848228",
-        "descrip": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel 'Los Vengadores', el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y el Capitán América entre otros.",
-        "all": "all"
-    },
-    {
-        "id": "574",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Iron Man 3",
-        "anio": 2013,
-        "tiempo": "2h 11m",
-        "link": "1300854",
-        "descrip": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
-        "all": "all"
-    },
-    {
-        "id": "575",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Thor: un mundo oscuro",
-        "anio": 2013,
-        "tiempo": "1h 53m",
-        "link": "1981115",
-        "descrip": "Thor lucha por restablecer el orden en el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa con el propósito de volver a sumir el universo en la oscuridad. Se trata de un villano con el que ni siquiera Odín y Asgard se atreven a enfrentarse; por esa razón, Thor tendrá que emprender un viaje muy peligroso, durante el cual se reunirá con Jane Foster y la obligará a sacrificarlo todo para salvar el mundo.",
-        "all": "all"
-    },
-    {
-        "id": "576",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Capitán América y el Soldado del Invierno",
-        "anio": 2014,
-        "tiempo": "2h 16m",
-        "link": "1843866",
-        "descrip": "Tras los devastadores acontecimientos acaecidos en Nueva York con Los Vengadores, Steve Rogers, alias el Capitán América, vive tranquilamente en Washington D.C. intentando adaptarse al mundo moderno. Pero cuando atacan a un colega de S.H.I.E.L.D., Steve se ve envuelto en una trama de intrigas que representa una amenaza para el mundo. Se unirá entonces a la Viuda Negra para desenmascarar a los conspiradores. Cuando por fin descubren la magnitud de la trama, se unirá a ellos el Halcón. Los tres tendrán que enfrentarse a un enemigo inesperado y extraordinario: el Soldado de Invierno.",
-        "all": "all"
-    },
-    {
-        "id": "577",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Guardianes de la Galaxia",
-        "anio": 2014,
-        "tiempo": "2h 01m",
-        "link": "2015381",
-        "descrip": "El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas después de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambición amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de árbol, la letal y enigmática Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, deberá hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia.",
-        "all": "all"
-    },
-    {
-        "id": "578",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Avengers: Era de Ultrón",
-        "anio": 2015,
-        "tiempo": "2h 22m",
-        "link": "2395427",
-        "descrip": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultrón emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
-        "all": "all"
-    },
-    {
-        "id": "579",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Ant-Man: el hombre hormiga",
-        "anio": 2015,
-        "tiempo": "1h 58m",
-        "link": "0478970",
-        "descrip": "Tras abandonar la cárcel, el ladrón y estafador Scott Lang recibe la llamada del misterioso Dr. Hank Pym para realizar un trabajo especial. El científico suministra al joven un traje especial, que le otorgar la capacidad de reducir su tamaño al de un insecto, al tiempo que aumenta considerablemente su fuerza. Con esta nueva arma en su poder, capaz de comunicarse con los insectos, Lang deberá abrazar su héroe interior, olvidar su pasado de delincuente y tratar de salvar al mundo de una terrible amenaza.",
-        "all": "all"
-    },
-    {
-        "id": "580",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Capitán América: Civil War",
-        "anio": 2016,
-        "tiempo": "2h 28m",
-        "link": "3498820",
-        "descrip": "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano.",
-        "all": "all"
-    },
-    {
-        "id": "581",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Doctor Strange: Hechicero Supremo",
-        "anio": 2016,
-        "tiempo": "1h 55m",
-        "link": "1211837",
-        "descrip": "La vida del Dr. Stephen Strange cambia para siempre tras un accidente automovilístico que le deja muy malheridas sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar esperanza y una cura en un lugar impensable: una comunidad aislada en Nepal llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación, sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. En poco tiempo, Strange, armado con sus poderes mágicos recientemente adquiridos, se ve obligado a elegir entre volver a su antigua vida de riqueza y prestigio o dejarlo todo, para defender el mundo como el mago más poderoso del planeta.",
-        "all": "all"
-    },
-    {
-        "id": "582",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Guardianes de la Galaxia Vol. 2",
-        "anio": 2017,
-        "tiempo": "2h 16m",
-        "link": "3896198",
-        "descrip": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill.",
-        "all": "all"
-    },
-    {
-        "id": "583",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Spider-Man: De regreso a casa",
-        "anio": 2017,
-        "tiempo": "2h 14m",
-        "link": "2250912",
-        "descrip": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
-        "all": "all"
-    },
-    {
-        "id": "584",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Thor: Ragnarok",
-        "anio": 2017,
-        "tiempo": "2h 11m",
-        "link": "3501632",
-        "descrip": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!.",
-        "all": "all"
-    },
-    {
-        "id": "585",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Pantera Negra",
-        "anio": 2018,
-        "tiempo": "2h 15m",
-        "link": "1825683",
-        "descrip": "Cuenta la historia de T'Challa, quien vuelve a casa, a la nación de Wakanda, aislada y muy avanzada tecnológicamente, para ser proclamado Rey. Pero la reaparición de un viejo enemigo pone a prueba el temple de T'Challa como Rey y Black Panther ya que se ve arrastrado a un conflicto que pone en peligro todo el destino de Wakanda y del mundo.",
-        "all": "all"
-    },
-    {
-        "id": "586",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Avengers: Infinity War",
-        "anio": 2018,
-        "tiempo": "2h 30m",
-        "link": "4154756",
-        "descrip": "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
-        "all": "all"
-    },
-    {
-        "id": "587",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Ant-Man and the wasp",
-        "anio": 2018,
-        "tiempo": "1h 59m",
-        "link": "5095030",
-        "descrip": "Scott Lang lidia con las consecuencias de sus elecciones como superhéroe y padre. Mientras lucha por mantener un equilibrio entre su vida hogareña y sus responsabilidades como Ant-Man, se enfrenta a Hope van Dyne y al Dr. Hank Pym con una nueva misión urgente. Scott debe volver a ponerse el traje y aprender a luchar junto con La Avispa mientras el equipo trabaja en conjunto para descubrir secretos del pasado.",
-        "all": "all"
-    },
-    {
-        "id": "588",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Capitana Marvel",
-        "anio": 2019,
-        "tiempo": "2h 04m",
-        "link": "4154664",
-        "descrip": "La historia sigue a Carol Danvers mientras se convierte en una de las heroínas más poderosas del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas...",
-        "all": "all"
-    },
-    {
-        "id": "589",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Avengers: Endgame",
-        "anio": 2019,
-        "tiempo": "3h 02m",
-        "link": "4154796",
-        "descrip": "Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias...",
-        "all": "all"
-    },
-    {
-        "id": "590",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Spider-Man: Lejos de casa",
-        "anio": 2019,
-        "tiempo": "2h 10m",
-        "link": "6320628",
-        "descrip": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
-        "all": "all"
-    },
-    {
-        "id": "591",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Black Widow",
-        "anio": 2021,
-        "tiempo": "2h 14m",
-        "link": "3480822",
-        "descrip": "Natasha Romanoff, alias Viuda Negra, se enfrenta a los capítulos más oscuros de su historia cuando surge una peligrosa conspiración relacionada con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe lidiar con su historia como espía y con la estela de relaciones destruidas que dejó atrás mucho antes de convertirse en Vengadora.",
-        "all": "all"
-    },
-    {
-        "id": "677",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Shang-Chi y la leyenda de los diez anillos",
-        "anio": 2021,
-        "tiempo": "2h 13m",
-        "link": "9376612",
-        "descrip": "El maestro de artes marciales Shang-Chi se enfrenta al pasado que creía haber dejado atrás cuando se ve envuelto en la red de la misteriosa organización de los Diez Anillos.",
-        "all": "all"
-    },
-    {
-        "id": "667",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Eternals",
-        "anio": 2021,
-        "tiempo": "2h 36m",
-        "link": "9032400",
-        "descrip": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor.",
-        "all": "all"
-    },
-    {
-        "id": "668",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Spider-Man: Sin camino a casa",
-        "anio": 2021,
-        "tiempo": "2h 29m",
-        "link": "10872600",
-        "descrip": "Por primera vez en la historia cinematográfica de Spider-Man, nuestro héroe, vecino y amigo es desenmascarado, y por tanto, ya no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un superhéroe. Cuando pide ayuda al Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser él.",
-        "all": "all"
-    },
-    {
         "id": "592",
         "genero": "Fantasia",
         "titulo": "Harry Potter y la piedra filosofal",
@@ -6580,26 +6980,6 @@
         "all": "all"
     },
     {
-        "id": "618",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Venom",
-        "anio": 2018,
-        "tiempo": "1h 53m",
-        "link": "1270797",
-        "descrip": "Como periodista, Eddie Brock lleva tiempo intentando desenmascarar al creador de la Fundación Vida, el famoso genio científico Carlton Drake, una obsesión que ha arruinado su carrera y su relación con su novia, Anne. Al investigar uno de los experimentos de Drake, el ente alienígena Venom se fusiona con el cuerpo de Eddie, y el reportero adquiere de pronto nuevos e increíbles superpoderes, así como la oportunidad de hacer prácticamente lo que se le antoje. Retorcido, oscuro, impredecible e impulsado por la cólera, Venom obliga a Eddie a luchar por controlar unas habilidades sumamente peligrosas que, al mismo tiempo, también resultan embriagadoras y le hacen sentir poderoso. Dado que Eddie y Venom se necesitan mutuamente para conseguir lo que quieren, se van entremezclando cada vez más... ¿Dónde acaba Eddie y empieza Venom?",
-        "all": "all"
-    },
-    {
-        "id": "681",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Venom: Carnage liberado",
-        "anio": 2021,
-        "tiempo": "1h 38m",
-        "link": "7097896",
-        "descrip": "Eddie Brock y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte se infecta con un simbionte propio.",
-        "all": "all"
-    },
-    {
         "id": "693",
         "genero": "Horror",
         "titulo": "Verano del 84",
@@ -6847,136 +7227,6 @@
         "tiempo": "1h 44m",
         "link": "4575576",
         "descrip": "El niño que se embarcó en innumerables aventuras en el bosque de los Cien Acres con su banda de animales de peluche, ha crecido y… ha perdido el rumbo. Ahora les toca a sus amigos de la infancia aventurarse en nuestro mundo y ayudar a Christopher Robin a recordar al niño cariñoso y juguetón que aún tiene dentro",
-        "all": "all"
-    },
-    {
-        "id": "643",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "X-Men",
-        "anio": 2000,
-        "tiempo": "1h 45m",
-        "link": "0120903",
-        "descrip": "En un futuro cercano, la humanidad comienza a ver aparecer una nueva raza; los mutantes. Dotados de extraños y variados poderes, están agrupados en dos bandos: los que abogan por la integración y el entendimiento con la humanidad, encabezados por el doctor Charles Xavier, y los que buscan el enfrentamiento con una raza que consideran inferior y que les odia, dirigidos por Magnus, alias Magneto, un peligroso mutante con extraordinarios poderes.",
-        "all": "all"
-    },
-    {
-        "id": "644",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "X-Men 2",
-        "anio": 2003,
-        "tiempo": "2h 14m",
-        "link": "0290334",
-        "descrip": "Los mutantes son seres humanos con alguna variación genética que les dota de características especiales, lo que los convierte en la minoría más perseguida del mundo. Dadas las circunstancia, el profesor Xavier crea una institución que sirva de refugio a estos seres. En ella son preparados para aceptar y dominar sus poderes con el fin de luchar contra la intolerancia y la creciente histeria colectiva que amenaza su existencia. Pero el rechazo hacia los mutantes aumenta todavía más cuando uno de ellos lanza un devastador ataque, lo que da lugar a una pública repulsa contra ellos y al reforzamiento de la Mutant Registration Act, cuyo líder, William Stryker, se propone eliminarlos atacando la escuela de X-Men.",
-        "all": "all"
-    },
-    {
-        "id": "645",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "X-Men: La batalla final",
-        "anio": 2006,
-        "tiempo": "1h 45m",
-        "link": "0376994",
-        "descrip": "Un hecho amenaza con alterar el curso de la historia. Por primera vez, los mutantes pueden elegir: o conservar su singularidad, condenándose al aislamiento, o renunciar a sus poderes y convertirse en seres humanos normales. Los líderes de los mutantes sostienen puntos de vista antagónicos: mientras Charles Xavier aboga por la tolerancia, Magneto defiende la tesis de la supervivencia de los más aptos.",
-        "all": "all"
-    },
-    {
-        "id": "646",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "X-Men orígenes: Wolverine",
-        "anio": 2009,
-        "tiempo": "1h 48m",
-        "link": "0458525",
-        "descrip": "Precuela de la película X-Men. Situada 17 años antes, narra los inicios del arma X y la forma en la que Lobezno se convirtió en mutante. Logan, convertido en un mutante que se hace llamar Lobezno, y que es capaz de sacar unas afiladas garras y de una fuerza y agilidad sobrehumana, ultima su venganza contra Victor Creed, culpable de la muerte de su novia. Mientras tanto, otros mutantes se acogen al programa X para unir sus fuerzas.",
-        "all": "all"
-    },
-    {
-        "id": "647",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "X-Men: Primera generación",
-        "anio": 2011,
-        "tiempo": "2h 12m",
-        "link": "1270798",
-        "descrip": "Antes de que los mutantes se dieran a conocer y adoptaran los nombres de Profesor X y Magneto, los jóvenes Charles Xavier y Erik Lehnsherr empezaban a descubrir sus poderes. No había animadversión alguna entre ellos, sino que los unía una sincera amistad y el deseo de trabajar juntos y entrenar a un grupo de jóvenes mutantes para evitar el Armagedón nuclear. Su enemigo común: el malvado Sebastian Shaw, un mutante con el que Erik tiene una cuenta pendiente.",
-        "all": "all"
-    },
-    {
-        "id": "648",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Wolverine: Inmortal",
-        "anio": 2013,
-        "tiempo": "2h 19m",
-        "link": "1430132",
-        "descrip": "Un Logan amnésico investiga su pasado en el mundo del crimen organizado japonés. Vulnerable por primera vez y desafiando sus límites físicos y emocionales, no sólo se enfrentará al letal acero samurái, sino que además mantendrá una lucha interna contra su inmortalidad, que lo hará más fuerte.",
-        "all": "all"
-    },
-    {
-        "id": "649",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "X-Men: días del futuro pasado",
-        "anio": 2014,
-        "tiempo": "2h 29m",
-        "link": "1877832",
-        "descrip": "Los X-Men luchan por la supervivencia de la especie en una guerra que se desarrolla en épocas diferentes. Los personajes de la trilogía cinematográfica original de 'X-Men' unen sus fuerzas a las que ellos mismos poseían en el pasado, cuando eran más jóvenes, para cambiar un importante acontecimiento histórico y librar una épica batalla que podría salvar nuestro futuro.",
-        "all": "all"
-    },
-    {
-        "id": "650",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Deadpool",
-        "anio": 2016,
-        "tiempo": "1h 49m",
-        "link": "1431045",
-        "descrip": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
-        "all": "all"
-    },
-    {
-        "id": "651",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "X-Men: Apocalipsis",
-        "anio": 2016,
-        "tiempo": "2h 24m",
-        "link": "3385516",
-        "descrip": "Desde el inicio de los tiempos Apocalipsis, el mutante más poderoso que ha existido nunca, era adorado como un dios mientras acumulaba los poderes del resto de mutantes convirtiéndose en un ser inmortal. Tras miles de años dormido, despierta en un mundo que no le gusta y por ello recluta un equipo, encabezado por Magneto, para acabar con toda la humanidad y crear un nuevo orden mundial. Pero el Profesor X, con la ayuda de Mística, se unirá a un grupo de jóvenes mutantes para tratar de detener al mayor enemigo contra el que se hayan enfrentado jamás.",
-        "all": "all"
-    },
-    {
-        "id": "652",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Logan",
-        "anio": 2017,
-        "tiempo": "2h 18m",
-        "link": "3315342",
-        "descrip": "Sin sus poderes, por primera vez, Wolverine es verdaderamente vulnerable. Después de una vida de dolor y angustia, sin rumbo y perdido en el mundo donde los X-Men son leyenda, su mentor Charles Xavier lo convence para asumir una última misión: proteger a una joven que será la única esperanza para la raza mutante...",
-        "all": "all"
-    },
-    {
-        "id": "653",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Deadpool 2",
-        "anio": 2018,
-        "tiempo": "2h 14m",
-        "link": "5463162",
-        "descrip": "Wade Wilson, mejor conocido como Deadpool, su nombre de batalla e identidad antiheroica, está de regreso con Deadpool 2 y en esta ocasión su misión será salvar a un chico llamado Russell de las manos de un poderoso rival llamado Cable. En aras de dar cumplimiento a su tarea el antihéroe formará un grupo al cual pondrá el nombre de X-Force.",
-        "all": "all"
-    },
-    {
-        "id": "654",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "X-Men: Dark Phoenix",
-        "anio": 2019,
-        "tiempo": "1h 54m",
-        "link": "6565702",
-        "descrip": "Los X-Men se enfrentan a su enemigo más poderoso: uno de sus miembros, Jean Grey. Durante una misión de rescate en el espacio, Jean casi muere al ser alcanzada por una misteriosa fuerza cósmica. Cuando regresa a casa, esa radiación la ha hecho más poderosa, pero mucho más inestable. Mientras lucha con la entidad que habita en su interior, Jean desata sus poderes de formas que no puede controlar ni comprender. Jean cae en una espiral fuera de control haciendo daño a aquellos que más ama y empieza a destruir los lazos que mantienen unidos a los X-Men.",
-        "all": "all"
-    },
-    {
-        "id": "655",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "Los nuevos mutantes",
-        "anio": 2020,
-        "tiempo": "1h 35m",
-        "link": "4682266",
-        "descrip": "Cinco jóvenes mutantes que acaban de descubrir sus habilidades, son encerrados en unas instalaciones secretas contra su voluntad y luchan por escapar de su pasado y salvarse a sí mismos.",
         "all": "all"
     },
     {
