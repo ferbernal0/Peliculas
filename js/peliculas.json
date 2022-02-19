@@ -3320,6 +3320,16 @@
         "all": "all"
     },
     {
+        "id": "725",
+        "genero": "Horror",
+        "titulo": "La masacre de Texas",
+        "anio": 2022,
+        "tiempo": "1h 24m",
+        "link": "11755740",
+        "descrip": "Melody, su hermana adolescente Lila y sus amigos Dante y Ruth viajan al remoto pueblo de Harlow para montar un negocio muy idealista. Pero su sueño se convierte en una auténtica pesadilla cuando molestan sin querer a Leatherface, el desquiciado asesino en serie cuyo sangriento legado sigue acechando a los habitantes de la zona, entre ellos Sally Hardesty, la única superviviente de su masacre de 1973, decidida a vengarse a muerte.",
+        "all": "all"
+    },
+    {
         "id": "321",
         "genero": "Drama",
         "titulo": "La mula",
@@ -4117,16 +4127,6 @@
         "tiempo": "2h 14m",
         "link": "0287978",
         "descrip": "El abogado Matt Murdock es ciego a causa de un residuo radioactivo, pero sus otros cuatro sentidos están especialmente agudizados. De día, Murdock representa a los oprimidos. Por la noche, es Daredevil, un héroe enmascarado que vigila las oscuras calles de la ciudad y lucha contra toda clase de injusticias.",
-        "all": "all"
-    },
-    {
-        "id": "711",
-        "genero": "Ciencia-Ficcion",
-        "titulo": "El castigador",
-        "anio": 2004,
-        "tiempo": "2h 04m",
-        "link": "0330793",
-        "descrip": "Frank Castle, un agente secreto del FBI con un historial intachable, decide un día abandonar una profesión tan peligrosa para poder tener una vida familiar normal. Pero, precisamente entonces, su vida se hace añicos al cumplirse el peor de sus temores: su familia es asesinada como venganza por su último trabajo. Buscando castigar a los asesinos, al final encuentra lo que menos esperaba: la redención.",
         "all": "all"
     },
     {
