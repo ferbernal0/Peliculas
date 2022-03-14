@@ -5950,6 +5950,56 @@
         "all": "all"
     },
     {
+        "id": "727",
+        "genero": "Horror",
+        "titulo": "Scream: Vigila quién llama",
+        "anio": 1996,
+        "tiempo": "1h 51m",
+        "link": "0117571",
+        "descrip": "Un año después del asesinato de su madre, Sidney vuelve a vivir una situación angustiosa: mientras un terrible psicópata tiene aterrorizado al barrio, su padre está siempre ausente y su novio está a punto de romper con ella.",
+        "all": "all"
+    },
+    {
+        "id": "728",
+        "genero": "Horror",
+        "titulo": "Scream 2",
+        "anio": 1997,
+        "tiempo": "2h 01m",
+        "link": "0120082",
+        "descrip": "Sidney Presscott, dos años después de los asesinatos de Woodsboro, California, vive feliz con sus amigos en el Campus de la Universidad de Windsor. El curso toca ya a su fin. Pero el día en que se estrena una película basada en la novela de la periodista Gala Weathers sobre los crímenes de Woodsboro, alguien es asesinado en el cine del campus.",
+        "all": "all"
+    },
+    {
+        "id": "729",
+        "genero": "Horror",
+        "titulo": "Scream 3",
+        "anio": 2000,
+        "tiempo": "1h 57m",
+        "link": "0134084",
+        "descrip": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de 'Puñaladas 3', película basada en los hechos de los que ella fue protagonista.",
+        "all": "all"
+    },
+    {
+        "id": "730",
+        "genero": "Horror",
+        "titulo": "Scream 4",
+        "anio": 2011,
+        "tiempo": "1h 51m",
+        "link": "1262416",
+        "descrip": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
+        "all": "all"
+    },
+    {
+        "id": "731",
+        "genero": "Horror",
+        "titulo": "Scream",
+        "anio": 2022,
+        "tiempo": "1h 55m",
+        "link": "11245972",
+        "descrip": "Veinticinco años después de que una serie de brutales asesinatos conmocionara al tranquilo pueblo de Woodsboro, un nuevo asesino se ha puesto la máscara de Ghostface y comienza a perseguir a un grupo de adolescentes para resucitar los secretos del mortífero pasado del pueblo.",
+        "all": "all"
+    },
+    {
         "id": "495",
         "genero": "Drama",
         "titulo": "Secretos de estado",
@@ -6997,6 +7047,56 @@
         "tiempo": "1h 46m",
         "link": "5774450",
         "descrip": "Verano, 1984: La época perfecta para tener 15 años y ser libre. Pero cuando un teórico de las conspiraciones empieza a sospechar que su vecino policía podría ser el asesino en serie que sale en las noticias, él y sus tres mejores amigos empezarán una investigación que rápidamente se volverá peligrosa.",
+        "all": "all"
+    },
+    {
+        "id": "732",
+        "genero": "Horror",
+        "titulo": "V/H/S: Las crónicas del miedo",
+        "anio": 2012,
+        "tiempo": "1h 57m",
+        "link": "2105044",
+        "descrip": "Un grupo de delincuentes es contratado para acudir a una casa y recuperar una cinta de vídeo. Sin embargo, pronto se dan cuenta de que su trabajo no es tan fácil como creían: encuentran un cuerpo sin vida rodeado de cintas VHS espeluznantes.",
+        "all": "all"
+    },
+    {
+        "id": "733",
+        "genero": "Horror",
+        "titulo": "V/H/S/2",
+        "anio": 2013,
+        "tiempo": "1h 36m",
+        "link": "2450186",
+        "descrip": "Buscando a un estudiante desaparecido, dos investigadores privados irrumpen en su casa y encuentran una colección de cintas VHS. Cuando ven los horribles contenidos cada casete, se dan cuenta que puede haber motivos oscuros detrás de la desaparición del estudiante.",
+        "all": "all"
+    },
+    {
+        "id": "734",
+        "genero": "Horror",
+        "titulo": "V/H/S: Viral",
+        "anio": 2014,
+        "tiempo": "1h 22m",
+        "link": "3704538",
+        "descrip": "Un camión está causando el caos en la calle, atropellando a todo aquel que se cruza en su camino. Mientras tanto, unos adolescentes se ven envueltos en un fenómeno viral de lo más peligroso. Esta es la historia que envuelve los distintos segmentos de la tercera entrega de V/H/S, en los que se dan cita patinadores, brujos y mad doctors.",
+        "all": "all"
+    },
+    {
+        "id": "735",
+        "genero": "Horror",
+        "titulo": "V/H/S/94",
+        "anio": 2021,
+        "tiempo": "1h 44m",
+        "link": "14867006",
+        "descrip": "Tras el descubrimiento de una misteriosa cinta VHS, un equipo especial de la policía lanza una redada en un almacén remoto y descubre una secta siniestra con una colección de grabaciones que revelan una conspiración tenebrosa.",
+        "all": "all"
+    },
+    {
+        "id": "736",
+        "genero": "Horror",
+        "titulo": "SiREN",
+        "anio": 2016,
+        "tiempo": "1h 23m",
+        "link": "4667854",
+        "descrip": "Jonah y sus amigos celebran su despedida de soltero, y la juerga los lleva hasta un sórdido antro. Allá, él libera a una bailarina que aparentemente está siendo retenida contra su voluntad. Lo que no sabe es que en realidad ella es un monstruo terrible y vengativo.",
         "all": "all"
     },
     {
