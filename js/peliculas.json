@@ -320,6 +320,16 @@
         "all": "all"
     },
     {
+        "id": "738",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Batman",
+        "anio": 1966,
+        "tiempo": "1h 45m",
+        "link": "0060153",
+        "descrip": "Batman y Robin, descubren una pista de que el Comodoro Schmidlapp está en peligro en su yate, y se revela en la pista que los famosos archivillanos de siempre intentan secuestrar a los máximos dirigentes del mundo, usando el Deshidratador que liofiliza a los seres humanos convirtiéndolos en polvo, los cuales se encuentran en Ciudad Gótica. Ahora Batman y Robin intentarán detener a estos archivillanos quienes tienen su guarida en un submarino.",
+        "all": "all"
+    },
+    {
         "id": "033",
         "genero": "Ciencia-Ficcion",
         "titulo": "Batman",
@@ -357,6 +367,16 @@
         "tiempo": "2h 05m",
         "link": "0118688",
         "descrip": "Los experimentos del doctor Victor Fries para conservar la vida de su esposa con técnicas criogénicas originaron un error fatal que lo convirtió en Míster Frío, un villano que necesita mantener su cuerpo a temperaturas glaciales y que intentará congelar a todos los habitantes de la ciudad de Gotham. Además, la tímida botánica Pamela Isley se transforma en el transcurso de un experimento en la terrible Hiedra Venenosa que querrá asesinar a todos los seres humanos para que las plantas recuperen su hegemonía sobre la Tierra. Batman y su compañero Robin deberán enfrentarse a ellos para hacer fracasar sus siniestros planes.",
+        "all": "all"
+    },
+    {
+        "id": "737",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Batman",
+        "anio": 2022,
+        "tiempo": "2h 56m",
+        "link": "1877830",
+        "descrip": "Después de dos años acechando por las calles de la ciudad como Batman, e infundiendo miedo en las mentes perversas de los criminales, Bruce Wayne está sumido en las profundidades de las sombras de Gotham City. Este vigilante solitario cuenta con pocos aliados de confianza y eso le ha llevado a convertirse en la única encarnación de la venganza entre sus conciudadanos. Cuando un asesino apunta a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas lleva al 'mejor detective del mundo' a realizar una investigación en el inframundo.",
         "all": "all"
     },
     {
@@ -680,6 +700,16 @@
         "all": "all"
     },
     {
+        "id": "739",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Constantine",
+        "anio": 2005,
+        "tiempo": "2h 01m",
+        "link": "0360486",
+        "descrip": "Nacido con el don de ver a los ángeles y demonios que viven en la tierra bajo aspecto humano, John Constantine se quitó la vida para escapar de sus visiones. Resucitado en contra de su voluntad, patrulla la frontera terrenal entre cielo e infierno.",
+        "all": "all"
+    },
+    {
         "id": "066",
         "genero": "Thriller",
         "titulo": "Control total",
@@ -961,7 +991,7 @@
     },
     {
         "id": "093",
-        "genero": "Accion",
+        "genero": "Ciencia-Ficcion",
         "titulo": "Batman Inicia",
         "anio": 2005,
         "tiempo": "2h 21m",
@@ -971,7 +1001,7 @@
     },
     {
         "id": "094",
-        "genero": "Accion",
+        "genero": "Ciencia-Ficcion",
         "titulo": "Batman: El caballero de la noche",
         "anio": 2008,
         "tiempo": "2h 33m",
@@ -981,7 +1011,7 @@
     },
     {
         "id": "095",
-        "genero": "Accion",
+        "genero": "Ciencia-Ficcion",
         "titulo": "Batman: El caballero de la noche asciende",
         "anio": 2012,
         "tiempo": "2h 45m",
@@ -1417,6 +1447,26 @@
         "tiempo": "1h 57m",
         "link": "9639470",
         "descrip": "Una joven amante de la moda viaja en el tiempo y termina en Londres en la década de 1960. Allí conoce a su gran ídolo, una cantante. Sin embargo, tiene que descubrir que la vida en ese momento en el Soho es diferente de lo que ella esperaba.",
+        "all": "all"
+    },
+    {
+        "id": "740",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El monstruo del pantano",
+        "anio": 1982,
+        "tiempo": "1h 33m",
+        "link": "0084745",
+        "descrip": "Un equipo científico, de investigación en un pantano, es atacado por los secuaces de un malvado doctor. Durante el ataque, el doctor es contaminado por un peligroso producto que lo convierte en un monstruo.",
+        "all": "all"
+    },
+    {
+        "id": "741",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "El regreso del monstruo del pantano",
+        "anio": 1989,
+        "tiempo": "1h 28m",
+        "link": "0098193",
+        "descrip": "La hija adoptiva de un malvado científico se enamora de una de sus criaturas, un monstruo vegetal modificado genéticamente en un experimento.",
         "all": "all"
     },
     {
@@ -1930,6 +1980,16 @@
         "all": "all"
     },
     {
+        "id": "742",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Gatúbela",
+        "anio": 2004,
+        "tiempo": "1h 45m",
+        "link": "0327554",
+        "descrip": "Patience trabaja para una empresa de cosméticos y escucha una conversación secreta sobre una línea de cosméticos antienvejecimiento. Por ese motivo sus jefes casi la matan, pero vuelve con fuerza y habilidades sobrehumanas en forma de 'Catwoman'.",
+        "all": "all"
+    },
+    {
         "id": "193",
         "genero": "Historia",
         "titulo": "Gladiador",
@@ -2001,7 +2061,7 @@
     },
     {
         "id": "200",
-        "genero": "Crimen",
+        "genero": "Ciencia-Ficcion",
         "titulo": "Guasón",
         "anio": 2019,
         "tiempo": "2h 02m",
@@ -2767,6 +2827,16 @@
         "tiempo": "2h 12m",
         "link": "6146586",
         "descrip": "John Wick regresa a la acción, solo que esta vez con una recompensa de 14 millones de dólares sobre su cabeza y con un ejército de mercenarios intentando darle caza. Tras asesinar a uno de los miembros del gremio de asesinos al que pertenecía, Wick es expulsado de la organización, pasando a convertirse en el centro de atención de multitud de asesinos a sueldo que esperan detrás de cada esquina para tratar de deshacerse de él.",
+        "all": "all"
+    },
+    {
+        "id": "743",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Jonah Hex",
+        "anio": 2010,
+        "tiempo": "1h 22m",
+        "link": "1075747",
+        "descrip": "En el salvaje Oeste, a Jonah Hex lo conocen por la cicatriz de su cara y por vestir un uniforme del ejército confederado. De niño su padre lo vendió a los apaches y tuvo que crecer y formarse en un mundo duro y hostil, sobreviviendo unas veces como pistolero y otras como cazador de recompensas. El único contacto que mantiene con el mundo es a través de la bella Lilah.",
         "all": "all"
     },
     {
@@ -3687,6 +3757,16 @@
         "tiempo": "2h 31m",
         "link": "0443272",
         "descrip": "En 1865, mientras la Guerra Civil Americana se acerca a su fin, el presidente Abraham Lincoln propone una enmienda que prohíba la esclavitud en los Estados Unidos. Sin embargo esto plantea un gran dilema: si la paz llega antes de que se apruebe la enmienda, el Sur tendrá poder para rechazarla y mantener la esclavitud; si la paz llega después, decenas de miles de personas seguirán muriendo en el frente. En una carrera contrarreloj para conseguir los votos necesarios, Lincoln se enfrenta a la mayor crisis de conciencia de su vida.",
+        "all": "all"
+    },
+    {
+        "id": "744",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Linterna Verde",
+        "anio": 2011,
+        "tiempo": "2h 04m",
+        "link": "1133985",
+        "descrip": "A Hal Jordan, un piloto de prueba, un extraterrestre moribundo le ofrece un anillo que le concede poderes extraordinarios. Gracias a ello es reclutado para una misión de paz intergaláctica.",
         "all": "all"
     },
     {
@@ -6300,6 +6380,16 @@
         "all": "all"
     },
     {
+        "id": "745",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Steel",
+        "anio": 1997,
+        "tiempo": "1h 37m",
+        "link": "0120207",
+        "descrip": "Un corrupto militar pone en las calles unas innovadoras y peligrosas armas. John Hery, un diseñador de armas que trabaja para el ejército norteamericano, se convertirá en la única esperanza que tendrán los desesperados ciudadanos para luchar contra las bandas que asolan las calles. Contará para ello con la ayuda de una experta en electrónica y la imaginación de un trabajador del metal. Ambos prepararán un equipo de acero con el que Hery podrá enfrentarse en una despiadada guerra en las calles para detener al militar.",
+        "all": "all"
+    },
+    {
         "id": "523",
         "genero": "Thriller",
         "titulo": "Steel Country",
@@ -6317,6 +6407,76 @@
         "tiempo": "2h 23m",
         "link": "0111161",
         "descrip": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros de prisión, especialmente de Red, el jefe de la mafia de los sobornos.",
+        "all": "all"
+    },
+    {
+        "id": "746",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Superman: La película",
+        "anio": 1978,
+        "tiempo": "3h 09m",
+        "link": "0078346",
+        "descrip": "Desde una galaxia remota, un recién nacido es enviado por sus padres al espacio debido a la inminente destrucción del planeta donde viven. La nave aterriza en la Tierra, y el niño es adoptado por unos granjeros que le inculcan los mejores valores humanos. Con los años, el joven se irá a Metrópolis y allí usará sus poderes sobrenaturales para luchar contra el mal.",
+        "all": "all"
+    },
+    {
+        "id": "747",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Superman II",
+        "anio": 1980,
+        "tiempo": "2h 08m",
+        "link": "0081573",
+        "descrip": "Tres criminales procedentes del planeta Krypton, a los que el padre de Superman condenó a vagar por el espacio, eluden su condena y llegan a la Tierra para enfrentarse a Superman en una batalla cósmica por la supremacía sobre el planeta. El superhéroe sigue ocultando su identidad tras la tímida personalidad del reportero Clark Kent, aunque su novia Lois Lane empieza a sospechar algo.",
+        "all": "all"
+    },
+    {
+        "id": "748",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Superman 3",
+        "anio": 1983,
+        "tiempo": "2h 05m",
+        "link": "0086393",
+        "descrip": "Superman tiene que enfrentarse con una máquina creada por un genio de los ordenadores llamado Gus Gorman, con un magnate megalómano que pretende transformar la Tierra y lo que es peor con un desdoblamiento de personalidad. Pero también habrá tiempo para que Clark Kent vuelva a Smallville para encontrarse con Lana Lang, su novia de la adolescencia.",
+        "all": "all"
+    },
+    {
+        "id": "749",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Superman 4",
+        "anio": 1987,
+        "tiempo": "1h 30m",
+        "link": "0094074",
+        "descrip": "Supermán ha decidido eliminar todas las armas nucleares de la Tierra estrellándolas contra el Sol. Pero Lex Luthor ha creado un doble del héroe que siembra el caos en todo el mundo. Además, la hija del dueño del periódico donde trabaja Clark Kent encuentra al joven tan atractivo que sólo contribuye a causarle más problemas.",
+        "all": "all"
+    },
+    {
+        "id": "750",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Superman II: The Richard Donner Cut",
+        "anio": 2006,
+        "tiempo": "1h 56m",
+        "link": "0839995",
+        "descrip": "Superman acepta sacrificar sus poderes para iniciar una relación con Lois Lane, sin saber que tres criminales kryptonianos que liberó inadvertidamente se han unido a Lex Luthor para conquistar la Tierra.",
+        "all": "all"
+    },
+    {
+        "id": "751",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Supergirl",
+        "anio": 1984,
+        "tiempo": "2h 05m",
+        "link": "0088206",
+        "descrip": "Supergirl, la prima de Superman, es destinada a la Tierra para recuperar el Omegaheadron, fuente de energía para salvar a Krypton. El objeto cae en manos de la bruja Selena, que quiere conquistar el mundo.",
+        "all": "all"
+    },
+    {
+        "id": "752",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Superman regresa",
+        "anio": 2006,
+        "tiempo": "2h 35m",
+        "link": "0348150",
+        "descrip": "Tras varios años de misteriosa ausencia, Supermán regresa a la Tierra, pero un viejo enemigo intenta arrebatarle sus poderes. Tratando de proteger al mundo de una destrucción masiva, Supermán emprende una aventura épica de redención que lo lleva desde las profundidades del océano a las regiones más remotas del espacio.",
         "all": "all"
     },
     {
@@ -7307,6 +7467,16 @@
         "tiempo": "1h 25m",
         "link": "0312004",
         "descrip": "Se acerca el Concurso Anual de Verduras Gigantes y se desata una auténtica 'vegetalmanía' en el pueblo donde residen Wallace y Gromit. Los dos amigos, tan emprendedores como siempre, se están haciendo de oro con su nuevo invento, el sistema 'Anti-Pesto', una forma humanitaria de controlar a los conejos que intentan invadir los preciados huertos. De pronto, todo se viene abajo cuando una enorme, misteriosa y voraz 'bestia' empieza a aterrorizar al vecindario, atacando los huertos de noche y destrozándolo todo a su paso.",
+        "all": "all"
+    },
+    {
+        "id": "753",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Watchmen: Los vigilantes",
+        "anio": 2009,
+        "tiempo": "3h 36m",
+        "link": "0409459",
+        "descrip": "Estados Unidos, años 80. La Guerra Fría está en su apogeo, y los superhéroes, que antes habían sido admirados, ahora son perseguidos por la ley. Un día aparece muerto uno de ellos, 'El Comediante', que trabajaba para la CIA. Su amigo Rorschach, el único héroe enmascarado en activo, emprenderá la investigación de su muerte, tras la que se oculta algo muy importante.",
         "all": "all"
     },
     {
