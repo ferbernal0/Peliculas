@@ -2500,6 +2500,86 @@
         "all": "all"
     },
     {
+        "id": "754",
+        "genero": "Comedia",
+        "titulo": "Jackass, la película",
+        "anio": 2002,
+        "tiempo": "1h 26m",
+        "link": "0322802",
+        "descrip": "Johnny Knoxville y sus amigos transladan la popular serie de TV 'Jackass' a la gran pantalla.",
+        "all": "all"
+    },
+    {
+        "id": "755",
+        "genero": "Comedia",
+        "titulo": "Jackass número dos",
+        "anio": 2006,
+        "tiempo": "1h 35m",
+        "link": "0493430",
+        "descrip": "Johnny Knoxville y sus amigos siguen con sus arriesgadas aventuras.",
+        "all": "all"
+    },
+    {
+        "id": "756",
+        "genero": "Comedia",
+        "titulo": "Jackass 2.5",
+        "anio": 2007,
+        "tiempo": "1h 05m",
+        "link": "1117523",
+        "descrip": "Nueva entrega de las aventuras de Johnny Knoxville y sus amigos.",
+        "all": "all"
+    },
+    {
+        "id": "757",
+        "genero": "Comedia",
+        "titulo": "Jackass 3D",
+        "anio": 2010,
+        "tiempo": "1h 34m",
+        "link": "1116184",
+        "descrip": "Johnny Knoxville y sus amigos se someten al peligro de forma voluntaria.",
+        "all": "all"
+    },
+    {
+        "id": "758",
+        "genero": "Comedia",
+        "titulo": "Jackass 3.5",
+        "anio": 2011,
+        "tiempo": "1h 25m",
+        "link": "1753968",
+        "descrip": "Nueva película de Jackass, con entrevistas y escenas eliminadas de Jackass 3D.",
+        "all": "all"
+    },
+    {
+        "id": "759",
+        "genero": "Comedia",
+        "titulo": "El abuelo sinvergüenza",
+        "anio": 2013,
+        "tiempo": "1h 43m",
+        "link": "3063516",
+        "descrip": "Historia sobre un malhumorado anciano de 86 años, Irving Zisman, al que inesperadamente le encasquetan a su nieto de 8 años Billy. Las dos generaciones de folloneros pronto se sienten muy unidos al comenzar un increíble viaje por el corazón de Norteamérica, haciendo un montón de jugarretas y gamberradas a gente desprevenida de la vida real, que no tenían ni la más remota idea de que estaban interviniendo en una comedia de cámara oculta.",
+        "all": "all"
+    },
+    {
+        "id": "760",
+        "genero": "Comedia",
+        "titulo": "El abuelo sinvergüenza .5",
+        "anio": 2014,
+        "tiempo": "1h 27m",
+        "link": "3766424",
+        "descrip": "Versión de 'El abuelo sinvergüenza' que incluye más de 40 minutos de tomas falsas y entrevistas adicionales.",
+        "all": "all"
+    },
+    {
+        "id": "761",
+        "genero": "Comedia",
+        "titulo": "Jackass por siempre",
+        "anio": 2022,
+        "tiempo": "1h 37m",
+        "link": "11466222",
+        "descrip": "El equipo de Jackass ha vuelto para su cruzada final. Johnny Knoxville, Steve-O y el resto de la pandilla regresan para otra ronda de divertidas, salvajemente absurdas y a menudo, peligrosos retos.",
+        "all": "all"
+    },
+    {
         "id": "239",
         "genero": "Accion",
         "titulo": "El satánico Dr. No",
