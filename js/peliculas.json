@@ -260,16 +260,6 @@
         "all": "all"
     },
     {
-        "id": "025",
-        "genero": "Thriller",
-        "titulo": "Asesinato en el Expreso de Oriente",
-        "anio": 2017,
-        "tiempo": "1h 54m",
-        "link": "3402236",
-        "descrip": "Durante un viaje en el legendario tren Orient Express, el detective belga Hercules Poirot investiga un asesinato cometido en el trayecto, y a resultas del cual todos los pasajeros del tren son sospechosos del mismo.",
-        "all": "all"
-    },
-    {
         "id": "026",
         "genero": "Accion",
         "titulo": "Asesinos de élite",
@@ -2247,6 +2237,26 @@
         "tiempo": "1h 34m",
         "link": "0119282",
         "descrip": "Hércules, el hijo de Zeus y de Alcmena, reina de Tebas, es secuestrado del Olimpo por los secuaces de Hades, que tienen la misión de despojarlo de su inmortalidad. Hércules crecerá en un mundo de mortales hasta que le llegue la hora de regresar al Olimpo.",
+        "all": "all"
+    },
+    {
+        "id": "025",
+        "genero": "Thriller",
+        "titulo": "Asesinato en el Expreso de Oriente",
+        "anio": 2017,
+        "tiempo": "1h 54m",
+        "link": "3402236",
+        "descrip": "Durante un viaje en el legendario tren Orient Express, el detective belga Hercules Poirot investiga un asesinato cometido en el trayecto, y a resultas del cual todos los pasajeros del tren son sospechosos del mismo.",
+        "all": "all"
+    },
+    {
+        "id": "177",
+        "genero": "Thriller",
+        "titulo": "Muerte en el Nilo",
+        "anio": 2022,
+        "tiempo": "2h 07m",
+        "link": "7657566",
+        "descrip": "Las vacaciones egipcias del detective belga Hércules Poirot, a bordo de un glamuroso barco de vapor, se ven alteradas por la búsqueda de un asesino cuando la idílica luna de miel de una pareja perfecta se ve truncada de la forma más trágica.",
         "all": "all"
     },
     {
