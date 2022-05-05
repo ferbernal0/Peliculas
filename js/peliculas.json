@@ -230,6 +230,16 @@
         "all": "all"
     },
     {
+        "id": "767",
+        "genero": "Accion",
+        "titulo": "Ambulancia",
+        "anio": 2022,
+        "tiempo": "2h 17m",
+        "link": "4998632",
+        "descrip": "El veterano Will Sharp, en un acto desesperado por conseguir dinero para cubrir las deudas médicas de su esposa, recurre a la única persona que sabe que no debería, su hermano adoptivo Danny. Danny le ofrece participar en un robo a un banco, el más grande en la historia de la ciudad. Will no puede decir que no. Cuando su intento de escape sale mal, los hermanos secuestran una ambulancia con un policía herido y una paramédica. Ahora deberán huir de un inmenso dispositivo de fuerzas de seguridad desplegado por toda la ciudad, mantener a sus rehenes con vida y de alguna forma tratar de no matarse entre ellos.",
+        "all": "all"
+    },
+    {
         "id": "022",
         "genero": "Thriller",
         "titulo": "Animales nocturnos",
@@ -1137,6 +1147,16 @@
         "tiempo": "2h 13m",
         "link": "0070047",
         "descrip": "Adaptación de la novela de William Peter Blatty que se inspiró en un exorcismo real ocurrido en Washington en 1949. Regan, una niña de doce años, es víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste, convencido de que el mal no es físico sino espiritual, es decir que se trata de una posesión diabólica, decide practicar un exorcismo. Seguramente la película de terror más popular de todos los tiempos.",
+        "all": "all"
+    },
+    {
+        "id": "768",
+        "genero": "Thriller",
+        "titulo": "El experimento",
+        "anio": 2001,
+        "tiempo": "1h 59m",
+        "link": "0250258",
+        "descrip": "Llegaron a una cárcel ficticia buscando una forma rápida de ganar dinero fácil. Ahora sólo buscan la manera de sobrevivir. Todo empezó como un experimento científico protagonizado durante dos semanas por veinte hombres que cobrarían por su colaboración 4.000 marcos. El proyecto consistía en estudiar el comportamiento agresivo en un ambiente carcelario simulado. A los participantes se les asigna el papel de guardianes (ocho) o prisioneros (doce). Los prisioneros deben obedecer las órdenes, y los guardias deben mantener el orden. Pero dar a un hombre un poco de poder puede tener consecuencias insospechadas...",
         "all": "all"
     },
     {
