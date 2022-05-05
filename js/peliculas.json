@@ -4096,7 +4096,17 @@
         "anio": 2007,
         "tiempo": "1h 27m",
         "link": "0462538",
-        "descrip": "Homer debe salvar al mundo de una catástrofe que él mismo ha provocado. Todo comienza con Homero, su nueva mascota, un cerdo, y un silo lleno de excrementos que tiene una fuga, una combinación que desencadena un desastre distinto a todo lo que Springfield haya experimentado jamás. Mientras Marge está indignada por la monumental metedura de pata de su patán marido, una turba vengativa cae sobre el hogar de los Simpson...",
+        "descrip": "Homero debe salvar al mundo de una catástrofe que él mismo ha provocado. Todo comienza con Homero, su nueva mascota, un cerdo, y un silo lleno de excrementos que tiene una fuga, una combinación que desencadena un desastre distinto a todo lo que Springfield haya experimentado jamás. Mientras Marge está indignada por la monumental metedura de pata de su patán marido, una turba vengativa cae sobre el hogar de los Simpson...",
+        "all": "all"
+    },
+    {
+        "id": "765",
+        "genero": "Infantil",
+        "titulo": "Los tipos malos",
+        "anio": 2022,
+        "tiempo": "1h 41m",
+        "link": "8115900",
+        "descrip": "El señor Lobo, el señor Serpiente, el señor Piraña, el señor Tiburón y la señorita Tarántula tienen que fingir que se han convertido en chicos buenos para evitar ir a la cárcel. Conseguirlo se convierte en el mayor reto de sus carreras delictivas.",
         "all": "all"
     },
     {
@@ -4756,7 +4766,17 @@
         "anio": 2021,
         "tiempo": "2h 29m",
         "link": "10872600",
-        "descrip": "Por primera vez en la historia cinematográfica de Spider-Man, nuestro héroe, vecino y amigo es desenmascarado, y por tanto, ya no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un superhéroe. Cuando pide ayuda al Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser él.",
+        "descrip": "Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter decide pedirle ayuda a Dr. Strange para recuperar su vida. Pero algo sale mal y provoca una fractura en el multiverso.",
+        "all": "all"
+    },
+    {
+        "id": "766",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Doctor Strange en el multiverso de la locura",
+        "anio": 2022,
+        "tiempo": "2h 06m",
+        "link": "9419884",
+        "descrip": "El Dr. Stephen Strange abre un portal al multiverso al utilizar un hechizo prohibido. Ahora su equipo debe enfrentarse a una amenaza enorme.",
         "all": "all"
     },
     {
@@ -6317,6 +6337,26 @@
         "tiempo": "1h 58m",
         "link": "10409498",
         "descrip": "Una mujer desaparece. Después de una tormenta de nieve, su coche es descubierto en una carretera en dirección a un pueblo remoto. Mientras que la policía no sabe por dónde empezar a investigar, cinco personas parecen estar ligadas a la desaparición. Y cada una de estas personas tiene su propio secreto que ocultar.",
+        "all": "all"
+    },
+    {
+        "id": "763",
+        "genero": "Infantil",
+        "titulo": "Sonic: La película",
+        "anio": 2020,
+        "tiempo": "1h 40m",
+        "link": "3794354",
+        "descrip": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski. Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik, que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
+        "all": "all"
+    },
+    {
+        "id": "764",
+        "genero": "Infantil",
+        "titulo": "Sonic 2: La película",
+        "anio": 2022,
+        "tiempo": "2h 03m",
+        "link": "12412888",
+        "descrip": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
         "all": "all"
     },
     {
