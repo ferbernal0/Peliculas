@@ -4820,6 +4820,16 @@
         "all": "all"
     },
     {
+        "id": "769",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Morbius",
+        "anio": 2022,
+        "tiempo": "1h 45m",
+        "link": "5108870",
+        "descrip": "El Doctor Michael Morbius es un bioquímico que sufre una extraña enfermedad en la sangre. Al intentar curarse y dar una respuesta a su trastorno se infecta sin darse cuenta con una forma de vampirismo. Tras la cura, Michael se siente más vivo que nunca y adquiere varios dones como fuerza y velocidad, además de una necesidad irresistible de consumir sangre. Trágicamente convertido en un imperfecto antihéroe, el Doctor Morbius tendrá una última oportunidad, pero sin saber a qué precio.",
+        "all": "all"
+    },
+    {
         "id": "643",
         "genero": "Ciencia-Ficcion",
         "titulo": "X-Men",
@@ -7197,6 +7207,16 @@
         "tiempo": "2h 14m",
         "link": "4123430",
         "descrip": "Cumpliendo con su amenaza, Grindelwald escapa de su custodia y ha comenzado a reunir seguidores, la mayoría de los cuales no sospechan sus verdaderas intenciones: alzar a los magos purasangre para reinar sobre todas las criaturas no mágicas. En un esfuerzo por frustrar los planes de Grindelwald, Albus Dumbledore recluta a su antiguo estudiante Newt Scamander, quien accede a prestar su ayuda, sin conocer los peligros que aguardan. Las líneas quedan marcadas mientras el amor y la lealtad son puestos a prueba, incluso entre los amigos más cercanos y la familia, en un mundo mágico cada vez más dividido.",
+        "all": "all"
+    },
+    {
+        "id": "770",
+        "genero": "Fantasia",
+        "titulo": "Animales fantásticos: Los secretos de Dumbledore",
+        "anio": 2022,
+        "tiempo": "2h 23m",
+        "link": "4123432",
+        "descrip": "El profesor Albus Dumbledore sabe que el poderoso mago oscuro Gellert Grindelwald está haciendo planes para apoderarse del mundo mágico. Incapaz de detenerlo él solo, confía en el Magizoólogo Newt Scamander para dirigir un intrépido equipo de magos, brujas y un valiente panadero Muggle en una misión peligrosa, donde se encuentran con antiguos y nuevos animales y se enfrentan a una legión cada vez más numerosa de seguidores de Grindelwald. Hay mucho en juego así que nos preguntamos hasta cuándo podrá permanecer Dumbledore al margen.",
         "all": "all"
     },
     {
