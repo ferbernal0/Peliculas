@@ -1540,6 +1540,16 @@
         "all": "all"
     },
     {
+        "id": "777",
+        "genero": "Comedia",
+        "titulo": "El peso del talento",
+        "anio": 2022,
+        "tiempo": "1h 47m",
+        "link": "11291274",
+        "descrip": "Al enfrentarse a serios problemas financieros, el actor Nick Cage acepta asistir a la fiesta de cumpleaños de una acaudalada fanática. Sin embargo, descubre que debe encarnar de nuevo a sus personajes de ficción más célebres para salvar la vida.",
+        "all": "all"
+    },
+    {
         "id": "148",
         "genero": "Drama",
         "titulo": "El pianista",
@@ -1860,6 +1870,26 @@
         "all": "all"
     },
     {
+        "id": "772",
+        "genero": "Comedia",
+        "titulo": "Escalofríos",
+        "anio": 2015,
+        "tiempo": "1h 44m",
+        "link": "1051904",
+        "descrip": "El adolescente Zach Cooper se muda sin muchas ganas con su familia desde Nueva York al pequeño pueblo de Greendale. Allí encuentra un resquicio de ilusión cuando conoce a su vecina, la guapa Hannah, y hace un amigo: Champ. También se entera de que el padre de Hannah es RL Stine, autor del Bestseller de la serie 'Pesadillas'. Pero Zach descubre que Stine tiene un secreto: las criaturas de sus historias son reales, y las mantiene encerradas en sus libros.",
+        "all": "all"
+    },
+    {
+        "id": "773",
+        "genero": "Comedia",
+        "titulo": "Escalofríos 2: Una noche embrujada",
+        "anio": 2018,
+        "tiempo": "1h 30m",
+        "link": "5664636",
+        "descrip": "Dos niños, Sonny y Sam, conocen a Slappy, un maniquí malvado que resucita a sus amigos monstruos en Halloween. Con la ayuda de la mamá de Sonny, los niños intentan evitar que la invasión de monstruos destruya su pueblo.",
+        "all": "all"
+    },
+    {
         "id": "183",
         "genero": "Crimen",
         "titulo": "Escándalo americano",
@@ -1887,6 +1917,16 @@
         "tiempo": "1h 40m",
         "link": "7740510",
         "descrip": "En Antlers, una pequeña ciudad de Oregón, una profesora y su hermano, el sheriff de la localidad, se empiezan a interesar por un estudiante misterioso y distante. A medida que se van conociendo, descubren que el joven esconde un peligroso secreto que podría tener consecuencias fatales.",
+        "all": "all"
+    },
+    {
+        "id": "776",
+        "genero": "Horror",
+        "titulo": "Estigma",
+        "anio": 1999,
+        "tiempo": "1h 43m",
+        "link": "0145531",
+        "descrip": "La joven Frankie Paige empieza a mostrar misteriosos estigmas tras enviarle su madre desde Brasil un crucifijo. Para que se ocupe del asunto, el Vaticano envía al padre Andrew Kiernan, un sacerdote experto en investigar milagros y que ya había analizado en Brasil el caso de una imagen religiosa que llora lágrimas de sangre.",
         "all": "all"
     },
     {
@@ -2250,6 +2290,16 @@
         "all": "all"
     },
     {
+        "id": "774",
+        "genero": "Horror",
+        "titulo": "Hell House LLC",
+        "anio": 2015,
+        "tiempo": "1h 39m",
+        "link": "4267026",
+        "descrip": "Cinco años después de que un inexplicable mal funcionamiento provocara la muerte de 15 visitantes y el personal de una casa del terror de Halloween en su primera noche, un grupo de documentalistas viajan al sitio de la tragedia a tratar de entender lo que realmente sucedió.",
+        "all": "all"
+    },
+    {
         "id": "220",
         "genero": "Infantil",
         "titulo": "Hércules",
@@ -2607,6 +2657,16 @@
         "tiempo": "1h 37m",
         "link": "11466222",
         "descrip": "El equipo de Jackass ha vuelto para su cruzada final. Johnny Knoxville, Steve-O y el resto de la pandilla regresan para otra ronda de divertidas, salvajemente absurdas y a menudo, peligrosos retos.",
+        "all": "all"
+    },
+    {
+        "id": "771",
+        "genero": "Comedia",
+        "titulo": "Jackass 4.5",
+        "anio": 2022,
+        "tiempo": "1h 31m",
+        "link": "18258584",
+        "descrip": "Película que consta de detrás de escenas, imágenes sin usar, tomas descartadas y entrevistas con el elenco y los miembros del equipo de 'Jackass Forever'.",
         "all": "all"
     },
     {
@@ -3247,6 +3307,16 @@
         "tiempo": "1h 55m",
         "link": "0947810",
         "descrip": "En 2003, durante la ocupación de Bagdad por tropas estadounidenses, al oficial Roy Miller y a su equipo les encargan la misión de buscar armas de destrucción masiva. Registran escondite tras escondite, a cual más peligroso, pero en vez de letales agentes químicos, descubren un elaborado plan que cambia el rumbo de su misión. Rodeado de agentes con objetivos contradictorios, Miller intenta averiguar la verdad a partir de una maraña de informaciones confusas.",
+        "all": "all"
+    },
+    {
+        "id": "775",
+        "genero": "Comedia",
+        "titulo": "La ciudad perdida",
+        "anio": 2022,
+        "tiempo": "1h 52m",
+        "link": "13320622",
+        "descrip": "La escritora solitaria Loretta Sage escribe sobre lugares exóticos en sus populares novelas de aventuras con un atractivo modelo de portada, Alan. Mientras está de gira promocionando su nuevo libro, es secuestrada por un excéntrico multimillonario.",
         "all": "all"
     },
     {
@@ -6384,7 +6454,7 @@
         "genero": "Infantil",
         "titulo": "Sonic 2: La película",
         "anio": 2022,
-        "tiempo": "2h 03m",
+        "tiempo": "2h 04m",
         "link": "12412888",
         "descrip": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
         "all": "all"
