@@ -650,6 +650,16 @@
         "all": "all"
     },
     {
+        "id": "778",
+        "genero": "Infantil",
+        "titulo": "Chip y Dale: Al rescate",
+        "anio": 2022,
+        "tiempo": "1h 37m",
+        "link": "3513500",
+        "descrip": "Chip y Dale viven entre dibujos animados y humanos en la actual Los Ángeles, pero ahora sus vidas son bastante diferentes. Cuando un antiguo compañero de reparto desaparece misteriosamente, ambos deben reparar su amistad rota y salvar a su amigo.",
+        "all": "all"
+    },
+    {
         "id": "061",
         "genero": "Infantil",
         "titulo": "Cigüeñas: La historia que no te contaron",
@@ -877,6 +887,16 @@
         "tiempo": "1h 13m",
         "link": "0039404",
         "descrip": "El noveno clásico Disney está lleno de magia, aventura y divertidas canciones. Es el único en el que participan tus personajes favoritos: Mickey Mouse, el Pato Donald, Goofy y Pepito Grillo.",
+        "all": "all"
+    },
+    {
+        "id": "780",
+        "genero": "Comedia",
+        "titulo": "Dog: Un viaje salvaje",
+        "anio": 2022,
+        "tiempo": "1h 42m",
+        "link": "11252248",
+        "descrip": "Un miembro del Ejército, junto a una perra llamada Lulu, recorre la costa del Pacífico para llegar al funeral de un soldado. En el camino, él y Lulu rompen un montón de leyes y ponen en peligro sus vidas.",
         "all": "all"
     },
     {
@@ -3120,6 +3140,16 @@
         "all": "all"
     },
     {
+        "id": "782",
+        "genero": "Ciencia-Ficcion",
+        "titulo": "Jurassic World: Dominio",
+        "anio": 2022,
+        "tiempo": "2h 27m",
+        "link": "8041270",
+        "descrip": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios ahora conviven (y cazan) con los seres humanos en todo el mundo. Este frágil equilibrio remodelará el futuro y determinará, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.",
+        "all": "all"
+    },
+    {
         "id": "282",
         "genero": "Crimen",
         "titulo": "Justicia brutal",
@@ -3127,6 +3157,16 @@
         "tiempo": "2h 39m",
         "link": "6491178",
         "descrip": "Dos policías, un veterano del cuerpo y su joven compañero, son suspendidos cuando un vídeo de sus duras tácticas de detención de delincuentes se convierte en la noticia del día en los medios de comunicación. Ambos con problemas personales que podrían solucionarse con dinero, deciden aprovechar su condición de civiles para hacer algo al margen de la ley.",
+        "all": "all"
+    },
+    {
+        "id": "781",
+        "genero": "Comedia",
+        "titulo": "King: Regreso a casa",
+        "anio": 2022,
+        "tiempo": "1h 40m",
+        "link": "14073780",
+        "descrip": "King es un cachorro de león traficado que escapa del aeropuerto en pleno tránsito y encuentra refugio en la casa de Inés y Alex, de 12 y 15 años. A los hermanos se les ocurre un insólito plan: llevar a King de regreso a África. Desafortunadamente, los agentes de aduanas que los persiguen no facilitan su misión.",
         "all": "all"
     },
     {
@@ -3907,6 +3947,16 @@
         "tiempo": "2h 02m",
         "link": "6679794",
         "descrip": "Escocia, año 1304. Tras la ejecución de William Wallace, obligado a entrar en batalla para salvar a su familia, su gente y su país de la tiránica ocupación inglesa, Robert the Bruce se apodera de la corona de la Escocia medieval y lidera a un grupo de hombres insurgentes para enfrentar la ira del ejército más fuerte del mundo conducido por el despiadado rey Eduardo I y su débil hijo, el príncipe de Gales.",
+        "all": "all"
+    },
+    {
+        "id": "779",
+        "genero": "Infantil",
+        "titulo": "Lightyear",
+        "anio": 2022,
+        "tiempo": "1h 46m",
+        "link": "10298810",
+        "descrip": "Buzz Lightyear se embarca en una aventura intergaláctica con un grupo de reclutas ambiciosos y su compañero robot.",
         "all": "all"
     },
     {
@@ -4864,7 +4914,7 @@
         "genero": "Ciencia-Ficcion",
         "titulo": "Doctor Strange en el multiverso de la locura",
         "anio": 2022,
-        "tiempo": "2h 06m",
+        "tiempo": "2h 07m",
         "link": "9419884",
         "descrip": "El Dr. Stephen Strange abre un portal al multiverso al utilizar un hechizo prohibido. Ahora su equipo debe enfrentarse a una amenaza enorme.",
         "all": "all"
