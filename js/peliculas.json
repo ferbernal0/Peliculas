@@ -1560,16 +1560,6 @@
         "all": "all"
     },
     {
-        "id": "777",
-        "genero": "Comedia",
-        "titulo": "El peso del talento",
-        "anio": 2022,
-        "tiempo": "1h 47m",
-        "link": "11291274",
-        "descrip": "Al enfrentarse a serios problemas financieros, el actor Nick Cage acepta asistir a la fiesta de cumpleaños de una acaudalada fanática. Sin embargo, descubre que debe encarnar de nuevo a sus personajes de ficción más célebres para salvar la vida.",
-        "all": "all"
-    },
-    {
         "id": "148",
         "genero": "Drama",
         "titulo": "El pianista",
@@ -3140,11 +3130,11 @@
         "all": "all"
     },
     {
-        "id": "782",
+        "id": "775",
         "genero": "Ciencia-Ficcion",
         "titulo": "Jurassic World: Dominio",
         "anio": 2022,
-        "tiempo": "2h 27m",
+        "tiempo": "2h 41m",
         "link": "8041270",
         "descrip": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios ahora conviven (y cazan) con los seres humanos en todo el mundo. Este frágil equilibrio remodelará el futuro y determinará, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.",
         "all": "all"
@@ -3347,16 +3337,6 @@
         "tiempo": "1h 55m",
         "link": "0947810",
         "descrip": "En 2003, durante la ocupación de Bagdad por tropas estadounidenses, al oficial Roy Miller y a su equipo les encargan la misión de buscar armas de destrucción masiva. Registran escondite tras escondite, a cual más peligroso, pero en vez de letales agentes químicos, descubren un elaborado plan que cambia el rumbo de su misión. Rodeado de agentes con objetivos contradictorios, Miller intenta averiguar la verdad a partir de una maraña de informaciones confusas.",
-        "all": "all"
-    },
-    {
-        "id": "775",
-        "genero": "Comedia",
-        "titulo": "La ciudad perdida",
-        "anio": 2022,
-        "tiempo": "1h 52m",
-        "link": "13320622",
-        "descrip": "La escritora solitaria Loretta Sage escribe sobre lugares exóticos en sus populares novelas de aventuras con un atractivo modelo de portada, Alan. Mientras está de gira promocionando su nuevo libro, es secuestrada por un excéntrico multimillonario.",
         "all": "all"
     },
     {
@@ -5196,7 +5176,17 @@
         "anio": 2015,
         "tiempo": "1h 31m",
         "link": "2293640",
-        "descrip": "La historia de Los Minions se remonta al principio de los tiempos. Empezaron siendo organismos amarillos unicelulares que evolucionaron a través del tiempo, poniéndose siempre al servicio de los amos más despreciables. Ante su incapacidad para mantener a esos amos, los Minions acaban encontrándose solos y caen en una profunda depresión. Sin embargo, uno de ellos, llamado Kevin, tiene un plan. Acompañado por el rebelde Stuart y el adorable Bob, emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill. Pasarán de la helada Antártida, a la ciudad de Nueva York en los años sesenta, para acabar en el Londres de la misma época, donde deberán enfrentarse al mayor reto hasta la fecha: salvar a la raza Minion de la aniquilación.",
+        "descrip": "Los minions, ingenuos y torpes, buscan un verdadero villano al que servir. A lo largo de una evolución de millones de años, los minions se han puesto al servicio de los amos más despreciables. Kevin, acompañado por el rebelde Stuart y el adorable Bob, emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill.",
+        "all": "all"
+    },
+    {
+        "id": "777",
+        "genero": "Infantil",
+        "titulo": "Minions: Nace un villano",
+        "anio": 2022,
+        "tiempo": "1h 28m",
+        "link": "5113044",
+        "descrip": "En los años 70, Gru crece siendo un gran admirador de 'Los salvajes seis', un supergrupo de villanos. Para demostrarles que puede ser malvado, diseña un plan con la esperanza de formar parte de la banda.",
         "all": "all"
     },
     {
